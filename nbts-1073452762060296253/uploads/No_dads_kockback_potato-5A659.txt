@@ -1,0 +1,1 @@
+{Count:1b,Damage:0s,Name:"minecraft:potato",WasPickedUp:0b,tag:{ench:[{id:12s,lvl:5000s}],display:{Lore:["potato"],Name:"Â§1==Â§ op potatoÂ§1=="}}

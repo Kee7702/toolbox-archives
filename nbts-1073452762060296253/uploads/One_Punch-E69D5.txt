@@ -1,0 +1,1 @@
+{Count:1b,tag:{ench:[{id:9s,lvl:32767s},{id:12s,lvl:4s}],RepairCost:0,Unbreakable:1b,Damage:1,"minecraft:keep_on_death":1b,display:{Name:"§4§oOne Punch Man"}},Damage:1s,WasPickedUp:0b,Name:"minecraft:sparkler"}

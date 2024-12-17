@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:respawn_anchor",version:17825806,states:{respawn_anchor_charge:4}},Count:64b,Damage:0s,WasPickedUp:0b,Name:"minecraft:respawn_anchor"}

@@ -1,0 +1,1 @@
+{tag:{Damage:0,chargedItem:{tag:{Fireworks:{Explosions:[{FireworkFlicker:1b,FireworkTrail:1b,FireworkColor:[B;15b,15b,15b,15b,10b,15b,15b],FireworkFade:[B;],FireworkType:0b},{Invulnerable:0b}],Flight:0b,Invulnerable:0b},Invulnerable:0b},Count:99b,Damage:0s,Name:"minecraft:fireworks"}},Count:1b,Damage:0s,Name:"minecraft:crossbow"}

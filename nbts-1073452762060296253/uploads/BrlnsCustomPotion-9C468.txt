@@ -1,0 +1,1 @@
+{Count:10b,tag:{CustomPotionEffects:[{Duration:100000,Id:10,Amplifier:100},{Duration:100000,Id:3,Amplifier:100},{Duration:100000,Id:11,Amplifier:255},{Duration:100000,Id:21,Amplifier:255}],dtrs:1b,display:{Name:"God Potion By IloveBrlns"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:splash_potion"}

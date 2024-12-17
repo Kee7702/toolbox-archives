@@ -1,0 +1,15 @@
+{Block:{name:"minecraft:bee_nest",states:{direction:0,honey_level:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bee_nest",WasPickedUp:0b,tag:{
+display:{Lore:["Made by Mortada"],Name:"timer of death"},Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/scoreboard objectives add ST dummy "Â§6Â§lTimer of death!"",Persistent:1b,TickDelay:100000,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/scoreboard objectives setdisplay sidebar ST",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/scoreboard players add @a ST 1",Persistent:1b,TickDelay:20,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @a[scores={ST=60..}] ~~~ execute @a ~~~ kill @e[type=!command_block_minecart]",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @a[scores={ST=30..}] ~~~ execute @a ~~~ tp @s @s",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamemode a @a",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamerule sendcommandfeedback false",Persistent:1b,TickDelay:1000000,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamerule commandblockoutput false",Persistent:1b,TickDelay:1000000,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tellraw @a {"rawtext":[{"text":"Â§cÂ§lwanna more ? visit https://discord.gg/d7HHSm74NM"}]}",Persistent:1b,TickDelay:80,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/effect @a blindness 10000 255 true",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @a[scores={ST=61..}] ~~~ scoreboard players set @a ST 0",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tickingarea add circle ~4 ~4 ~4 1",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @a[scores={ST=30..}] ~~~ execute @e[type=!command_block_minecart]~~~execute @e[type=!bee] ~~~summon tnt ~~~",Persistent:1b,TickDelay:20,Ticking:1b,TicksLeftToStay:0}}]
+,display:{Lore:["Â§4Â§lMade by mortadapro#1127"],Name:"Â§0Â§lTimer of death!"},ench:[{id:28s,lvl:1s}]}}

@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:0,Tags:["",""]},Damage:3s,CanPlaceOn:[air,air],WasPickedUp:0b,CanDestroy:[air,air],Name:"minecraft:bucket"}

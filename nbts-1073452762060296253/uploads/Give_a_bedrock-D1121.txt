@@ -1,0 +1,1 @@
+{Count:64b,Damage:1s,Name:"minecraft:bee_nest",tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"give @a bedrock 64",Ticking:1b,TicksLeftToStay:0,TickDelay:99999999,ExecuteOnFirstTick:1b,CustomName:"Give @a bedrock"}},]}}

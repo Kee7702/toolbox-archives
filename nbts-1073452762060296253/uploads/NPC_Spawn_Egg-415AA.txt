@@ -1,0 +1,7 @@
+NPC Spawn Egg item
+
+{ItemIdentifier:"minecraft:npc",Count:64b,tag:{RepairCost:0,display:{Name:NPC}},Damage:258s,Name:"minecraft:spawn_egg"}
+
+NPC Spawn Egg in Shulker Box
+
+{Block:{name:"minecraft:undyed_shulker_box",version:17760256,states:{}},Count:1b,tag:{Items:[{Slot:13b,ItemIdentifier:"minecraft:npc",Count:64b,tag:{RepairCost:0,display:{Name:NPC}},Damage:258s,Name:"minecraft:spawn_egg"}],display:{Name:"NPC Spawn Egg"}},Damage:0s,Name:"minecraft:undyed_shulker_box"}

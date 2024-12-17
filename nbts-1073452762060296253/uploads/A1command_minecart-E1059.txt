@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:100,LastOutputParams:["lmao hacking"],CustomName:bob,Command:"say lol",ExecuteOnFirstTick:1b,TickDelay:20,id:CommandBlock,LastOutput:"commands.generic.syntax",definitions:["+minecraft:minecart"]},Damage:3s,Name:"minecraft:bucket"}

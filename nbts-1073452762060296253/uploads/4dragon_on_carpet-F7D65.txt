@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:movingBlock",version:17825808,states:{}},Count:64b,tag:{movingBlock:{name:"minecraft:carpet"},movingBlockExtra:{name:"minecraft:dragon_egg"},display:{Name:"§0dragon §5egg §7on §8carpet"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:movingblock"}

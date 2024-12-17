@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:91,direction:[0.0f,0.0f,0.0f]},Damage:5s,Name:"minecraft:bucket"}

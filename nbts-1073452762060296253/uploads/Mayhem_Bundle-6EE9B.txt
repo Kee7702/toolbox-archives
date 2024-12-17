@@ -1,0 +1,2959 @@
+{Block:{name:"minecraft:moving_block",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:moving_block",WasPickedUp:0b,tag:{display:{Lore:["     Â§6Â§lKing Bob"],Name:"Â§rÂ§0   ã€ Â§lÂ§4ã„’Â§che Â§4çˆªÂ§cayhem Â§4á¯Â§cillagerÂ§0 ã€‘"},ench:[{id:28s,lvl:10s}],movingBlock:{name:"minecraft:bee_nest"},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:villager_v2<>",SaveData:{Attributes:[{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:20f,Current:20f,DefaultMax:20f,DefaultMin:0f,Max:20f,Min:0f,Name:"minecraft:health"},{Base:1e+38f,Current:1e+38f,DefaultMax:1e+38f,DefaultMin:1e+38f,Max:1e+38f,Min:1e+38f,Name:"minecraft:absorption"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0.5f,Current:0.5f,DefaultMax:3.40282e+38f,DefaultMin:0f,Max:3.40282e+38f,Min:0f,Name:"minecraft:movement"},{Base:0.02f,Current:0.02f,DefaultMax:3.40282e+38f,DefaultMin:0f,Max:3.40282e+38f,Min:0f,Name:"minecraft:underwater_movement"},{Base:0.02f,Current:0.02f,DefaultMax:3.40282e+38f,DefaultMin:0f,Max:3.40282e+38f,Min:0f,Name:"minecraft:lava_movement"},{Base:128f,Current:128f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"}],DwellingUniqueID:"fbc62ea2-9403-44e9-866e-24fb6a8ebee5",InventoryVersion:"1.18.1",Invulnerable:1b,Offers:{Recipes:[{buyA:{Block:{name:"minecraft:dirt",states:{dirt_type:"normal"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:dirt",WasPickedUp:0b},buyCountA:1,buyCountB:0,demand:0,maxUses:4500,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:1b,sell:{Block:{name:"minecraft:double_plant",states:{double_plant_type:"sunflower",upper_block_bit:0b},version:17959425},Count:2b,Damage:0s,Name:"minecraft:double_plant",WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"î„‚"},minecraft:keep_on_death:1b}},traderExp:2,uses:0},{buyA:{Block:{name:"minecraft:double_plant",states:{double_plant_type:"sunflower",upper_block_bit:0b},version:17959425},Count:2b,Damage:0s,Name:"minecraft:double_plant",WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"î„‚"},minecraft:keep_on_death:1b}},buyCountA:1,buyCountB:0,demand:0,maxUses:4500,priceMultiplierA:0f,priceMultiplierB:0f,rewardExp:1b,sell:{Block:{name:"minecraft:chest",states:{facing_direction:3},version:17959425},Count:1b,Damage:0s,Name:"minecraft:chest",WasPickedUp:0b,tag:{CustomName:"Â§rÂ§0      ã€ Â§lÂ§4ã„’Â§che Â§4çˆªÂ§cayhem Â§4â¼•Â§chest Â§0 ã€‘",Findable:0b,Items:[{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:0b,WasPickedUp:0b,tag:{Damage:1,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:1b,WasPickedUp:0b,tag:{Damage:35,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:2b,WasPickedUp:0b,tag:{Damage:60,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:3b,WasPickedUp:0b,tag:{Damage:69,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:4b,WasPickedUp:0b,tag:{Damage:90,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:5b,WasPickedUp:0b,tag:{Damage:69,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:6b,WasPickedUp:0b,tag:{Damage:60,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:7b,WasPickedUp:0b,tag:{Damage:35,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:8b,WasPickedUp:0b,tag:{Damage:1,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:9b,WasPickedUp:0b,tag:{Damage:1,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:10b,WasPickedUp:0b,tag:{Damage:35,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:11b,WasPickedUp:0b,tag:{Damage:60,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Block:{name:"minecraft:moving_block",states:{},version:17959425},CanPlaceOn:["minecraft:dirt","minecraft:end_stone","minecraft:grass","minecraft:stone","minecraft:sand","minecraft:netherrack"],Count:1b,Damage:0s,Name:"minecraft:moving_block",Slot:12b,WasPickedUp:0b,tag:{display:{Lore:["------------------------
+Â§rÂ§bHope you enjoy!Â§5
+------------------------"],Name:"Â§rÂ§0   ã€ Â§lÂ§4ã„’Â§che Â§4çˆªÂ§cayhem Â§4ä¹ƒÂ§cundle Â§4å°¸Â§cart Â§fâ‘ Â§0 ã€‘"},ench:[{id:5s,lvl:-1s},{id:28s,lvl:-69s},{id:27s,lvl:420s}],minecraft:keep_on_death:1b,movingBlock:{name:"minecraft:underwater_torch",states:{growth:4}},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:chest_minecart<>",SaveData:{Actions:"[
+   {
+"button_name" : "âˆ°Â§lÂ§bï¼¥ï¼¸ï¼£ï¼¡ï¼¶ï¼¡ï¼´ï¼¥Â§râˆ°",
+      "data" : [
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~20 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~17 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~16 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~15 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~14 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~13 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~12 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~11 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~10 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~9 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~8 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~7 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~6 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~5 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~4 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~3 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~2 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~1 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~ ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-1 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-2 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-3 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute  @e[rm=100] ~ ~-4 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute  @e[rm=100] ~ ~-5 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-6 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-7 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-8 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-9 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-10 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-11 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-12 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-13 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-14 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-15 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-16 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-17 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-20 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-21 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-22 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-23 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-24 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-25 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-26 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-27 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-28 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-29 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-30 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-31 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-32 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-33 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-34 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-35 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-35 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-36 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-37 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-38 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-39 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-40 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-41 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-42 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-43 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-44 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-45 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-46 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-47 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-48 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-49 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-50 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-51 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-52 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-53 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-54 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-55 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-56 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-57 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-58 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-59 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-60 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "âˆ°Â§cÂ§lï¼«ï¼©ï¼¬ï¼¬ ï¼¡ï¼¬ï¼¬Â§râˆ°",
+      "data" : [
+         {
+            "cmd_line" : "/kill @e[rm=15]", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "âˆ°Â§5Â§lï¼´ï¼²ï¼¡ï¼° ï¼¡ï¼¬ï¼¬Â§râˆ°",
+      "data" : [
+         {
+            "cmd_line" : "/tp @e[rm=10] ~30 ~11 ~30",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 barrier",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 tinted_glass 0 outline",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~ ~ ~ tp @e[tag=!rm=15] ~30 ~9 ~30 ",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~10 ~30 fill ~15 0 ~-15 ~-15 0 ~15 border_block",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~10 ~30 fill ~15 2 ~-15 ~-15 2 ~15 deny",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @e[rm=15] water_breathing 1000000 1 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @e[rm=15] blindness 1000000 1 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/camerashake add @a[rm=15] 4 1000000 rotational",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/camerashake add @a[rm=15] 4 1000000 positional",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[tag=rm=15] nausea 1000000 1 true",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "âˆ°Â§lÂ§9ï¼®ï¼µï¼«ï¼¥ ï¼£ï¼­ï¼¤Â§râˆ°",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule maxcommandchainlength 0", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule commandblocksenabled false", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~10 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~9 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~8 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~7 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~6 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~5 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~4 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~3 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~2 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~1 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~ ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-1 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-2 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-3 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-4 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-5 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-6 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-7 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-8 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-9 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-10 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-11 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-12 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-13 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-14 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-15 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-16 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-17 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-20 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-21 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-22 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-23 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-24 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~20 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~17 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~16 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~15 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~14 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~13 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~12 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~11 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~10 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~9 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~8 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~7 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~6 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~5 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~4 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~3 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~2 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~1 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~ ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-1 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-2 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-3 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-4 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-5 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-6 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-7 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-8 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-9 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-10 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-11 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-12 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-13 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-14 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-15 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-16 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-17 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-20 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-21 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-22 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-23 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-24 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-25 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-26 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-27 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-28 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-29 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=100] ~ ~-30 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "âˆ°Â§lÂ§4ï¼´ï¼®ï¼´ ï¼²ï¼¡ï¼©ï¼®Â§râˆ°",
+      "data" : [
+         {
+            "cmd_line" : "/execute @e[rm=30] ~5 ~50 ~ summon tnt ~ ~ ~", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=30] ~ ~50 ~5 summon tnt ~ ~ ~", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=30] ~-5 ~50 ~ summon tnt ~ ~ ~", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=30] ~ ~50 ~-5 summon tnt ~ ~ ~", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=30] ~ ~50 ~ summon tnt ~ ~ ~", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=30] ~5 ~50 ~5 summon tnt ~ ~ ~", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e[rm=30] ~-5 ~50 ~-5 summon tnt ~ ~ ~", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule tntexplodes true", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "âˆ°Â§lï¼§ï¼¯ ï¼’ ï¼³ï¼°ï¼¡ï¼£ï¼¥Â§râˆ°",
+      "data" : [
+         {
+            "cmd_line" : "/execute @a[tag=!Chad] ~ ~ ~ tp @p ~ ~1500000 ~", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   }
+]",CustomName:"Â§0ã€Â§lÂ§4çˆªÂ§cï½ï½™ï½ˆï½…ï½ ï¼§ï½’ï½‰ï½…ï½† Â§4ä¹ƒÂ§cï½ï½”Â§0ã€‘",CustomNameVisible:1b,InterativeText:"Â§rÂ§8Â§lMade by Â§aä¹‚Â§9á—ªÂ§bã„’Â§5çˆª Â§r& Â§rÂ§7Â§lî€£ï¼¤ï¼¥ï¼´ï¼¥ï¼²ï¼­ï¼©ï¼®ï¼¡ï¼´ï¼¥ï¼¤â‘¦â‘¢â‘§î€£Â§rÂ§f",IsBaby:1b,Persistent:1b,Variant:18,definitions:["+minecraft:npc"]},TicksLeftToStay:0},{ActorIdentifier:"minecraft:chest_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§lÂ§dALL 2 YOU",
+      "data" : [
+         {
+            "cmd_line" : "/tp @r[tag=!Chad] @r[tag=!Chad]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§4YOU 2 RANDOM",
+      "data" : [
+         {
+            "cmd_line" : "tp @p @r", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§1ALL 2 RANDOM",
+      "data" : [
+         {
+            "cmd_line" : "tp @a @r", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§cALL 2 NPC",
+      "data" : [
+         {
+            "cmd_line" : "/tp @a @s", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lRANDOM CORDS",
+      "data" : [
+         {
+            "cmd_line" : "/spreadplayers 69 80 69420 80085 @a[rm=10]",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a[rm=10] resistance 60 40 true",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound mob.wither.ambient @a[rm=10] ~ ~ ~ 10000000 2.0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a[rm=10] ~ ~ ~ particle minecraft:huge_explosion_emitter ~ ~1 ~",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/kill @e[type=item]",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§5ITEMS 2 YOU",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule keepinventory false",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule doimmediaterespawn false",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule showdeathmessages false",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tp @e[type=item] ~ ~3 ~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "",
+      "data" : [
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ execute @e ~ ~ ~ w @a Â§lÂ§cè‰¯ã„ã‚²ãƒ¼ãƒ ", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "Â§lÂ§0ã‚¹ã‚­ãƒƒãƒ‰ãŸã‚ã”ã¨",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:225f,DefaultMax:16f,DefaultMin:0f,Max:225f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:20f,DefaultMin:20f,Max:20f,Min:20f,Name:"minecraft:health"}],BodyRot:18.4126f,Chested:0b,Color:0b,Color2:0b,CustomName:" Â§0ã€Â§lÂ§4çˆªÂ§cï½ï½™ï½ˆï½…ï½ ï¼´ï¼° Â§4ä¹ƒÂ§cï½ï½”Â§0ã€‘",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0.1f,Fire:0s,HurtTime:0s,InterativeText:"         Â§1  -------------------
+              Â§1Â§l  By shwp0076
+         ----------------",Invulnerable:1b,IsAngry:0b,IsAutonomous:0b,IsBaby:1b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:34,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:1l,Persistent:1b,PortalCooldown:0,Pos:[568.5f,74f,23.5f],RawtextName:"  Â§0ã€Â§lÂ§4çˆªÂ§cï½ï½™ï½ˆï½…ï½ ï¼´ï¼° Â§4ä¹ƒÂ§cï½ï½”Â§0ã€‘",Rotation:[-134.349f,0.643875f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:69,Strength:2,StrengthMax:3,Surface:0b,Tags:[],TargetID:1l,TradeExperience:0,TradeTier:0,UniqueID:-25769803724l,Variant:20,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0},{ActorIdentifier:"minecraft:chest_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§lINVISIBLE",
+      "data" : [
+         {
+            "cmd_line" : "/effect @p invisibility 1000000 255 true",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§6GOD MODE",
+      "data" : [
+         {
+            "cmd_line" : "/effect @p regeneration 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p strength 1000000 50 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p night_vision 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p fire_resistance 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p conduit_power 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p absorption 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p instant_heath 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p water_breathing 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule sendcommandfeedback false", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p village_hero 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p resistance 1000000 50 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p saturation 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p health_boost 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p haste 1000000 50 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p jump_boost 1000000 3 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p speed 1000000 5 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p instant_health 1000000 100 true", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§cLEVITATION",
+      "data" : [
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] levitation 1000000 255 true", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§4KILL ALL",
+      "data" : [
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] instant_damage 1000000 255 true", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§0ALL BAD",
+      "data" : [
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] blindness 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] strength 1000000 50 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] bad_omen 1000000 50 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] mining_fatigue 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] nausea 1000000 50 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] hunger 1000000 255 true", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§2CLEAR ALL",
+      "data" : [
+         {
+            "cmd_line" : "/effect @a clear", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   }
+]",CustomNameVisible:1b,InterativeText:"Â§rÂ§8Â§lMade by Â§rÂ§7Â§lî€£ï¼¤ï¼¥ï¼´ï¼¥ï¼²ï¼­ï¼©ï¼®ï¼¡ï¼´ï¼¥ï¼¤â‘¦â‘¢â‘§î€£Â§rÂ§f",IsBaby:1b,Persistent:1b,RawtextName:"Â§0ã€Â§4çˆªÂ§cï½ï½™ï½ˆï½…ï½ ï¼°otion Â§4ä¹ƒÂ§cï½ï½”Â§0ã€‘",Variant:23,definitions:["+minecraft:npc"]},TicksLeftToStay:0},{ActorIdentifier:"minecraft:chest_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§lÂ§4ï¼¦AKE ï¼¯P",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode c @a", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§4Â§l@a got Operator",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§9ï¼­USIC ï¼§LORE",
+      "data" : [
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.13 @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.otherside @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.strad @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.cat @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.blocks @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.chirp @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.far @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.mall @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.mellohi @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.stal @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.ward @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.11 @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.wait @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound music.menu @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound music.game @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound music.game.creative @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound music.game.end @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound record.pigstep @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound music.game.credits @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound music.game.nether @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound music.game.endboss @p ~ ~ ~ 1000000", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§5ï¼£LEAR ï¼¡LL",
+      "data" : [
+         {
+            "cmd_line" : "/msg @p Activated", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 0 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 1 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 2 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 3 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 4 dirt", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 5 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 6 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 7 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 8 air", 
+            "cmd_ver" : 12         
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 9 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 10 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 11 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 12 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 13 dirt", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 14 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 15 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 16 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 17 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 18 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 19 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 20 dirt", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 21 dirt", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 22 dirt", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 23 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 24 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 25 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.enderchest 26 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/clear @a[tag=!chad]", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§dï¼³PAM",
+      "data" : [
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/title @a subtitle Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/title @a actionbar Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/title @a times 1 100000 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com for free robox/vbucks Â§kLOL", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/title @a title Â§dÂ§kLOLÂ§r Â§dÂ§lBlacked.com Â§kLOL", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§2ï¼³ICK",
+      "data" : [
+         {
+            "cmd_line" : "/msg @p Activated", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] nausea 1000000 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a[tag=!Chad] nausea 1000000 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/camerashake add @a[tag=!Chad] 4 1000000 positional", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/camerashake add @a[tag=!Chad] 4 1000000 rotational", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lï¼®O ï¼©NVENTORY",
+      "data" : [
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.hotbar 0 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.armor.head 0 carved_pumpkin 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.hotbar 1 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.hotbar 2 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.hotbar 3 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.hotbar 4 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.hotbar 5 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.hotbar 6 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.hotbar 7 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.hotbar 8 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 0 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 1 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 2 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 3 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 4 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 5 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 6 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 7 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 8 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 9 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 10 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 11 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 12 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 13 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 14 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 15 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 16 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 17 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 18 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 19 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 20 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 21 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 22 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 23 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 24 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 25 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/msg @p Activated", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a[tag=!Chad] slot.inventory 26 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:225f,DefaultMax:16f,DefaultMin:0f,Max:225f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:20f,DefaultMin:20f,Max:20f,Min:20f,Name:"minecraft:health"}],BodyRot:18.4126f,Chested:0b,Color:0b,Color2:0b,CustomName:"Server",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0.1f,Fire:0s,HurtTime:0s,InterativeText:"Â§rÂ§8Â§lMade by 
+Â§1î„€shwp#0076î„€ Â§r& 
+Â§9î„ƒICEDGUY6635#5750î„ƒ Â§r& 
+Â§rÂ§7Â§lî€£ï¼¤ï¼¥ï¼´ï¼¥ï¼²ï¼­ï¼©ï¼®ï¼¡ï¼´ï¼¥ï¼¤â‘¦â‘¢â‘§î€£Â§rÂ§f",Invulnerable:1b,IsAngry:0b,IsAutonomous:0b,IsBaby:1b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:34,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:1l,Persistent:1b,PortalCooldown:0,Pos:[568.5f,74f,23.5f],RawtextName:"Â§0ã€Â§lÂ§4çˆªÂ§cï½ï½™ï½ˆï½…ï½ ï¼´roll Â§4ä¹ƒÂ§cï½ï½”Â§0ã€‘",Rotation:[-134.349f,0.643875f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:69,Strength:2,StrengthMax:3,Surface:0b,Tags:[],TargetID:1l,TradeExperience:0,TradeTier:0,UniqueID:-25769803724l,Variant:24,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tag @e[type=npc,r=5] add E",Invulnerable:1b,Persistent:1b,TickDelay:10,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/playanimation @e[tag=E] animation.bee.fly.bobbing animation 1000000",Invulnerable:1b,Persistent:1b,TickDelay:10,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[tag=E] ~~~ tp @s ~ ~0.5 ~ facing @s",Invulnerable:1b,Persistent:1b,TickDelay:50,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"],identifier:"minecraft:command_block_minecart"}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamerule commandblockoutput false",Invulnerable:1b,Persistent:1b,TickDelay:5,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tag @p add Chad",Invulnerable:1b,Persistent:1b,TickDelay:10,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tag @e[type=command_block_minecart] add A",Invulnerable:1b,Persistent:1b,TickDelay:10,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}}],id:"Beehive"},pistonPosX:0,pistonPosY:0,pistonPosZ:0}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:13b,WasPickedUp:0b,tag:{Damage:69,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Block:{name:"minecraft:moving_block",states:{},version:17959425},CanPlaceOn:["minecraft:dirt","minecraft:end_stone","minecraft:grass","minecraft:stone","minecraft:sand","minecraft:netherrack"],Count:1b,Damage:0s,Name:"minecraft:moving_block",Slot:14b,WasPickedUp:0b,tag:{display:{Lore:["------------------------
+Â§rÂ§bHope you enjoy!Â§5
+------------------------"],Name:"Â§rÂ§0   ã€ Â§lÂ§4ã„’Â§che Â§4çˆªÂ§cayhem Â§4ä¹ƒÂ§cundle Â§4å°¸Â§cart Â§fâ‘¡Â§0 ã€‘"},ench:[{id:5s,lvl:-1s},{id:28s,lvl:-69s},{id:27s,lvl:420s}],minecraft:keep_on_death:1b,movingBlock:{name:"minecraft:underwater_torch",states:{growth:4}},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:chest_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§lÂ§3Creative",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode c @p",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§dSurvival",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode s @p", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§cAdventure",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode a @p", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§9all Creative ",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode c @a", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§5All Survival",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode s @a", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§4All Adventure",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode a @a", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   }
+]",CustomNameVisible:1b,InterativeText:"         Â§1  -------------------
+              Â§1Â§l  By shwp0076
+         ----------------",IsBaby:1b,Persistent:1b,RawtextName:" Â§0ã€Â§lÂ§4 çˆªÂ§cï½ï½™ï½ˆï½…ï½ ï¼§ï¼­ Â§4ä¹ƒÂ§cï½ï½”Â§0 ã€‘ ",Variant:19,definitions:["+minecraft:npc"]},TicksLeftToStay:0},{ActorIdentifier:"minecraft:chest_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§bdiamond sword",
+      "data" : [
+         {
+           "cmd_line" : "fill\t~1~0~0\t~1~1~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~2~0~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~2~1~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~3~0~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~3~1~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~3~2~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~3~7~0\t~3~8~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~4~1~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~4~2~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~4~3~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~5~0\t~4~6~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~4~7~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~4~8~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~5~2~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~5~3~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~5~4~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~5~0\t~5~6~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~5~7~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~6~3~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~6~4~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~6~5~0\t~6~6~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~7~2~0\t~8~2~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~7~3~0\t~8~3~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~7~4~0\t~8~4~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~7~5~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~7~6~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~7~7~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~8~5~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~8~6~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~8~7~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~8~8~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~9~1~0\t~10~1~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~2~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~3~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~5~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~6~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~7~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~8~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~9~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~2~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~6~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~7~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~8~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~9~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~10~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~7~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~8~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~9~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~10~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~11~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~8~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~9~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~10~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~11~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~12~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~13~9~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~13~10~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~13~11~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~13~12~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~13~13~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~14~10~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~14~11~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~14~12~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~14~13~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~14~14~0\t~16~14~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~15~11~0\tminecraft:prismarine
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~15~12~0\tminecraft:diamond_block
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~15~13~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~16~12~0\t~16~13~0\tminecraft:prismarine",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "made by mortada",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§7Â§lbow build",
+      "data" : [
+         {
+            "cmd_line" : "setblock\t~0~12~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~1~9~0\t~1~10~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~1~11~0\t~7~11~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~1~12~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~1~13~0\t~7~13~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~2~5~0\t~2~8~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~2~12~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~3~4~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~3~12~0\t~5~12~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~4~3~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~4~4~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~4~5~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~2~0\t~8~2~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~5~5~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~5~6~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~6~6~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~6~7~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~6~12~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~7~7~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~7~8~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~7~12~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~8~8~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~8~9~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~8~10~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~8~11~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~8~12~0\t~9~12~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~9~1~0\t~10~1~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~9~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~10~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~11~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~8~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~9~0\tminecraft:concrete
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~10~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~11~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~11~1~0\t~11~7~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~8~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~9~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~10~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~11~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~11~12~0\tminecraft:wool
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~0~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~1~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~2~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~12~3~0\t~12~5~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~6~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~7~0\tminecraft:planks
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~8~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~9~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~12~12~0\tminecraft:stained_hardened_clay
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~13~1~0\t~13~6~0\tminecraft:wood
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~13~7~0\tminecraft:wood",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "made by mortada",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§6Â§lSkyblock",
+      "data" : [
+         {
+            "cmd_line" : "fill\t~5~6~1\t~5~6~5\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~6~2\t~4~6~10\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~5~2\t~5~5~10\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~6~6~2\t~6~6~10\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~3~6~3\t~3~6~9\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~5~3\t~4~5~9\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~4~3\t~5~4~9\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~6~5~3\t~6~5~9\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~7~6~3\t~7~6~9\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~2~6~4\t~2~6~8\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~3~5~4\t~3~5~8\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~4~4\t~4~4~8\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~10~4\t~6~11~5\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~3~4\t~5~3~8\tminecraft:stone
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~6~4~4\t~6~4~8\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~7~5~4\t~7~5~8\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~7~11~4\t~7~11~7\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~8~6~4\t~8~6~8\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~1~6~5\t~1~6~7\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~2~5~5\t~2~5~7\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~3~4~5\t~3~4~7\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~3~10~5\t~3~11~7\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~3~5\t~4~3~7\tminecraft:stone
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~12~5\t~5~12~5\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~1~5\t~5~2~7\tminecraft:stone
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~13~5\t~5~13~7\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~6~3~5\t~6~3~7\tminecraft:stone
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~7~4~5\t~7~4~7\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~7~10~5\t~7~10~8\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~8~5~5\t~8~5~7\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~9~6~5\t~9~6~7\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~0~6~6\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~1~5~6\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~2~4~6\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~3~3~6\tminecraft:stone
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~1~6\t~4~2~6\tminecraft:stone
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~10~6\t~4~11~8\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~4~12~6\t~4~13~6\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~5~0~6\tminecraft:stone
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~6~6\t~5~6~7\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~7~6\t~5~12~6\tminecraft:log
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~6~1~6\t~6~2~6\tminecraft:stone
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~6~10~6\t~6~11~8\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~6~12~6\t~6~12~7\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~6~13~6\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~7~3~6\tminecraft:stone
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~8~4~6\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~9~5~6\tminecraft:dirt
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~10~6~6\tminecraft:grass
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~5~7~7\tminecraft:chest
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~10~7\t~5~11~8\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock\t~5~12~7\tminecraft:leaves
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill\t~5~6~8\t~5~6~11\tminecraft:grass",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "made by mortada",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§0Â§lPrison",
+      "data" : [
+         {
+            "cmd_line" : "/fill\t~12\t~0\t~15\t~-14\t~0\t~26\tbedrock
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/fill\t~-14\t~7\t~26\t~12\t~1\t~26\tbedrock
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/fill\t~12\t~1\t~15\t~12\t~7\t~25\tbedrock
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/fill\t~-14\t~7\t~15\t~-14\t~0\t~26\tbedrock
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/fill\t~-14\t~1\t~15\t~11\t~7\t~15\tbedrock
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/fill\t~-14\t~7\t~26\t~12\t~7\t~15\tbedrock
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/setblock\t~-1\t~7\t~20\tglowstone",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "made by mortada",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§4#mortadapro1127",
+      "data" : [
+         {
+            "cmd_line" : "", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "LINK",
+      "type" : 1
+   },
+   {
+ "button_name" : "Â§2Â§lCursed zombie",
+      "data" : [
+         {
+            "cmd_line" : "summon zombie ~ ~ ~ cursed", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "By mortada",
+      "type" : 1
+   }
+]",CustomNameVisible:1b,IsBaby:1b,Persistent:1b,RawtextName:"Â§0ã€Â§4çˆªÂ§cï½ï½™ï½ˆï½…ï½ ï¼¢uild Â§4ä¹ƒÂ§cï½ï½”Â§0ã€‘",Variant:100,definitions:["+minecraft:npc"]},TicksLeftToStay:0},{ActorIdentifier:"minecraft:chest_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§6Â§lSET DAY",
+      "data" : [
+         {
+            "cmd_line" : "/time set day",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§7Â§lSET NIGHT",
+      "data" : [
+         {
+            "cmd_line" : "/time set night", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§0Â§lSET MIDNIGHT",
+      "data" : [
+         {
+            "cmd_line" : "/time set midnight", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§aÂ§lWEATHER RAIN",
+      "data" : [
+         {
+            "cmd_line" : "/weather rain", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§dÂ§lTHUNDER",
+      "data" : [
+         {
+            "cmd_line" : "/weather thunder", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§bÂ§lCLEAR",
+      "data" : [
+         {
+            "cmd_line" : "/weather clear", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   }
+]",CustomName:"Â§0ã€Â§4çˆªÂ§cï½ï½™ï½ˆï½…ï½ Changer Â§4ä¹ƒÂ§cï½ï½”Â§0ã€‘",CustomNameVisible:1b,InterativeText:"         Â§1  ------------------- 
+              Â§1Â§l  By shwp0076
+         ----------------",IsBaby:1b,Persistent:1b,Variant:99,definitions:["+minecraft:npc"]},TicksLeftToStay:0},{ActorIdentifier:"minecraft:armor_stand<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§bdiamond kit",
+      "data" : [
+         {
+     "cmd_line" : "replaceitem entity @p slot.hotbar 0 diamond_sword",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "enchant @p sharpness 5", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p golden_apple 32", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p diamond_helmet", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p diamond_chestplate", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p diamond_leggings", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p diamond_boots", 
+            "cmd_ver" : 12
+         }
+
+       ],
+      "mode" : 0,
+      "text" : "made by mortada",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§firon Kit",
+      "data" : [
+         {
+                 "cmd_line" : "replaceitem entity @p slot.hotbar 0 iron_sword",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "enchant @p sharpness 5", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p iron_helmet", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p iron_chestplate", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p iron_leggings", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p iron_boots", 
+            "cmd_ver" : 12
+         },
+          {
+            "cmd_line" : "give @p golden_apple 64", 
+            "cmd_ver" : 12
+         }
+
+       ],
+      "mode" : 0,
+      "text" : "by IQ of banana and mortada",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§0netherite Kit",
+      "data" : [
+         {
+             "cmd_line" : "replaceitem entity @p slot.hotbar 0 netherite_sword",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "enchant @p sharpness 5", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p netherite_apple 32", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p netherite_helmet", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p netherite_chestplate", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p netherite_leggings", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p netherite_boots", 
+            "cmd_ver" : 12
+         },
+          {
+            "cmd_line" : "give @p golden_apple 64", 
+            "cmd_ver" : 12
+         }
+
+       ],
+      "mode" : 0,
+      "text" : "by mortada and iq of banana",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§egold Kit",
+      "data" : [
+         {
+           "cmd_line" : "replaceitem entity @p slot.hotbar 0 golden_sword",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "enchant @p sharpness 5", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p golden_helmet", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p golden_chestplate", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p golden_leggings", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "give @p golden_boots", 
+            "cmd_ver" : 12
+         },
+          {
+            "cmd_line" : "give @p golden_apple 64", 
+            "cmd_ver" : 12
+         }
+
+       ],
+      "mode" : 0,
+      "text" : "by mortada and iq of banana",
+      "type" : 1
+   },
+   {
+      "button_name" : "Thanks for using it",
+      "data" : [
+         {
+            "cmd_line" : "", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Thanks for using it",
+      "data" : [
+         {
+            "cmd_line" : "...Edit Here...", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "...Edit Here...",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:225f,DefaultMax:16f,DefaultMin:0f,Max:225f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:20f,DefaultMin:20f,Max:20f,Min:20f,Name:"minecraft:health"}],BodyRot:16.4126f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§dNPC KITS V4",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"Made by mortada and iq of banana ",Invulnerable:1b,IsAngry:0b,IsAutonomous:0b,IsBaby:1b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"KITS NPC V4",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[568.5f,74f,23.5f],RawtextName:"Â§0ã€Â§4çˆªÂ§cï½ï½™ï½ˆï½…ï½ ï¼«its Â§4ä¹ƒÂ§cï½ï½”Â§0ã€‘",Rotation:[-134.349f,0.643875f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-25769803724l,Variant:13,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc","+"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tag @e[type=npc,r=5] add E",Invulnerable:1b,Persistent:1b,TickDelay:10,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/playanimation @e[tag=E] animation.bee.fly.bobbing animation 1000000",Invulnerable:1b,Persistent:1b,TickDelay:10,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[tag=E] ~~~ tp @s ~ ~0.5 ~ facing @s",Invulnerable:1b,Persistent:1b,TickDelay:50,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"],identifier:"minecraft:command_block_minecart"}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamerule commandblockoutput false",Invulnerable:1b,Persistent:1b,TickDelay:5,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tag @p add Chad",Invulnerable:1b,Persistent:1b,TickDelay:10,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tag @e[type=command_block_minecart] add A",Invulnerable:1b,Persistent:1b,TickDelay:10,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:null"]}}],id:"Beehive"},pistonPosX:0,pistonPosY:0,pistonPosZ:0}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:15b,WasPickedUp:0b,tag:{Damage:60,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:16b,WasPickedUp:0b,tag:{Damage:35,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:17b,WasPickedUp:0b,tag:{Damage:1,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:18b,WasPickedUp:0b,tag:{Damage:1,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:19b,WasPickedUp:0b,tag:{Damage:35,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:20b,WasPickedUp:0b,tag:{Damage:60,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:21b,WasPickedUp:0b,tag:{Damage:69,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:22b,WasPickedUp:0b,tag:{Damage:90,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:23b,WasPickedUp:0b,tag:{Damage:69,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:24b,WasPickedUp:0b,tag:{Damage:60,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:25b,WasPickedUp:0b,tag:{Damage:35,RepairCost:0,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:33s,Name:"minecraft:sparkler",Slot:26b,WasPickedUp:0b,tag:{Damage:1,RepairCost:1,active_time:34645l,display:{Name:"Â§rÂ§lÂ§0Â§kiiÂ§8iiÂ§0iiÂ§8iiÂ§0ii"},ench:[{id:28s,lvl:10s}]}}],RepairCost:0,display:{Lore:["Â§5Â§rÂ§5+Data"],Name:"Â§rÂ§0      ã€ Â§lÂ§4ã„’Â§che Â§4çˆªÂ§cayhem Â§4â¼•Â§chest Â§0 ã€‘"}}},tier:0,traderExp:2,uses:0},{buyA:{Block:{name:"minecraft:double_plant",states:{double_plant_type:"sunflower",upper_block_bit:0b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:double_plant",WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"î„‚"},minecraft:keep_on_death:1b}},sell:{Count:1b,Damage:0s,Name:"minecraft:written_book",WasPickedUp:0b,tag:{RepairCost:0,author:"Â§0ã€ Â§lÂ§4ã„’Â§che Â§4çˆªÂ§cayhem Â§4ä¹ƒÂ§cundleÂ§0 ã€‘",display:{Name:"Â§rÂ§fcredit"},generation:0,pages:[{photoname:"",text:"        Â§0Â§lcredit
+-------------------   Â§4Â§lDeterminated#0738
+Â§dÂ§lshwp#0076
+Â§bÂ§lmortadapro#1127
+Â§aÂ§lXDTM â¨âƒ#1240
+Â§gÂ§lICEDGUY6635#5750
+Â§5Â§lEnderr_M#1986
+Â§6Â§lBanana#4411
+Â§8Â§l
+"},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{By shwp0076:"",photoname:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:""},{:"§0§lBig Moneke Ball",photoname:""},{:"§0§lBig Moneke Ball",§0§lBig Moneke Ball:""}],title:"Â§0Â§lcredit",xuid:"2535443616029734"}},tier:0,traderExp:2,uses:0}],TierExpRequirements:[]},Offhand:[{Count:0b,Damage:0s,Name:"Hardware test",WasPickedUp:0b}],OnGround:0b,OwnerNew:-1l,PortalCooldown:0,Pos:[-12.3f,4.08786f,-88.3f],Riches:0,Rotation:[-43.5938f,5.625f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:2,Strength:0,StrengthMax:0,Surface:0b,TargetID:-1l,TradeExperience:310,TradeTier:0,UniqueID:-141733920764l,Variant:9,Willing:0b,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:villager_v2","+","+villager_skin_5","-baby","-job_specific_goals","+weaponsmith","+adult","+behavior_non_peasant","+work_schedule","-gather_schedule_villager","-wander_schedule_villager","-bed_schedule_villager","-play_schedule_villager","+work_schedule_villager","+trade_resupply_component_group"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:villager_v2"},TicksLeftToStay:0}],id:"Beehive"},pistonPosX:0,pistonPosY:0,pistonPosZ:0}}

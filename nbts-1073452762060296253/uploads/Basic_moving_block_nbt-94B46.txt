@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:moving_block",version:17959425,states:{}},Count:64b,tag:{movingBlock:{name:"minecraft:lava"},movingBlockExtra:{name:"minecraft:grass"},display:{Name:"invisible lava"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:moving_block"}

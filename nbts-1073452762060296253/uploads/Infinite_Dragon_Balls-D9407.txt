@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:100,Ticking:1b,Command:"/fill 43 3 73 59 4 17 dragon_egg"},Damage:5s,Name:"minecraft:bucket"}

@@ -1,0 +1,1 @@
+{Count:64b,tag:{Item:{Block:{name:"minecraft:shulker_box",version:17959425,states:{color:red}},Count:1b,tag:{RepairCost:0,display:{}},Damage:0s,WasPickedUp:0b,Name:"minecraft:shulker_box"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:frame"}

@@ -1,0 +1,644 @@
+{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",CanPlaceOn:["stone_slab4","double_stone_slab3","double_stone_slab4","stone_slab2","double_stone_slab2","stone_slab3","snow_layer","unlit_redstone_torch","iron_door","ice","cactus","redstone_ore","redstone_torch","stone_button","snow","clay","cake","soul_sand","fence","glowstone","netherrack","lit_pumpkin","jukebox","pumpkin","unpowered_repeater","powered_repeater","trapdoor","monster_egg","red_mushroom_block","iron_bars","brown_mushroom_block","glass_pane","stonebrick","melon_block","vine","fence_gate","stone_brick_stairs","waterlily","mycelium","brick_stairs","nether_brick","nether_brick_fence","nether_brick_stairs","enchanting_table","nether_wart","beacon","blue_ice","mob_spawner","brewing_stand","double_wooden_slab","wooden_slab","leaves2","double_plant","leaves","stone_slab","double_stone_slab","grass","coral_fan","kelp","dried_kelp_block","coral","coral_block","coral_fan_dead","acacia_button","dark_oak_button","birch_button","seagrass","spruce_button","dark_oak_trapdoor","jungle_button","spruce_trapdoor","birch_trapdoor","jungle_trapdoor","acacia_trapdoor","sea_pickle","carved_pumpkin","turtle_egg","barrier","scaffolding","bamboo","andesite_stairs","polished_granite_stairs","granite_stairs","diorite_stairs","polished_diorite_stairs","end_brick_stairs","mossy_cobblestone_stairs","polished_andesite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","smooth_sandstone_stairs","smooth_stone","normal_stone_stairs","red_nether_brick_stairs","spruce_wall_sign","spruce_standing_sign","smooth_quartz_stairs","birch_standing_sign","birch_wall_sign","jungle_standing_sign","jungle_wall_sign","lectern","grindstone","acacia_standing_sign","darkoak_standing_sign","acacia_wall_sign","darkoak_wall_sign","blast_furnace","smoker","fletching_table","cartography_table","smithing_table","barrel","loom","bell","campfire","lantern","wood","composter","bee_nest","honeycomb_block","wither_rose","beehive","honey_block","stone","sapling","dirt","cobblestone","planks","bedrock","gravel","sand","iron_ore","glass","gold_ore","log","coal_ore","sponge","lapis_ore","dispenser","lapis_block","sandstone","bed","web","red_flower","golden_rail","detector_rail","tallgrass","deadbush","wool","yellow_flower","brown_mushroom","red_mushroom","gold_block","iron_block","diamond_ore","bookshelf","mossy_cobblestone","brick_block","tnt","torch","obsidian","chest","oak_stairs","redstone_wire","crafting_table","diamond_block","furnace","ladder","stone_stairs","rail","standing_sign","wall_sign","lever","wooden_door","activator_rail","end_portal_frame","end_stone","cauldron","dragon_egg","dropper","sandstone_stairs","emerald_ore","ender_chest","tripwire_hook","emerald_block","tripWire","spruce_stairs","cobblestone_wall","flower_pot","birch_stairs","jungle_stairs","wooden_button","trapped_chest","skull","anvil","stained_hardened_clay","stained_glass_pane","unpowered_comparator","redstone_block","hopper","quartz_block","quartz_stairs","powered_comparator","daylight_detector","log2","acacia_stairs","dark_oak_stairs","coal_block","prismarine","seaLantern","hay_block","carpet","iron_trapdoor","slime","hardened_clay","packed_ice","standing_banner","wall_banner","red_sandstone","spruce_door","dark_oak_fence_gate","spruce_fence_gate","red_sandstone_stairs","jungle_fence_gate","birch_fence_gate","acacia_fence_gate","birch_door","jungle_door","acacia_door","dark_oak_door","grass_path","end_rod","purpur_stairs","nether_wart_block","red_nether_brick","chorus_flower","end_bricks","purpur_block","magma","bone_block","white_glazed_terracotta","purple_glazed_terracotta","silver_glazed_terracotta","light_blue_glazed_terracotta","gray_glazed_terracotta","magenta_glazed_terracotta","lime_glazed_terracotta","orange_glazed_terracotta","blue_glazed_terracotta","shulker_box","yellow_glazed_terracotta","pink_glazed_terracotta","cyan_glazed_terracotta","brown_glazed_terracotta","green_glazed_terracotta","red_glazed_terracotta","chorus_plant","concrete","concretePowder","stained_glass","black_glazed_terracotta","stonecutter_block","observer","prismarine_bricks_stairs","dark_prismarine_stairs","prismarine_stairs","stone_pressure_plate","heavy_weighted_pressure_plate","dark_oak_pressure_plate","wooden_pressure_plate","light_weighted_pressure_plate","acacia_pressure_plate","birch_pressure_plate","jungle_pressure_plate","spruce_pressure_plate"],WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Made by EDTelly"],Name:"EDTelly NPC"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:air",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cÂ§lî„ƒAlwaysdayî„ƒ",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule\tDoDayLightCycle\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/time\tset\tday", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tDoWeatherCycle\tfalse", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "6",
+      "type" : 1
+   },
+   { 
+      "button_name" : "Â§aÂ§lî„…Funnyî„…",
+      "data" : [
+         {
+            "cmd_line" : "/tag\t@p[r=10]\tadd\tEDestroyer10",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamemode\tadventure\t@a[tag=!EDestroyer10]",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~30\t~15\t~-15\t~-1\t~-15\tbedrock\t0\toutline",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~14\t~5\t~14\t~-14\t~5\t~-14\tbarrier",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tp\t@a[tag=!EDestroyer10]\t~\t~10\t~",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~\t~-1\t~\tbarrier",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a[tag=!EDestroyer10]\tweakness\t1000000\t100\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a[tag=!EDestroyer10]\tstrength\t1000000\t40\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a[tag=!EDestroyer10]\tresistance\t1000000\t100\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a[tag=!EDestroyer10]\tregeneration\t1000000\t100\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@a[tag=!EDestroyer10]\thaste\t1000000\t2\ttrue",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamemode\tcreative\t@a[tag=!EDestroyer10]",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setworldspawn\t~\t~10\t~",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/kick\t@r[tag=!EDestroyer10]",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/kick\t@r[tag=!EDestroyer10]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "2",
+      "type" : 1
+   },
+   {
+      "button_name" : "î€†Â§dÂ§lChangenameî€‡",
+      "data" : [
+         {
+            "cmd_line" : "/scoreboard\tobjectives\tadd\trealmname\tdummy\tÂ§cEDestroyerÂ§5ownsÂ§dYOU",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/scoreboard\tobjectives\tsetdisplay\tlist\trealmname\tascending",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/scoreboard\tobjectives\tadd\trealmname\tdummy\tÂ§cEDestroyerÂ§5ownsÂ§dYOU",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/scoreboard\tobjectives\tsetdisplay\tlist\trealmname\tascending",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/scoreboard\tobjectives\tadd\trealmname\tdummy\tÂ§cEDestroyerÂ§5ownsÂ§dYOU",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/scoreboard\tobjectives\tsetdisplay\tlist\trealmname\tascending",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/scoreboard\tobjectives\tadd\trealmname\tdummy\tÂ§cEDestroyerÂ§5ownsÂ§dYOU",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "Made\tBy\tEDestroyer10",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§3Â§lHugeHole",
+      "data" : [
+         {
+            "cmd_line" : "/execute@a ~ ~25 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~24 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~23 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~22 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~21 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~20 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~17 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~16 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~15 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~14 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~13 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~12 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~11 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~10 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~9 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~8 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~7 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~6 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~5 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~4 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~3 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~2 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~1 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~ ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-1 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-2 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-3 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-4 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-5 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-6 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-7 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-8 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-9 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-10 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-11 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-12 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-13 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-14 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-15 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-16 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-17 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-18 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-19 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-20 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-21 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-22 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-23 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-24 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-25 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute@a ~ ~-26 ~ fill ~90 ~ ~90 ~-90 ~ ~-90 air", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "5",
+      "type" : 1
+   },
+   {
+      "mode" : 0,
+      "text" : "1",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§5Â§lî„…Admingiverî„…",
+      "data" : [
+         {
+            "cmd_line" : "/tag\t@a\tadd\tadmin",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tAdmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tADMIN", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tstaff", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tSTAFF", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tMOD", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tmoderator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tModerator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tMODERATOR", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\towner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tOwner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tOWNER", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\thelper", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tHelper", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tadd\tHELPER", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tsendcommandfeedback\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tcommandblockoutput\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/ability\t@a\tmayfly\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/ability\t@a\tworldbuilder\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/time\tset\tday", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamemode\tc\t@a", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/weather\tclear\t300000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\ttntexplodes\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tdodaylightcycle\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/title\t@a\tactionbar\tYou_just_got_admin_from_EDestroyer_and_Telly_Enjoy_:D", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tdoweathercycle\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tdofiretick\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tfiredamage\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tkeepinventory\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tremove\tban", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tremove\tBan", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tremove\tBAN", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tremove\tbanned", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tremove\tBanned", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@a\tremove\tBANNED", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/ability\t@a\tmute\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~-15\t~15\t~15\t~15\t~-15\t~-15\tair\t0\treplace\tcommand_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~-15\t~15\t~15\t~15\t~-15\t~-15\tair\t0\treplace\tchain_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~-15\t~15\t~15\t~15\t~-15\t~-15\tair\t0\treplace\trepeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~-15\t~15\t~15\t~15\t~-15\t~-15\tair\t0\treplace\tdeny", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~\t0\t~\t~-50\t5\t~50\tair\t0\treplace\tdeny", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~50\t0\t~\t~\t5\t~-50\tair\t0\treplace\tdeny", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~50\t0\t~\t~\t5\t~50\tair\t0\treplace\tdeny", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~-50\t0\t~\t~\t5\t~-50\tair\t0\treplace\tdeny", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~-50\t0\t~\t~\t5\t~-50\tair\t0\treplace\tbedrock", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~50\t0\t~\t~\t5\t~-50\tair\t0\treplace\tbedrock", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~-50\t0\t~\t~\t5\t~50\tair\t0\treplace bedrock", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~\t~\t~\tfill\t~50\t0\t~\t~\t5\t~50\tair\t0\treplace\tbedrock", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tickingarea\tremove_all", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tickingarea\tremove_all", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@e\t[type=command_block_minecart]\thealth_boost\t1000000\t255\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@e\t[type=command_block_minecart]\tresistance\t1000000\t255\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tÂ§cNbt-Community-On-Top\nî„‚Â§9discord.gg/8ED9sQuHqY î„‚", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tÂ§6Nbt-Community-On-Top\nî„‚Â§9discord.gg/8ED9sQuHqY î„‚", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "Nbt-Community-On-Top\nî„‚Â§9discord.gg/8ED9sQuHqY î„‚", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tÂ§aNbt-Community-On-Top\nî„‚Â§9discord.gg/8ED9sQuHqY î„‚", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tÂ§bNbt-Community-On-Top\nî„‚Â§9discord.gg/8ED9sQuHqY î„‚", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tÂ§dNbt-Community-On-Top\nî„‚Â§9discord.gg/8ED9sQuHqY î„‚", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tag\t@p\tadd\tEDestroyer10",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§aAnti-Deleter",
+      "data" : [
+         {
+            "cmd_line" : "/execute\t@r\t~~~\tfill\t~15\t~15\t~15\t~-15\t~-15\t~-15\tfiret0\treplace\tcommand_block",
+            "cmd_ver" : 14
+         },
+         {
+            "cmd_line" : "/execute\t@r\t~~~\ttime\tset\tday", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@r\t~~~\ttickingarea\tremove_all", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@r\t~~~\tgamerule\tcommandblockoutput\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@r\t~~~\tgamerule\tsendcommandfeedback\tfalse", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@r\t~~~\tgamerule\tfunctioncommandlimit\t1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@r\t~~~\tgamerule\tmaxcommandchainlength\t1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule\tCommandBlocksEnabled\tfalse", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" :  "CREDIT\tTO\tSHNAGS",
+      "type" : 1
+   }
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:225f,DefaultMax:16f,DefaultMin:0f,Max:225f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:225f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:16.4126f,Chested:0b,Color:0b,Color2:0b,CustomName:"§l§cEDTelly NPC",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"---------",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[568.5f,74f,23.5f],RawtextName:"Â§lÂ§cEDTelly NPC",Rotation:[-134.349f,0.643875f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-25769803724l,Variant:13,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc","+"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}}

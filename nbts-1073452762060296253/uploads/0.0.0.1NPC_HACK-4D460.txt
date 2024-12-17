@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:115,Offers:{Recipes:[{maxUses:500,tier:0,buyA:{Count:1b,Damage:0s,WasPickedUp:0b,Name:"minecraft:dirt"},sell:{Block:{name:"minecraft:tnt",version:17760256,states:{color:yellow}},Count:1b,tag:{ench:[{id:9s,lvl:32727s}],RepairCost:0},Damage:0s,Name:"minecraft:netherite_sword"}}]}},Damage:4s,WasPickedUp:0b,Name:"minecraft:bucket"}

@@ -1,0 +1,341 @@
+{Count:1b,Damage:5s,Name:"minecraft:movingblock",Slot:12b,WasPickedUp:0b,tag:{display:{Lore:["New futures. 
+
+-
+- Can bypass anti beehive / beenest"],Name:"Â§4Â§lNoE1837s_God_NpcV5"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:air"},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "CreativeAndTags",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tadmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmoderator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tModerator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\towner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwneer", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdminstrator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Survival/tags",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@p",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tadmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmoderator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tModerator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\towner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwneer", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdminstrator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "GodEffects",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@p\tresistance\t100000\t255\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tregeneration\t100000\t255\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tstrength\t100000\t25", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tjump_boost\t1000000\t3\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tspeed\t100000\t3\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\thealth_boost\t100000\t10\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\thaste\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tfire_resistance\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tAbsorption\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tnight_vision\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tsaturation\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "NukeV6",
+      "data" : [
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~10\t~~14\t~~20\twooden_button", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/effect\t@a\tslowness\t100\t100", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/effect\t@a\tblindness\t100\t100", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/effect\t@a\tpoison\t1000\t20", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~10\t~~10\t~~10\tbedrock\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setworldspawn", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/fZ3XmXjcgy", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/fZ3XmXjcgy", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/fZ3XmXjcgy", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/GzYqxCsb", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/GzYqxCsb", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/GzYqxCsb", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~4\t~~4\t~~4\tglass\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.irongolem.walk\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.irongolem.walk\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.irongolem.walk\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.irongolem.walk\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~40\t~~4\t~~4\twater\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.zombie.hurt\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.zombie.hurt\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~\t/summon\ttnt", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~4\t~~10\t~~10\tlava\t2\thollow", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Kill@eEcsptU",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@e\t[tag=!NoE1837]", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/kill\t@e\t[tag=!Owner]", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdmin", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Clear@eEcsptU",
+      "data" : [
+         {
+            "cmd_line" : "/clear\t@a\t[tag=!NoE1837]", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tadmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdmin", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   }
+]",Persistent:1b,Variant:18},TicksLeftToStay:0}],id:"Beehive"},pistonPosX:0,pistonPosY:0,pistonPosZ:0},RepairCost:0,display:{Name:"God Npc By NoE1837"}}

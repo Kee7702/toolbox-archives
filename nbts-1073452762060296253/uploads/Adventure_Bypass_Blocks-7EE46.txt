@@ -1,0 +1,1 @@
+{CanPlaceOn:[grass,stone],Block:{name:"minecraft:stone",states:{stone_type:stone},version:17760256},Count:3b,Damage:0s,Name:"minecraft:stone"}

@@ -1,0 +1,12 @@
+{Block:{name:"minecraft:bee_nest",states:{direction:0,honey_level:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bee_nest",WasPickedUp:0b
+,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tag @p add Q",Persistent:1b,TickDelay:100000,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[tag=Q] ~~~particle minecraft:redstone_wire_dust_particle ~~2~",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[tag=!Q] ~~~execute @e[type=!command_block_minecart] ~~~ setblock ~~10~ pointed_dripstone",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[tag=!Q] ~~~execute @e[type=!command_block_minecart] ~~~ setblock ~~10~ pointed_dripstone",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[tag=!Q] ~~~execute @e[type=!command_block_minecart] ~~~ setblock ~~10~ pointed_dripstone",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[tag=!Q] ~~~execute @e[type=!command_block_minecart] ~~~ setblock ~~10~ pointed_dripstone",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[tag=!Q] ~~~execute @e[type=!command_block_minecart] ~~~ setblock ~~10~ pointed_dripstone",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[tag=!Q] ~~~execute @e[type=!command_block_minecart] ~~~ setblock ~~10~ pointed_dripstone",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tickingarea add circle 4 4 4 1",Persistent:1b,TickDelay:1000000,Ticking:1b,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"Â§cÂ§lsay for more visit https://discord.gg/d7HHSm74NM",Persistent:1b,TickDelay:0,Ticking:1b,TicksLeftToStay:0}}]
+,display:{Lore:["î‚ƒ Â§9Â§lÂ§oBy Mortada î‚ "],Name:"î„ Â§cÂ§lMade by Mortada meteorsî„ "},ench:[{id:28s,lvl:1s}]}}

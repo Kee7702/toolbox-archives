@@ -1,0 +1,1 @@
+{Count:1b,tag:{ench:[{id:21s,lvl:32767s},{id:3s,lvl:32767s},{id:22s,lvl:1s},{id:12s,lvl:32767s}],Damage:0},Damage:0s,WasPickedUp:0b,Name:"minecraft:bow"}

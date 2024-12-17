@@ -1,0 +1,1 @@
+{Count:64b,tag:{Item:{Count:64b,Damage:0s,WasPickedUp:0b,Name:""}},Damage:0s,WasPickedUp:0b,Name:"minecraft:frame"}

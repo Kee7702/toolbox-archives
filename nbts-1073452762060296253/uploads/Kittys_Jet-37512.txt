@@ -1,0 +1,342 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"magenta"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:moving_block",states:{},version:17959425},CanPlaceOn:["minecraft:grass"],Count:1b,Damage:0s,Name:"minecraft:moving_block",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§lÂ§bMade By: Â§dKitty Shizzî„€","Â§cÂ§aDiscord: Â§âˆ†Â§9sc7FypN9R3","Â§9Â§lWarning:Â§cÂ§rÂ§dÂ§lÂ§âˆ†Â§c Dont Hold Too","Â§âˆ†Â§cMany Or You Will Lag!!Â§r"],Name:"World Prepper[start here]"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:sea_lantern",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+{
+      "button_name" : "Â§2Â§lPrep World",
+      "data" : [
+{
+"cmd_line" : "/tickingarea\tadd\tcircle\t~22\t~5\t~50\t4\ttemp1
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/tickingarea\tadd\tcircle\t~22\t~5\t~0\t4\ttemp2
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/gamerule\tcommandblockoutput\tfalse
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/say\tWorld Prep Complete You can now place the build!
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/playsound\tnote.pling\t@p",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "Â§cMade by Kitty Shizz",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cÂ§lClean Up",
+      "data" : [
+         {
+"cmd_line" : "/tickingarea\tremove\ttemp1
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/tickingarea\tremove\ttemp2
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/say\tÂ§2World Cleanup Complete!!!
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/playsound\tnote.bass\t@p
+",
+"cmd_ver":12
+},
+{
+"cmd_line":"/kill\t@e[type=item,r=150]",
+            "cmd_ver" : 12
+},
+{
+"cmd_line":"/kill\t@e[type=!player,r=15]
+",
+"cmd_ver":12
+	}
+      ],
+      "mode" : 0,
+      "text" : "Â§cMade by Kitty Shizz",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§6Kittys Build (Edit My Dialogue)Â§r",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"Â§lThanks For Trying Out Some Of My Builds!  
+Only Hit Â§2Â§lPrep WorldÂ§rÂ§l Fist!    
+Then Palce The Â§6Build Beehive!  
+Â§rÂ§lAfter Hit Â§cÂ§lClean Up!Â§r  
+Thank You Â§dGtaÂ§r For Your Help!",Invulnerable:1b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rawtext:"ÂMade by Kitty Shizz",Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:3,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Block:{name:"minecraft:bee_nest",states:{direction:0,honey_level:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bee_nest",Slot:1b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock~0~-1~0 lava
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~0~1~0 minecraft:stone ["stone_type":"stone"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~3~1 ~22~3~2 minecraft:nether_brick_fence
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~3~3 ~22~3~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~21~3~4 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~23~3~4 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~20~3~5 ~20~3~6 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~21~3~5 ~21~3~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~23~3~5 ~23~3~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~24~3~5 ~24~3~6 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~4~6 ~22~4~7 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~19~3~7 ~19~3~8 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~20~3~7 ~20~3~68 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~24~3~7 ~24~3~68 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~25~3~7 ~25~3~8 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~21~4~8 ~21~4~9 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~4~8 ~22~4~9 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~23~4~8 ~23~4~9 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~18~3~9 ~18~3~10 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~19~3~9 ~19~3~67 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~25~3~9 ~25~3~67 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~26~3~9 ~26~3~10 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~20~4~10 ~20~4~11 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~21~4~10 ~21~4~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~22~4~10 minecraft:crafting_table
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~22~5~10 minecraft:glass
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~23~4~10 ~23~4~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~24~4~10 ~24~4~11 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~17~3~11 ~17~3~36 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~18~3~11 ~18~3~67 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~21~5~11 ~21~5~12 minecraft:glass
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~22~4~11 minecraft:lever ["lever_direction":"up_north_south","open_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~6~11 ~22~6~13 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~23~5~11 ~23~5~12 minecraft:glass
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~26~3~11 ~26~3~67 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~27~3~11 ~27~3~36 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~19~4~12 ~19~4~66 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~20~4~12 ~20~4~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~22~4~12 minecraft:stone_brick_stairs ["upside_down_bit":false,"weirdo_direction":2]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~24~4~12 ~24~4~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~25~4~12 ~25~4~66 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~21~5~13 ~23~5~13 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~4~13 ~22~4~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~33~0~13 minecraft:air
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~20~5~14 ~20~5~68 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~21~5~14 ~21~5~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~22~5~14 minecraft:noteblock
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~22~6~14 minecraft:glass
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~23~5~14 ~23~5~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~24~5~14 ~24~5~68 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~21~6~15 ~21~6~16 minecraft:glass
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~7~15 ~22~7~17 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~23~6~15 ~23~6~16 minecraft:glass
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~22~5~16 minecraft:stone_brick_stairs ["upside_down_bit":false,"weirdo_direction":2]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~21~6~17 ~21~6~18 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~5~17 ~22~5~69 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~6~17 ~22~6~18 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~23~6~17 ~23~6~18 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~6~19 ~22~6~69 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~21~0~23 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~22~1~23 ~22~2~23 minecraft:nether_brick_fence
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~23~0~23 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~9~4~36 ~9~4~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~35~4~36 ~35~4~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~9~3~37 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":true]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~9~5~37 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~16~3~37 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~17~3~37 ~17~3~66 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~27~3~37 ~27~3~66 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~28~3~37 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~35~3~37 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":true]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~35~5~37 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~3~38 ~8~3~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":true]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~4~38 ~8~4~39 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~5~38 ~8~5~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~9~3~38 ~9~3~39 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~9~5~38 ~9~5~39 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~10~3~38 ~10~3~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":true]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~10~4~38 ~10~4~39 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~10~5~38 ~10~5~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~15~3~38 ~15~3~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~16~3~38 ~16~3~65 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~28~3~38 ~28~3~65 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~29~3~38 ~29~3~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~3~38 ~34~3~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":true]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~4~38 ~34~4~39 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~5~38 ~34~5~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~35~3~38 ~35~3~39 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~35~5~38 ~35~5~39 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~36~3~38 ~36~3~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":true]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~36~4~38 ~36~4~39 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~36~5~38 ~36~5~39 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~7~3~40 ~7~5~58 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~2~40 ~10~2~58 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~6~40 ~10~6~58 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~11~3~40 ~11~5~58 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~14~3~40 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~15~3~40 ~15~3~64 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~29~3~40 ~29~3~64 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~30~3~40 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~33~3~40 ~33~5~58 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~2~40 ~36~2~58 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~6~40 ~36~6~58 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~37~3~40 ~37~5~58 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~6~4~41 ~6~4~60 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~13~3~41 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~14~3~41 ~14~3~64 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~30~3~41 ~30~3~64 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~31~3~41 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~38~4~41 ~38~4~60 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~12~3~42 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~13~3~42 ~13~3~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~31~3~42 ~31~3~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~32~3~42 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~5~4~43 ~5~4~51 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~3~43 ~10~3~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~4~43 ~8~5~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~9~5~43 ~10~5~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~10~4~43 ~10~4~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~12~3~43 ~12~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~32~3~43 ~32~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~3~43 ~36~3~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~4~43 ~34~5~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~35~5~43 ~36~5~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~36~4~43 ~36~4~54 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~39~4~43 ~39~4~51 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~12~4~44 ~12~4~61 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~32~4~44 ~32~4~61 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~4~4~46 ~4~4~50 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~40~4~46 ~40~4~50 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~15~0~49 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~29~0~49 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~14~0~50 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~15~1~50 ~15~2~50 minecraft:nether_brick_fence
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~16~0~50 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~28~0~50 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~29~1~50 ~29~2~50 minecraft:nether_brick_fence
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~30~0~50 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~6~3~51 ~6~3~61 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~38~3~51 ~38~3~61 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~4~3~52 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~5~3~52 ~5~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~39~3~52 ~39~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~40~3~52 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~3~3~53 ~3~3~54 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~4~3~53 ~4~3~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~40~3~53 ~40~3~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~41~3~53 ~41~3~54 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~9~7~54 ~9~7~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~35~7~54 ~35~7~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~2~3~55 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~3~3~55 ~3~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~9~8~55 ~9~8~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~35~8~55 ~35~8~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~41~3~55 ~41~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~42~3~55 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~1~3~56 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~2~3~56 ~2~3~61 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~3~56 ~10~5~57 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~9~9~56 ~9~9~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~3~56 ~36~5~57 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~35~9~56 ~35~9~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~42~3~56 ~42~3~61 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~43~3~56 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~0~3~57 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~1~3~57 ~1~3~60 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~10~9~57 ~10~9~63 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":true]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~10~10~57 ~10~10~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~9~57 ~34~9~63 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":true]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~10~57 ~34~10~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~43~3~57 ~43~3~60 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~44~3~57 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~0~3~58 ~0~3~59 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~10~11~58 ~10~11~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~11~58 ~34~11~63 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~44~3~58 ~44~3~59 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~45~3~58 ~45~3~59 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~7~3~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~7~4~59 ~7~4~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~7~5~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~8~2~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~8~6~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~9~2~59 ~9~2~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~9~6~59 ~9~6~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~10~2~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~10~6~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~11~3~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~11~4~59 ~11~4~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~11~5~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~33~3~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~33~4~59 ~33~4~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~33~5~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~34~2~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~34~6~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~35~2~59 ~35~2~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~35~6~59 ~35~6~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~36~2~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~36~6~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~37~3~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~37~4~59 ~37~4~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~37~5~59 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~0~3~60 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~7~3~60 ~7~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~7~5~60 ~7~5~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~2~60 ~8~2~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~6~60 ~8~6~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~10~2~60 ~10~2~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~10~6~60 ~10~6~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~11~3~60 ~11~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~11~5~60 ~11~5~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~33~3~60 ~33~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~33~5~60 ~33~5~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~2~60 ~34~2~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~6~60 ~34~6~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~36~2~60 ~36~2~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~36~6~60 ~36~6~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~37~3~60 ~37~3~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~37~5~60 ~37~5~62 minecraft:wool ["color":"black"]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~44~3~60 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~1~3~61 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~43~3~61 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~2~3~62 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~6~3~62 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~38~3~62 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~42~3~62 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~3~3~63 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~5~3~63 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~7~3~63 ~7~5~64 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~2~63 ~10~2~64 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~8~6~63 ~10~6~64 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~11~3~63 ~11~5~64 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~12~3~63 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~32~3~63 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~33~3~63 ~33~5~64 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~2~63 ~36~2~64 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~34~6~63 ~36~6~64 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~37~3~63 ~37~5~64 minecraft:double_stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~39~3~63 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~41~3~63 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~13~3~64 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~31~3~64 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~14~3~65 ~15~3~65 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~29~3~65 ~30~3~65 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~16~3~66 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~28~3~66 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~17~3~67 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~27~3~67 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~18~3~68 ~19~3~68 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",TickDelay:99999,Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~25~3~68 ~26~3~68 minecraft:stone_block_slab ["stone_slab_type":"smooth_stone","top_slot_bit":false]
+",Invulnerable:1b,CustomName:"Kill Carts",Silent:1,NoAI:1,TickDelay:0,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:chicken"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"kill @e[type=item,r=5]
+",Invulnerable:1b,CustomName:"Kill Carts",Silent:1,NoAI:1,TickDelay:0,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:chicken"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"kill @e[type=item,r=5]
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"tp @e[type=chicken,dy=-150] ~ ~0.1 ~
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill~-1~-2~-1~-1~-1~1 stone
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill~-1~1~-1~1~1~1 stone 0 replace air
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~-1 ~0 ~-1 ~-1 ~0 ~1 stone 0 replace air
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"tp @e[type=chicken,dy=-150] ~ ~0.1 ~
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~1 ~0 ~1 ~1 ~0 ~-1 stone 0 replace air
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~-1 ~0 ~-1 ~1 ~0 ~-1 stone 0 replace air
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill ~-1 ~0 ~1 ~1 ~0 ~1 stone 0 replace air
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill~-1~-2~-1~1~-1~-1 stone
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill~1~-2~1~-1~-1~1 stone
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill~1~-2~1~1~-1~-1 stone
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill~-1~-3~1~1~-3~-1 stone
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock~0~-1~0 lava
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock ~0 ~-2 ~0 stone
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"setblock~0~-1~0 lava
+",Persistent:1b,TickDelay:99999,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"fill~-1~-2~-1~-1~-1~1 stone
+",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],display:{Lore:["Â§lÂ§bMade By: Â§dKitty Shizzî„€","Â§cÂ§aDiscord: Â§âˆ†Â§9sc7FypN9R3","Â§9Â§lWarning:Â§cÂ§rÂ§dÂ§lÂ§âˆ†Â§c Dont Hold Too","Â§âˆ†Â§cMany Or You Will Lag!!Â§r"],Name:"Kittys Builds"},ench:[{id:28s,lvl:1s}]}}],RepairCost:0,display:{Lore:["Â§lÂ§bMade By: Â§dKitty Shizzî„€","Â§cÂ§aDiscord: Â§âˆ†Â§9sc7FypN9R3","Â§9Â§lWarning:Â§cÂ§rÂ§dÂ§lÂ§âˆ†Â§c Dont Hold Too","Â§âˆ†Â§cMany Or You Will Lag!!Â§r"],Name:"Â§lÂ§dÂ§oî„Kitty's Â§eBuilds: Â§bJetÂ§rî„€"}}}

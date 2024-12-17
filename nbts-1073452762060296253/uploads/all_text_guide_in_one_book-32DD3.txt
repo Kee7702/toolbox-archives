@@ -1,0 +1,76 @@
+{Count:1b,Damage:0s,Name:"minecraft:written_book",WasPickedUp:0b,tag:{author:"Â§dÂ§lMortada",generation:0,pages:[{photoname:"",text:"Note if u want to see the Â§ what click on text to show it
+Â§cALL MINECRAFT FONTS,COLOURS,TEXTS,EMOJIS
+---------------------------------
+Â§0
+Â§l bold text
+Â§m strikethrough text
+Â§o italicize text
+Â§n underline text
+Â§k glitched text"},{photoname:"",text:"Â§0 black
+Â§1 dark blue 
+Â§2 dark green
+Â§3 dark aqua
+Â§4 dark red
+Â§5 dark purple
+Â§6 gold
+Â§7 gray
+Â§8 dark gray
+Â§9 blue
+Â§a green
+Â§b aqua
+Â§c red
+Â§d light purpleÂ§e yellowi"},{photoname:"",text:"A Button î€€
+B Button î€
+X Button î€‚
+Y Button î€ƒ
+LB Button î€„
+RB Button î€…
+LT Button î€†
+RT Button î€‡
+Start Button î€‰
+Left Stick Button î€Š
+Right Stick Button î€‹
+D-Pad Up Button î€Œ
+D-Pad Down Button î€Ž
+D-Pad Right Button î€"},{photoname:"",text:"MOBILE
+--------------
+Foward Arrow Button î‚€
+Backwards Arrow Button î‚‚
+Left Arrow Button î‚
+Right Arrow Button î‚ƒ
+Jump Button î‚„
+Crouch Button î‚…
+Fly Up Button î‚†
+Fly Down Button î‚‡"},{photoname:"",text:"MINECRAFT EMOJIS
+----------------
+Craftable Toggle On î‚ 
+Craftable Toggle Off î‚¡
+Food Icon î„€
+Armor Icon î„
+Minecoin î„‚
+Code Builder Button î„ƒ
+Immersive Reader Button î„„
+Token î„…"},{photoname:"",text:"WINDOWS MR
+Left Grab Button îƒ€
+Right Grab Button îƒ
+Menu Button îƒ‚
+Left Stick Button îƒƒ
+Right Stick Button îƒ„
+Left Touchpad Button îƒ…"},{photoname:"",text:"Left Touchpad Horizontal Button îƒ†
+Left Touchpad Vertical Button îƒ‡
+Right Touchpad Button îƒˆ
+Right Touchpad Horizontal Button îƒ‰
+Right Touchpad Vertical Button îƒŠ
+Left Trigger Button îƒ‹
+Right Trigger Button îƒŒWindows îƒ"},{photoname:"",text:"RIFT
+---------
+0 Button îƒ 
+A Button îƒ¡
+B Button îƒ¢
+Left Grab Button îƒ£
+Right Grab Button îƒ¤
+Left Stick Button îƒ¥
+Right Stick Button îƒ¦
+Left Trigger Button îƒ§
+Right Trigger Button îƒ¨
+X Button îƒ©Y Button îƒª"},{photoname:"",text:""},{photoname:"",text:""}],title:"All Â§cText",xuid:"2535469533555158"}}

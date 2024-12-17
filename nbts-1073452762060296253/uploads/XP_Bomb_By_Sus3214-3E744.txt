@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:furnace",version:17879555,states:{facing_direction:0}},Count:64b,tag:{ench:[{id:0s,lvl:1s}],StoredXPInt:9000000,"minecraft:keep_on_death":1b,display:{Name:"§aXP Bomb\n§7(Break)\n§6Made by §aSus3214\n§fYou§cTube: §aSus3214"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:furnace"}

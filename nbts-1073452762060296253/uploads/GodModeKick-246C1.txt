@@ -1,0 +1,1 @@
+{Count:1b,tag:{CustomPotionEffects:[{Duration:10000,Id:24,Amplifier:100}],display:{Name:"God Potion"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:potion"}

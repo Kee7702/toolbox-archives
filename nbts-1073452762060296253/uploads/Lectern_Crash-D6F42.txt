@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:lectern",version:17879555,states:{powered_bit:0b,direction:0}},Count:64b,tag:{hasBook:1b,book:{Count:1b,tag:{generation:2,xuid:"",pages:[{text:hhdd,photoname:""},{text:"",photoname:""}],title:h,author:"squidard"},Damage:2s,WasPickedUp:0b,Name:"minecraft:written_book"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:lectern"}

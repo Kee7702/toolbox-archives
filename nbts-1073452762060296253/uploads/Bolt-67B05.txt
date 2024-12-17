@@ -1,0 +1,1 @@
+{ItemIdentifier:"minecraft:lightning_bolt",Count:54b,Damage:93s,Name:"minecraft:spawn_egg"}

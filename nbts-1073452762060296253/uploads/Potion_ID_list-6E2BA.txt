@@ -1,0 +1,27 @@
+Potion ID lists for my  splash bucket of potions.
+
+
+
+ ID       Effect
+ 1        Speed
+ 2        Slowness
+ 3        Haste
+ 4        Mining Fatigue
+ 5        Strength
+ 6        Heal
+ 7        Harm
+ 8        Jump boost
+ 9        Nausea
+ 10       Regenaration
+ 11       Resistance
+ 12       Fire resistance
+ 13       Water breathing
+ 14       Invisiblity 
+ 15       Blindness
+ 16       Night vision
+ 17       weakness 
+
+
+  I think thats all potion effects that i can get,im too lazy to search more.
+                                  
+                                          :D

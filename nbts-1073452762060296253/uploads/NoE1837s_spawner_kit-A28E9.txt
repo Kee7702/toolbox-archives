@@ -1,0 +1,1 @@
+{Count:1b,Damage:5s,Name:"minecraft:shulker_box",Slot:12b,WasPickedUp:0b,tag:<Your NBT Items!>,RepairCost:0,display:{Name:"Your Shulker name here"}}

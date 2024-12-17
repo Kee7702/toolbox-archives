@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:moving_block",version:17959425,states:{}},Count:2b,tag:{ench:[],movingBlock:{name:"minecraft:chest",states:{facing_direction:4}},display:{Name:"§r§8[ §eMovingBlock§8 ]\n§7*invisible Chest\n§8[ §dBy YTAzcrakMilk §8]"},movingEntity:{Items:[],id:Chest}},Damage:0s,WasPickedUp:0b,Name:"minecraft:moving_block"}

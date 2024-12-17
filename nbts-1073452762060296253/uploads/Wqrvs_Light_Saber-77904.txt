@@ -1,0 +1,1 @@
+{Count:1b,Damage:5s,Name:"minecraft:glow_stick",WasPickedUp:0b,tag:{Damage:0,RepairCost:0,display:{Name:"Â§rÂ§lÂ§5Light Saber"},ench:[{id:9s,lvl:6s}]}}

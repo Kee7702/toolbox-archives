@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:movingBlock",version:17879555,states:{}},Count:64b,tag:{movingBlock:{name:"minecraft:chest",version:17879555,states:{}},movingBlockExtra:{name:"minecraft:glass",version:17879555,states:{}},display:{Name:"glass chest"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:movingblock"}

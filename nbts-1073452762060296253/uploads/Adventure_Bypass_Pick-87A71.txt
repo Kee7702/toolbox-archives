@@ -1,0 +1,1 @@
+{CanDestroy:[stone,grass,dirt],tag:{Damage:0,ench:[{id:16s,lvl:1s},{id:17s,lvl:32767s},{id:15s,lvl:32767s},{id:26s,lvl:32767s}]},Count:1b,Damage:0s,Name:"minecraft:diamond_pickaxe"}

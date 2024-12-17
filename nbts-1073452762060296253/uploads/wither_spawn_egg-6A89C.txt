@@ -1,0 +1,1 @@
+{ItemIdentifier:"minecraft:wither",Count:64b,Damage:52s,Name:"minecraft:spawn_egg"}

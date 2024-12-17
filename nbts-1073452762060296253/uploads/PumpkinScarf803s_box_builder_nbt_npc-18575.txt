@@ -1,0 +1,354 @@
+{Count:1b,Damage:5s,Name:"minecraft:bucket",WasPickedUp:0b,tag:{,ench:[{id:28s,lvl:1s}],,hasBoundOrigin:0b,Actions:"[
+   {
+      "button_name" : "bedrock box",
+      "data" : [
+         {
+            "cmd_line" : "/fill\t~-9\t~10\t~-9\t~9\t~-3\t~9\tbedrock",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~5\t~5\t~-5\t~-1\t~-5\tbedrock\t0\thollow",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~4\t~5\t~4\t~-4\t~4\t~-4\tbedrock",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~2\t~-1\t~-5\t~\t~1\tbedrock",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~-2\t~-5\t~5\t~-5\t~5\tbedrock",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~-1\t~-1\t~-10\t~-1\t~1\tbedrock",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-2\t~\t~-4\t~\t~1\t~-4\tshulker_box",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~4\t~\t~-4\tbedrock",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~\t~-4\tslot.container\t1\tbedrock\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~\t~-4\tslot.container\t1\tbedrock\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~\t~-4\tslot.container\t1\tbedrock\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~1\t~-4\tslot.container\t1\tbedrock\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~4\t~-4\tslot.container\t1\tbedrock\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~2\t~-4\tslot.container\t1\tbedrock\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~1\t~-4\tslot.container\t1\tbedrock\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/summon\tpig\t~4\t~\t~2\tminecraft:make_creamy\tkys",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "2",
+      "type" : 1
+   },
+   {
+      "button_name" : "command box",
+      "data" : [
+         {
+            "cmd_line" : "/fill\t~-9\t~10\t~-9\t~9\t~-3\t~9\tcommand_block",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~5\t~5\t~-5\t~-1\t~-5\tcommand_block\t0\thollow",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~4\t~5\t~4\t~-4\t~4\t~-4\tcommand_block",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~2\t~-1\t~-5\t~\t~1\tcommand_block",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~-2\t~-5\t~5\t~-5\t~5\tcommand_block",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-2\t~\t~-4\t~\t~1\t~-4\tshulker_box",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~4\t~\t~-4\tcommand_block",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~\t~-4\tslot.container\t1\tcommand_block\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~\t~-4\tslot.container\t1\tcommand_block\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~\t~-4\tslot.container\t1\tcommand_block\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~1\t~-4\tslot.container\t1\tcommand_block\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~4\t~-4\tslot.container\t1\tcommand_block\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~2\t~-4\tslot.container\t1\tcommand_block\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~1\t~-4\tslot.container\t1\tcommand_block\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/summon\tcow\t~4\t~\t~2\tminecraft:make_creamy\tcommand",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "2",
+      "type" : 1
+   },
+   {
+      
+    "button_name" : "shulkerbox",
+      "data" : [
+         {
+         
+            "cmd_line" : "/fill\t~5\t~5\t~5\t~-5\t~-1\t~-5\tshulker_box\t0\thollow",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~4\t~5\t~4\t~-4\t~4\t~-4\tshulker_box",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~2\t~-1\t~-5\t~\t~1\tshulker_box",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~-2\t~-5\t~5\t~-5\t~5\tshulker_box",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-2\t~\t~-4\t~\t~1\t~-4\tshulker_box",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~4\t~\t~-4\tshulker_box",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~\t~-4\tslot.container\t1\tshulker_box\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~\t~-4\tslot.container\t1\tshulker_box\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~\t~-4\tslot.container\t1\tshulker_box\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~1\t~-4\tslot.container\t1\tshulker_box\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~4\t~-4\tslot.container\t1\tshulker_box\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~2\t~-4\tslot.container\t1\tshulker_box\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~1\t~-4\tslot.container\t1\tshulker_box\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/summon\tsheep\t~4\t~\t~2\tminecraft:make_creamy\tdumbass",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "3",
+      "type" : 1
+   },
+   {
+      "button_name" : "beaconbox",
+      "data" : [
+         {
+          "cmd_line" : "/fill\t~-9\t~10\t~-9\t~9\t~-3\t~9\tbeacon",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~5\t~5\t~-5\t~-1\t~-5\tbeacon\t0\thollow",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~4\t~5\t~4\t~-4\t~4\t~-4\tbeacon",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~2\t~-1\t~-5\t~\t~1\tbeacon",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~-2\t~-5\t~5\t~-5\t~5\tbeacon",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-2\t~\t~-4\t~\t~1\t~-4\tshulker_box",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~4\t~\t~-4\tbeacon",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~\t~-4\tslot.container\t1\tbeacon\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~\t~-4\tslot.container\t1\tbeacon\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~\t~-4\tslot.container\t1\tbeacon\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~1\t~-4\tslot.container\t1\tbeacon\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~4\t~-4\tslot.container\t1\tbeacon\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~2\t~-4\tslot.container\t1\tbeacon\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~1\t~-4\tslot.container\t1\tbeacon\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/summon\tcat\t~4\t~\t~2\tminecraft:make_creamy\tBEACON",
+            "cmd_ver" : 12  
+         }
+      ],
+      "mode" : 0,
+      "text" : "4",
+      "type" : 1
+   },
+   {
+      "button_name" : "killnpc",
+      "data" : [
+         {
+          "cmd_line" : "/kill\t@e[type=npc,\tr=1]",
+            "cmd_ver" : 12 
+         }
+      ],
+      "mode" : 0,
+      "text" : "5",
+      "type" : 1
+   },
+   {
+      "button_name" : "TNTbox",
+      "data" : [
+         {
+           "cmd_line" : "/fill\t~-9\t~10\t~-9\t~9\t~-3\t~9\ttnt",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~5\t~5\t~-5\t~-1\t~-5\ttnt\t0\thollow",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~4\t~5\t~4\t~-4\t~4\t~-4\ttnt",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~2\t~-1\t~-5\t~\t~1\ttnt",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-5\t~-2\t~-5\t~5\t~-5\t~5\ttnt",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~-2\t~\t~-4\t~\t~1\t~-4\tshulker_box",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~4\t~\t~-4\ttnt",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~\t~-4\tslot.container\t1\ttnt\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~\t~-4\tslot.container\t1\ttnt\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~\t~-4\tslot.container\t1\ttnt\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~\t~1\t~-4\tslot.container\t1\ttnt\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~4\t~-4\tslot.container\t1\ttnt\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-1\t~2\t~-4\tslot.container\t1\ttnt\t64",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem\tblock\t~-2\t~1\t~-4\tslot.container\t1\ttnt\t64",
+            "cmd_ver" : 12
+           
+         }
+      ],
+      "mode" : 0,
+      "text" : "6",
+      "type" : 1
+   }
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:0f,Current:0f,Max:1024f,Name:"minecraft:luck"},{Base:20f,Current:20f,Max:3.40282e+38f,Name:"minecraft:health"},{Base:0f,Current:0f,Max:16f,Name:"minecraft:absorption"},{Base:0f,Current:0f,Max:1f,Name:"minecraft:knockback_resistance"},{Base:0.5f,Current:0.5f,Max:3.40282e+38f,Name:"minecraft:movement"},{Base:0.02f,Current:0.02f,Max:3.40282e+38f,Name:"minecraft:underwater_movement"},{Base:0.02f,Current:0.02f,Max:3.40282e+38f,Name:"minecraft:lava_movement"},{Base:16f,Current:16f,Max:2048f,Name:"minecraft:follow_range"}],BodyRot:54.8438f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§4Portafort",CustomNameVisible:1b,Dead:0b,DeathTime:0s,EntityType:51,FallDistance:0f,HurtTime:0s,InterativeText:"PumpkinScarf803's box builder nbt npc made by PumpkinScarf803,",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[-354.516f,4f,75.4571f],RawtextName:"PumpkinScarf803's box builder",Rotation:[15.4688f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-47244640248l,Variant:19,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc"],display:{Lore:["hacked by PumpkinScarf803"],Name:"PumpkinScarf803's box builder nbt npc"},hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:-1}}

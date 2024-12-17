@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:tnt",version:17825808,states:{allow_underwater_bit:0b,explode_bit:0b}},Count:64b,Damage:0s,CanPlaceOn:[sand,grass],WasPickedUp:0b,CanDestroy:[sand,grass],Name:"minecraft:tnt"}

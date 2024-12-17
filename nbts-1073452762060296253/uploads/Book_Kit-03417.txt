@@ -1,0 +1,570 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"blue"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:2b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:name_tag",Slot:3b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"â˜­Ja"}}},{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:4b,WasPickedUp:0b,tag:{Patterns:[{Color:15,Pattern:"sc"},{Color:0,Pattern:"bri"},{Color:0,Pattern:"hh"},{Color:15,Pattern:"flo"},{Color:0,Pattern:"tt"}],Type:0}},{Count:1b,Damage:0s,Name:"minecraft:name_tag",Slot:5b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"â˜­Ja"}}},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:6b,WasPickedUp:0b},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:shulker_box",states:{color:"black"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:11b,WasPickedUp:0b,tag:{Items:[{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:0b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:2,pages:[{photoname:"",text:"The History Of The Communist Partys Manifesto
+
+NOTE
+THIS WAS WRITTEN A LONG TIME AGO SOME INFORMATION IS OUTDATED"},{photoname:"",text:"PREFACE.
+
+The "Manifesto" was published as the platform of the "Communist League" a workingmen's association, first exclusively German, later an international, and under the political conditions of the Continent before 1848,"},{photoname:"",text:"unavoidably a secret society. At a Congress of the League, held in London in November, 1847, Marx and Engels were commissioned to prepare for publication a complete theoretical and practical party-program"},{photoname:"",text:"Drawn up in German, in January, 1848, the manuscript was sent to the printer in London a few weeks before the French revolution of February 24th. A French translation was brought out in Paris"},{photoname:"",text:"shortly before the insurrection of June, 1848. The first English translation, by Miss Helen Macfarlane, appeared in George Julian Harney's "Red Republican," London, 1850"},{photoname:"",text:"A Danish and a Polish edition had also been published. The defeat of the Parisian insurrection of June, 1848â€”the first great battle between Proletariat and Bourgeoisieâ€”drove again into the background, for a time, the social"},{photoname:"",text:"and political aspirations of the European working class. Thenceforth, the struggle for supremacy was again, as it had been before the revolution of February, solely"},{photoname:"",text:"between different sections of the propertied class; the working class was reduced to a fight for political elbow-room, and to the position of extreme wing of the Middle-"},{photoname:"",text:"class Radicals. Wherever independent proletarian movements continued to show signs of life, they were ruthlessly hunted down. Thus the Prussian police hunted out"},{photoname:"",text:"the Central Board of the Communist League, then located in Cologne. The members were arrested, and after eighteen months' imprisonment, they were tried in"},{photoname:"",text:"October, 1852. This celebrated "Cologne Communist trial" lasted from October 4th till November 12th; seven of the prisoners were sentenced to terms of imprisonment"},{photoname:"",text:"in a fortress, varying from three to six years. Immediately after the sentence the League was formally dissolved by the remaining members. As to the "Manifesto," it seemed thenceforth to be doomed to oblivion."},{photoname:"",text:"When the European working class had recovered sufficient strength for another attack on the ruling classes, the International Working Men's Association sprang up. But this association, formed with the express aim of welding into one body"},{photoname:"",text:"the whole militant proletariat of Europe and America, could not at once proclaim the principles laid down in the "Manifesto." The International was bound to have a program broad enough to be acceptable to the English Trades' Unions,"},{photoname:"",text:"to the followers of Proudhon in France, Belgium, Italy and Spain and to the Lassalleans[1] in Germany. Marx, who drew up this program to the satisfaction of all parties, entirely trusted to the"},{photoname:"",text:"intellectual development of the working-class, which was sure to result from combined action and mutual discussion. The very events and vicissitudes of the struggle against Capital, the defeats even more"},{photoname:"",text:"intellectual development of the working-class, which was sure to result from combined action and mutual discussion. The very events and vicissitudes of the struggle against Capital, the defeats even more"},{photoname:"",text:"The International, on its breaking up in 1874, left the workers quite different men from what it had found them in 1864. Proudhonism in France, Lasalleanism in Germany were dying out,"},{photoname:"",text:"and even the Conservative English Trades' Unions, though most of them had long since severed their connection with the International, were gradually advancing towards that point at which, last year at"},{photoname:"",text:"Swansea, their president could say in their name, "Continental Socialism has lost its terrors for us." In fact, the principles of the "Manifesto" had made considerable headway among the working men of all countries."},{photoname:"",text:"The Manifesto itself thus came to the front again. The German text had been, since 1850, reprinted several times in Switzerland, England and America. In 1872, it was translated into English in New York,"},{photoname:"",text:"where the translation was published in "Woodhull and Claflin's Weekly." From this English version, a French one was made in "Le Socialiste" of New York. Since then at least two more English translations, more or less #########"},{photoname:"",text:"have been brought out in America, and one of them has been reprinted in England. The first Russian translation, made by Bakounine, was published at Herzen's "Kolokol" office in Geneva, about 1863; a second one, by the heroic"},{photoname:"",text:"Vera Zasulitch, also in Geneva, 1882. A new Danish edition is to be found in "Socialdemokratisk Bibliothek," Copenhagen, 1885; a fresh French translation in "Le Socialiste," Paris, 1886. From this latter a Spanish version "},{photoname:"",text:"was prepared and published in Madrid, 1886. The German reprints are not to be counted, there have been twelve altogether at the least. An Armenian translation, which was to be published in Constantinople some months ago,"},{photoname:"",text:"did not see the light, I am told, because the publisher was afraid of bringing out a book with the name of Marx on it, while the translator declined to call it his own production. Of further translations into other"},{photoname:"",text:"languages I have heard, but have not seen them. Thus the history of the Manifesto reflects, to a great extent, the history of the modern working-class movement; at present it is undoubtedly the most widespread,"},{photoname:"",text:"the most international production of all Socialist literature, the common platform acknowledged by millions of working men from Siberia to California."},{photoname:"",text:"Yet, when it was written, we could not have called it a Socialist Manifesto. By Socialists, in 1847, were understood, on the one hand, the adherents of the various Utopian systems: Owenites in England, Fourierists in France,"},{photoname:"",text:"both of them already reduced to the position of mere sects, and gradually dying out; on the other hand, the most multifarious social quacks, who, by all manners of tinkering, professed to redress
+
+There Is more but I will end here..."}],title:"Communism",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:1b,WasPickedUp:0b,tag:{author:"Rexico",generation:0,pages:[{photoname:"",text:"E
+"},{photoname:"",text:""}],title:"E",xuid:"2535442694836110"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:2b,WasPickedUp:0b,tag:{author:"Colnel Sanders",generation:0,pages:[{photoname:"",text:"KFC
+KENTUCKY FRIED CHILDREN
+
+KFA 
+KENTUCKY FRIED AMERICANS
+
+KFK
+KENTUCKY FRIED KENTUCKY"},{photoname:"",text:"KJB
+RUSSIA
+
+JFK
+JOHN F. KENNEDY
+
+KFE
+KENTUCKY FRIED EARTH"}],title:"KFC BOOK 1",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:3b,WasPickedUp:0b,tag:{author:"Alfie",generation:0,pages:[{photoname:"",text:"Just got a dragon head feeling good :)
+"},{photoname:"",text:""}],title:"Dragon",xuid:"2535448486586733"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:4b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"K.F.C
+
+KENTUCKY FRIED CHILDREN"},{photoname:"",text:"QUI QUI BAGGUET
+LIL NAPOLOEN IST SHORT"}],title:"KFC and Qui",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:5b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:1,pages:[{photoname:"",text:"The History Of The Communist Partys Manifesto
+
+NOTE
+THIS WAS WRITTEN A LONG TIME AGO SOME INFORMATION IS OUTDATED"},{photoname:"",text:"PREFACE.
+
+The "Manifesto" was published as the platform of the "Communist League" a workingmen's association, first exclusively German, later an international, and under the political conditions of the Continent before 1848,"},{photoname:"",text:"unavoidably a secret society. At a Congress of the League, held in London in November, 1847, Marx and Engels were commissioned to prepare for publication a complete theoretical and practical party-program"},{photoname:"",text:"Drawn up in German, in January, 1848, the manuscript was sent to the printer in London a few weeks before the French revolution of February 24th. A French translation was brought out in Paris"},{photoname:"",text:"shortly before the insurrection of June, 1848. The first English translation, by Miss Helen Macfarlane, appeared in George Julian Harney's "Red Republican," London, 1850"},{photoname:"",text:"A Danish and a Polish edition had also been published. The defeat of the Parisian insurrection of June, 1848â€”the first great battle between Proletariat and Bourgeoisieâ€”drove again into the background, for a time, the social"},{photoname:"",text:"and political aspirations of the European working class. Thenceforth, the struggle for supremacy was again, as it had been before the revolution of February, solely"},{photoname:"",text:"between different sections of the propertied class; the working class was reduced to a fight for political elbow-room, and to the position of extreme wing of the Middle-"},{photoname:"",text:"class Radicals. Wherever independent proletarian movements continued to show signs of life, they were ruthlessly hunted down. Thus the Prussian police hunted out"},{photoname:"",text:"the Central Board of the Communist League, then located in Cologne. The members were arrested, and after eighteen months' imprisonment, they were tried in"},{photoname:"",text:"October, 1852. This celebrated "Cologne Communist trial" lasted from October 4th till November 12th; seven of the prisoners were sentenced to terms of imprisonment"},{photoname:"",text:"in a fortress, varying from three to six years. Immediately after the sentence the League was formally dissolved by the remaining members. As to the "Manifesto," it seemed thenceforth to be doomed to oblivion."},{photoname:"",text:"When the European working class had recovered sufficient strength for another attack on the ruling classes, the International Working Men's Association sprang up. But this association, formed with the express aim of welding into one body"},{photoname:"",text:"the whole militant proletariat of Europe and America, could not at once proclaim the principles laid down in the "Manifesto." The International was bound to have a program broad enough to be acceptable to the English Trades' Unions,"},{photoname:"",text:"to the followers of Proudhon in France, Belgium, Italy and Spain and to the Lassalleans[1] in Germany. Marx, who drew up this program to the satisfaction of all parties, entirely trusted to the"},{photoname:"",text:"intellectual development of the working-class, which was sure to result from combined action and mutual discussion. The very events and vicissitudes of the struggle against Capital, the defeats even more"},{photoname:"",text:"intellectual development of the working-class, which was sure to result from combined action and mutual discussion. The very events and vicissitudes of the struggle against Capital, the defeats even more"},{photoname:"",text:"The International, on its breaking up in 1874, left the workers quite different men from what it had found them in 1864. Proudhonism in France, Lasalleanism in Germany were dying out,"},{photoname:"",text:"and even the Conservative English Trades' Unions, though most of them had long since severed their connection with the International, were gradually advancing towards that point at which, last year at"},{photoname:"",text:"Swansea, their president could say in their name, "Continental Socialism has lost its terrors for us." In fact, the principles of the "Manifesto" had made considerable headway among the working men of all countries."},{photoname:"",text:"The Manifesto itself thus came to the front again. The German text had been, since 1850, reprinted several times in Switzerland, England and America. In 1872, it was translated into English in New York,"},{photoname:"",text:"where the translation was published in "Woodhull and Claflin's Weekly." From this English version, a French one was made in "Le Socialiste" of New York. Since then at least two more English translations, more or less #########"},{photoname:"",text:"have been brought out in America, and one of them has been reprinted in England. The first Russian translation, made by Bakounine, was published at Herzen's "Kolokol" office in Geneva, about 1863; a second one, by the heroic"},{photoname:"",text:"Vera Zasulitch, also in Geneva, 1882. A new Danish edition is to be found in "Socialdemokratisk Bibliothek," Copenhagen, 1885; a fresh French translation in "Le Socialiste," Paris, 1886. From this latter a Spanish version "},{photoname:"",text:"was prepared and published in Madrid, 1886. The German reprints are not to be counted, there have been twelve altogether at the least. An Armenian translation, which was to be published in Constantinople some months ago,"},{photoname:"",text:"did not see the light, I am told, because the publisher was afraid of bringing out a book with the name of Marx on it, while the translator declined to call it his own production. Of further translations into other"},{photoname:"",text:"languages I have heard, but have not seen them. Thus the history of the Manifesto reflects, to a great extent, the history of the modern working-class movement; at present it is undoubtedly the most widespread,"},{photoname:"",text:"the most international production of all Socialist literature, the common platform acknowledged by millions of working men from Siberia to California."},{photoname:"",text:"Yet, when it was written, we could not have called it a Socialist Manifesto. By Socialists, in 1847, were understood, on the one hand, the adherents of the various Utopian systems: Owenites in England, Fourierists in France,"},{photoname:"",text:"both of them already reduced to the position of mere sects, and gradually dying out; on the other hand, the most multifarious social quacks, who, by all manners of tinkering, professed to redress
+
+There Is more but I will end here..."}],title:"Communism",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:6b,WasPickedUp:0b,tag:{author:"Devin",generation:0,pages:[{photoname:"",text:"BIBLOTHECA CITIES
+Biggest Cities
+Jan 27 2022
+
+1. Spawn
+2. Greenwood
+3. Axertia
+
+4. Poland
+5. Brasilia
+6. Rexico"},{photoname:"",text:""}],title:"City 1.27.22",xuid:"2535472409641230"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:7b,WasPickedUp:0b,tag:{author:"CYDONIA",generation:0,pages:[{photoname:"",text:"Poland Census
+4 Total
+As Of 1-25-2022
+-_-_-_-_-_-_-_-_-_-_"},{photoname:"",text:"
+
+
+
+/\.             /\
+\/.            .\/
+
+\______________/"}],title:"Poland Census",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:8b,WasPickedUp:0b,tag:{author:"Vladimir Lenin",generation:0,pages:[{photoname:"",text:"Imperialism, the Highest Stage of Capitalism
+--------------------
+Provided By WikiSource
+
+--------------------
+
+by Vladimir Ilyich Lenin
+
+Published In
+(1916)
+
+Only Part Of Chapter I"},{photoname:"",text:"
+
+I. CONCENTRATION OF PRODUCTION AND MONOPOLIES"},{photoname:"",text:"The enormous growth of industry and the remarkably rapid concentration of production in ever-larger enterprises are one of the most characteristic features of capitalism. Modern production censuses give most complete and most exact data on this process."},{photoname:"",text:"In Germany, for example, out of every 1,000 industrial enterprises, large enterprises, i.e., those employing more than 50 workers, numbered three in 1882, six in 1895 and nine in 1907; and out of every 100 workers employed,"},{photoname:"",text:"this group of enterprises employed. 22, 30 and 37, respectively. Concentration of production, however, is much more intense than the concentration of workers, since labour in the large enterprises is much more productive."},{photoname:"",text:"This is shown by the figures on steam-engines and electric motors. If we take what in Germany is called industry in the broad sense of the term, that is, including commerce, transport, etc."},{photoname:"",text:"we get the following picture. Large-scale enterprises, 30,588 out of a total of 3,265,623, that is to say, 0.9 per cent. These enterprises employ 5,700,000 workers out of a total of 14,400,000, i.e.,"},{photoname:"",text:"39.4 per cent; they use 6,600,000 steam horse power out of a total of 8,800,000, i.e., 75.3 per cent, and 1,200,000 kilowatts of electricity out of a total of 1,500,000, i.e., 77.2 per cent."},{photoname:"",text:"Less than one-hundredth of the total number of enterprises utilise more than three-fourths of the total amount of steam and electric power! Two million nine hundred and seventy thousand small enterprises (employing up to five workers),"},{photoname:"",text:"constituting 91 per cent of the total, utilise only 7 per cent of the total amount of steam and electric power! Tens of thousands of huge enterprises are everything; millions of small ones are nothing."},{photoname:"",text:"In 1907, there were in Germany 586 establishments employing one thousand and more workers, nearly one-tenth (1,380,000) of the total number of workers employed in industry, and they consumed almost one-third (32 per cent) of the total amount of steam"},{photoname:"",text:" and electric power.[1] As we shall see, money capital and the banks make this superiority of a handful of the largest enterprises still more overwhelming, in the most literal sense of the word, i.e., millions of small, medium "},{photoname:"",text:"and even some big â€œproprietorsâ€ are in fact in complete subjection to some hundreds of millionaire financiers."},{photoname:"",text:"n another advanced country of modern capitalism, the United States of America, the growth of the concentration of production is still greater. Here statistics single out industry in the narrow sense of the word and classify enterprises "},{photoname:"",text:"according to the value of their annual output. In 1904 large-scale enterprises with an output valued at one million dollars and over, numbered 1,900 (out of 216,180, i.e., 0.9 per cent). These employed"},{photoname:"",text:"1,400,000 workers (out of 5,500,000, i.e., 25.6 per cent) and the value of their output amounted to $5,600,000,000 (out of $14,800,000,000, i.e., 38 per cent). Five years later, in 1909,"},{photoname:"",text:"the corresponding figures were: 3,060 enterprises (out of 268,491, i.e., 1.1 per cent) employing 2,000,000 workers (out of 6,600,000, i.e., 30.5 per cent) with an output valued at $9,000,000,000 (out of $20,700,000,000, i.e., 43.8 per cent). [2]
+
+"},{photoname:"",text:"Almost half the total production of all the enterprises of the country was carried on by one-hundredth part of these enterprises! These 3,000 giant enterprises embrace 258 branches of industry. "},{photoname:"",text:"From this it can be seen that at a certain stage of its development concentration itself, as it were, leads straight to monopoly, for a score or so of giant enterprises can easily arrive at an agreement, and on the other hand"},{photoname:"",text:"the hindrance to competition, the tendency towards monopoly, arises from the huge size of the enterprises. This transformation of competition into monopoly is one of the most importantâ€”if not the most important"},{photoname:"",text:"â€”phenomena of modern capitalist economy, and we must deal with it in greater detail. But first we must clear up one possible misunderstanding.
+
+"},{photoname:"",text:"American statistics speak of 3,000 giant enterprises in 250 branches of industry, as if there were only a dozen enterprises of the largest scale for each branch of industry."},{photoname:"",text:"But this is not the case. Not in every branch of industry are there large-scale enterprises; and moreover, a very important feature of capitalism in its highest stage of development is so-called combination of production, that is to say, the grouping"},{photoname:"",text:" in a single enterprise of different branches of industry, which either represent the consecutive stages in the processing of raw materials (for example, the smelting of iron ore into pig-iron,"},{photoname:"",text:" the conversion of pig-iron into steel, and then, perhaps, the manufacture of steel goods)â€”or are auxiliary to one another (for example, the utilisation of scrap, or of by-products, the manufacture of packing materials, etc.)."},{photoname:"",text:"â€œCombination,â€ writes Hilferding, â€œlevels out the fluctuations of trade and therefore assures to the combined enterprises a more stable rate of profit. Secondly, combination has the effect of eliminating trade. Thirdly,"},{photoname:"",text:" it has the effect of rendering possible technical improvements, and, consequently, the acquisition of superprofits over and above those obtained by the â€˜pureâ€™ (i.e,, non-combined) enterprises. Fourthly,"},{photoname:"",text:"I will end here for time and space."}],title:"Imperialism",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:9b,WasPickedUp:0b,tag:{author:"The Nut",generation:0,pages:[{photoname:"",text:"Garry Potter Ep 1.
+
+-_-_-_-_-_-_-_-_-_-_
+Garry was a british boy he ate kfc all day and watched CBB. Until a hairy man asked him want a bucket of kfc? He said yes then he saw rainbow colors. "},{photoname:"",text:""}],title:"Garry Potter Ep1",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:10b,WasPickedUp:0b,tag:{author:"The Nut",generation:0,pages:[{photoname:"",text:"GARRY POTTER EP.2
+-=-=-=-=-==-=-=-=-=
+
+After he ate the KFC he had magic powers he could fly and animals could talk to him so he went to orts the school of magic. Here he executed a tsar!"},{photoname:"",text:""}],title:"GARRY POTTER EP2",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:11b,WasPickedUp:0b,tag:{author:"Alex ",generation:0,pages:[{photoname:"",text:"Mexican Taco News REXICO IS BORNED Rexico was borned a couple days ago and was Russian Mexico USSR FELL APART??? Bird said Ussr falled apart REXICO WAS GOING TO GO TO WAR WITH USSR??? Yes Rexico was going to"},{photoname:"",text:"going to for freedom.
+"}],title:"Mexican Taco New",xuid:"2535442694836110"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:12b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Jedi
+-=-=-=-=-=-=-=-=-=-"},{photoname:"",text:"Jedi (/ËˆdÊ’É›daÉª/), Jedi Knights, or collectively the Jedi Order are the main heroic protagonists of many works of the Star Wars franchise. Working symbiotically alongside the Old Galactic Republic and later the Rebel Alliance, "},{photoname:"",text:"the Jedi Order is depicted as a monastic, academic, martial, and meritocratic peacekeeping organization whose origin dates back thousands of years before the events"},{photoname:"",text:"of the first film released in the franchise. The fictional organization has inspired a real-world new religious movement: Jediism."}],title:"Jedi",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:13b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"BURN BULGARIA
+BULGAR=TRASH
+KFC KIDS=GOOD"},{photoname:"",text:"\
+  \
+    \
+      \
+        \
+        /
+      /
+    /
+  /
+/"}],title:"BURN BULGARS",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:14b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"HÃ«othil Bthird
+Our Ã«or Ã«olse"},{photoname:"",text:""}],title:"HÃ«oil",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:15b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"The Bar-tenderâ€™s Guide
+
+or
+
+HOW TO MIX ALL KINDS
+
+--------------------"},{photoname:"",text:"Take 1Â½ bottle of Claret. â…“ #### of Curacoa. Â½ #### of sherry. Â¼ #### of brandy. 1 ########## of raspberry ####### (see Index). 1Â½ oranges in slices. Â½ a lemon in slices. 1 bottle of Seltzer water. 1Â½ bottle of soda-water."},{photoname:"",text:"Take 2 bottles of Claret. 1 bottle of ########## 2 bottles of soda-water. 2 table-spoonfuls of powdered sugar. 2 lemons. Â½ a small cucumber."},{photoname:"",text:""},{photoname:"",text:""},{photoname:"",text:"Take 1 quart of strong ale. 1 #### of gin. 1 bottle of Sherry 12 eggs. 12 large lumps of sugar. 1 stick of cinnamon. 1 nutmeg, grated. 1 lemon."},{photoname:"",text:"Take 1 bottle of claret. Â½ #### of cold water. 1 table-spoonful of powdered sugar. 1 tea-spoonful of powdered cinnamon, cloves and allspice, mixed. 1 small lemon."},{photoname:"",text:"Take 1 bottle of porter.
+ 1 bottle of ale.
+ 1 glass of brandy.
+ 1 dessert-spoonful of syrup of ginger.
+ 3 or 4 lumps of sugar.
+ Â½ nutmeg, grated.
+ 1 tea-spoonful carbonate of soda.
+ 1 cucumber."},{photoname:"",text:"Take 1 bottle of Moselle. 1 #### of Sherry. 2 table-spoonfuls of sugar. 1 lemon. 1 sprig of verbena."},{photoname:"",text:"Take 6 ounces of very thin orange peel. 1 #### of whiskey. 1 #### of clarified syrup. 1 drachm powdered alum. 1 drachm carbonate of potash."},{photoname:"",text:"Take 1 quart of Sherry.
+ 8 quarts of boiling water.
+ 1 quart of boiling milk.
+ 2 pounds of loaf-sugar.
+ 24 lemons."},{photoname:"",text:"Plain Syrup.
+
+Take 6Â½ pounds of loaf-sugar.
+ Â½ gallon of water.
+ The white of 1 egg.
+Boil until dissolved, and filter through flannel."},{photoname:"",text:"Gum Syrup.
+
+Take 14 pounds of loaf-sugar.
+ 1 gallon of water.
+Boil together for five minutes, and add water to make up to 2 gallons.
+
+"},{photoname:"",text:"Lemon Syrup. Take 5 gallons of gum syrup. 4 ounces of tartaric acid. 1 ounce of oil of lemon. 1 #### of alcohol. Cut the oil of lemon in the alcohol, add the tartaric acid, and mix thoroughly with the syrup."}],title:"Bartending",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:16b,WasPickedUp:0b,tag:{author:"MCD912",generation:0,pages:[{photoname:"",text:"Â§1Table of Contents
+Â§4MarkersÂ§8..............p2-3
+Â§3Mob RadarÂ§8........p3-4
+Â§6Dmnd LctrÂ§8.........p5-6
+Â§9Map ArtÂ§8...............p7-14"},{photoname:"",text:"Â§4Markers
+Â§8To use a Map Marker, use one of the custom spawn eggs in your kit. The blue marker egg will place a blue marker, the red will place a red, and so on.
+Â§5**Starting with this version, map starts "ON". You can turn off with off spawn egg in kit."},{photoname:"",text:"Â§5The marker can be toggled back on at any time using the "ON" spawn egg. 
+
+Â§3Mob Radar
+Â§8The mob radar is "OFF" to start. You can toggle it on by using the radar spawn egg in your kit. The same spawn egg can be used to toggle back off."},{photoname:"",text:"Â§5Changes to Radar:
+In previous version all monsters were shown with a red dot on the map. Now, they have a letter so you can tell which mob it is. They have been grouped in some cases. For example, Drowned will show as Zombie. Stray will show as skeleton."},{photoname:"",text:"Â§6Diamond Locator -
+Â§8To locate diamonds, use the diamond finder spawn egg. Throw it at the ground at the location you would like to check. You will either see nothing new on your map (which means no diamonds), or number(s). The numbers represent the depth"},{photoname:"",text:"Â§8that the diamonds were detected. The numbers mean:
+Â§2Num. |      Y-Level
+==================
+Â§86     | -60 or below
+5     | -59 to -50
+4     | -49 to -40
+3     | -39 to -30
+Â§5This is like the treasure maps. You will still need to dig around to find them"},{photoname:"",text:"Â§9Map ArtÂ§8
+This is a huge new feature that could have been it's own addon, but since it is also map related, I combined into one.
+
+If you want to use this feature, use one of the map art spawn eggs in your kit. It will give you a new kit with"},{photoname:"",text:"Â§8tools just for map art/custom map markings.
+Â§9In the kit:Â§8
+-16 pen ink spawn eggs, one for each color you can use.
+-white bg spawn egg -remove white bg
+-your actual pen
+-letter kit spawn egg
+-Cartography table
+-glass panes
+-blank maps"},{photoname:"",text:"Â§9To draw:Â§8
+You need at least one ink and your pen.
+-Throw a spawn egg for the color you want to use.
+- Highlight the pen in your hotbar. You will write in that color as long as you are on the pen. To stop writing, move off of the pen. 
+
+ "},{photoname:"",text:"Â§8If you move back to the pen, you will write in the same col. as before.
+- To change color, use a new egg, and return to the pen the new color will be in use.
+- Eraser is same
+Â§a**I recommend putting the pen in far left spot and eraser in the far right."},{photoname:"",text:"Â§5Letter Kit -
+Â§8The letter egg will give you a letter kit. It has 26 eggs, one for each letter. 
+To use letter, just use an egg where you want it to appear."},{photoname:"",text:"Â§gOther Items
+Â§8â€ºWhite BG - Whites out your background on your map.
+â€ºWhite BG Removal - You guessed it... removes the white BG
+â€ºCart. Tables, Maps, Glass
+you can use the glass panes to lock the map with drawing on it. So you can make your art, lock the map"},{photoname:"",text:"Â§8â€ºand then erase then clear the map art. I recommend doing this."}],title:"ROPM User Manual",xuid:"2535439238822901"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:17b,WasPickedUp:0b,tag:{author:"Narraboy",generation:0,pages:[{photoname:"",text:"How to get to heaven a guide by Narraboy 
+
+Step 1 pray everyday and go to church every sunday 
+
+Step 2 do not sin 
+
+Step 3 read the bible 
+
+Step 4 get old
+
+Step 5 die"},{photoname:"",text:""}],title:"Heaven",xuid:"2533274798841348"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:18b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"USSR AND BRASILIA
+ALLIANCE
+-_-_-_-_-_-_-_-_-_-_
+If One Gets Attacked The Other Must Save Them..."},{photoname:"",text:"Effective as of 1/24/2022"}],title:"Pax USSR/Brasil",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:19b,WasPickedUp:0b,tag:{author:"H",generation:0,pages:[{photoname:"",text:"Village Craft Wars...
+
+Village Craft is where most of this servers culture. Well we were refugees from a War on vc between the U.S.S.R and Bulgaria. Then tye ussr lost because the Bulgars cheated."},{photoname:"",text:""}],title:"V.C War",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:20b,WasPickedUp:0b,tag:{author:"WikiSource",generation:0,pages:[{photoname:"",text:"An Anarchist FAQ/What is anarchism?
+
+An Anarchist FAQ by Iain McKay
+-------------------
+
+  What is anarchism?
+ Credit To Wikisource"},{photoname:"",text:"Anarchism is a political theory which aims to create anarchy, "the absence of a master, of a sovereign."[1] In other words, anarchism is a political theory which aims to create a society within which individuals freely co-operate together as equals.
+
+"},{photoname:"",text:" As such anarchism opposes all forms of hierarchical controlâ€”be that control by the state or a capitalistâ€”as harmful to the individual and their individuality as well as unnecessary.
+
+In the words of anarchist L. Susan Brown:"},{photoname:"",text:""While the popular understanding of anarchism is of a violent, anti-State movement, anarchism is a much more subtle and nuanced tradition then a simple opposition to government power."},{photoname:"",text:"Anarchists oppose the idea that power and domination are necessary for society, and instead advocate more co-operative, anti-hierarchical forms of social, political and economic organisation."[2]"},{photoname:"",text:"However, "anarchism" and "anarchy" are undoubtedly the most misrepresented ideas in political theory. Generally, the words are used to mean "chaos" or "without order," and so, by implication, "},{photoname:"",text:"anarchists desire social chaos and a return to the "laws of the jungle."
+
+"},{photoname:"",text:"This process of misrepresentation is not without historical parallel. For example, in countries which have considered government by one person (monarchy) necessary, the words "republic" or "democracy""},{photoname:"",text:"have been used precisely like "anarchy," to imply disorder and confusion. Those with a vested interest in preserving the status quo will obviously wish to imply that opposition to the current system cannot work in practice"},{photoname:"",text:", and that a new form of society will only lead to chaos. Or, as Errico Malatesta expresses it:"},{photoname:"",text:""since it was thought that government was necessary and that without government there could only be disorder and confusion, it was natural and logical that anarchy, which means absence of government, should sound like absence of order."[3]"},{photoname:"",text:"Anarchists want to change this "common-sense" idea of "anarchy," so people will see that government and other hierarchical social relationships are both harmful and unnecessary:"},{photoname:"",text:""Change opinion, convince the public that government is not only unnecessary, but extremely harmful, and then the word anarchy, just because it means absence of government, will come to mean for everybody: natural order,"},{photoname:"",text:"unity of human needs and the interests of all, complete freedom within complete solidarity."[4]"},{photoname:"",text:"This FAQ is part of the process of changing the commonly-held ideas regarding anarchism and the meaning of anarchy. But that is not all. As well as combating the distortions produced by the "common-sense" idea of "anarchy","},{photoname:"",text:"we also have to combat the distortions that anarchism and anarchists have been subjected to over the years by our political and social enemies. For, as Bartolomeo Vanzetti put it, anarchists are "the radical of the radicalâ€”"},{photoname:"",text:"the black cats, the terrors of many, of all the bigots, exploiters, charlatans, fakers and oppressors. Consequently we are also the more slandered, misrepresented, misunderstood and persecuted of all."[5]"},{photoname:"",text:"Vanzetti knew what he was talking about. He and his comrade Nicola Sacco were framed by the US state for a crime they did not commit and were, effectively, electrocuted for being foreign anarchists in 1927."},{photoname:"",text:"So this FAQ will have to spend some time correcting the slanders and distortions that anarchists have been subjected to by the capitalist media, politicians, ideologues and bosses"},{photoname:"",text:"(not to mention the distortions by our erstwhile fellow radicals like liberals and Marxists). Hopefully once we are finished you will understand why those in power have spent so much time attacking anarchismâ€”"},{photoname:"",text:"it is the one idea which can effectively ensure liberty for all and end all systems based on a few having power over the many."},{photoname:"",text:"The word "anarchy" is from the Greek, prefix an (or a), meaning "not," "the want of," "the absence of," or "the lack of", plus ####### meaning "a ruler," "director", "chief," "person in charge," or "authority.""},{photoname:"",text:"Or, as Peter Kropotkin put it, Anarchy comes from the Greek words meaning "contrary to authority."[6]"},{photoname:"",text:"While the Greek words ######## and anarchia are often taken to mean "having no government" or "being without a government," as can be seen, the strict, original meaning of anarchism was not simply"},{photoname:"",text:""no government." "An-archy" means "without a ruler," or more generally, "without authority," and it is in this sense that anarchists have continually used the word. For example, we find Kropotkin arguing that anarchism "},{photoname:"",text:""attacks not only capital, but also the main sources of the power of capitalism: law, authority, and the State."[7] For anarchists, anarchy means "not necessarily absence of order"},{photoname:"",text:", as is generally supposed, but an absence of rule."[8] Hence David Weick's excellent summary:"},{photoname:"",text:""Anarchism can be understood as the generic social and political idea that expresses negation of all power, sovereignty, domination, and hierarchical division, and a will to their dissolution... Anarchism is therefore more than anti-statism... "},{photoname:"",text:" [even if] government (the state)... is, appropriately, the central focus of anarchist critique."[9]"},{photoname:"",text:"For this reason, rather than being purely anti-government or anti-state, anarchism is primarily a movement against hierarchy. Why? Because hierarchy is the organisational structure that embodies authority. "},{photoname:"",text:"There Is more But I will cut it here to save time and space for the library thanks to wikisource you can read the full this there."},{photoname:"",text:""}],title:"Anarchism FAQ",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:21b,WasPickedUp:0b,tag:{author:"Shakespear",generation:0,pages:[{photoname:"",text:"The Tragedie of Macbeth
+William Shakespeare
+
+ACT 1
+SCENE 1
+-=-=-=-=-=-=-=-=-=-="},{photoname:"",text:"THE TRAGEDIE OF
+MACBETH.
+
+Actus primus, ScÃ¦na prima.
+
+Thunder and Lightning. Enter three Witches."},{photoname:"",text:"
+i.WHen shall we three meet againe?
+In Thunder, Lightning, or in Raine?
+
+2.
+When the Hurley-burley's done,
+When the Battaile's lost, and wonne.
+
+3.
+That will be ere the set "},{photoname:"",text:"of sunne
+
+1.
+Where the place?
+
+2.
+Vpon the Heath."},{photoname:"",text:"
+3.
+There to meet with Macbeth.
+
+
+1.
+I come, Gray-Malkin.
+"},{photoname:"",text:"All
+Padock calls anon: faire is foule, and foule is faire,
+Houer through the fogge and filthie ayre.Exeunt.
+"},{photoname:"",text:"ACT 1 SCENE 2
+-=-=-=-=-=-"},{photoname:"",text:"ScÃ¦na Secunda.
+
+Enter Iulia and Lucetta.
+
+Alarum within. Enter King Malcome, Donalbaine,
+Lenox, with attendants, meeting
+a bleeding Captaine."},{photoname:"",text:"King. What bloody man is that? he can report, As ####### by his plight, of the Reuolt The newest state."},{photoname:"",text:"Mal.
+This is the Serieant,
+Who like a good and hardie Souldier fought
+'Gainst my Captiuitie: Haile braue friend;
+Say to the King, the knowledge of the Broyle,
+As thou didst leaue it."},{photoname:"",text:"Cap.
+DoubtfuII it stood.
+As two spent Swimmers, that doe cling together,
+And choake their Art: The mercilesse Macdonwald
+(Worthie to be a Rebell, for to that
+The multiplying Villanies of Nature"},{photoname:"",text:"Doe swarme vpon him) from the Westerne Isles Of Kernes and Gallowgrosses is supply'd, And Fortune on his damned Quarry smiling, Shew'd like a Rebells ###### but all's too weake: For braue Macbeth (well hee deserues that Name)"},{photoname:"",text:"Disdayning Fortune, with his ######### Steele, Which smoak'd with bloody execution (Like Valours Minion) caru'd out his passage, Till hee fac'd the Slaue: Which neu'r shooke hands, nor bad farwell to him,"},{photoname:"",text:"Till he vnseam'd him from the Naue toth' Chops,
+And fix'd his Head vpon our Battlements.
+"},{photoname:"",text:"King.
+O valiant Cousin, worthy Gentleman.
+"},{photoname:"",text:"Cap. As whence the Sunne ##### his reflection, Shipwracking Stormes, and direfull Thunders: So from that Spring, whence comfort seem'd to come,"},{photoname:"",text:"Discomfort swells: Marke King of Scotland, marke,
+No sooner Iustice had, with Valour arm'd,
+Compell'd these skipping Kernes to trust their heeles,
+But the Norweyan Lord, surueying vantage,"},{photoname:"",text:"With furbusht Armes, and new supplyes of men,
+Began a fresh assault."},{photoname:"",text:"King.
+Dismay'd not this our Captaines, Macbeth and Banquoh?"},{photoname:"",text:"Cap
+Yes, as Sparrowes, EagIes;
+Or the Hare, the Lyon:
+If I say sooth, I must report they were
+As Cannons ouer-charg'd with double Cracks,
+So they doubly redoubled stroakes vpon the Foe:"},{photoname:"",text:"Except they meant to bathe in reeking Wounds,
+Or memorize another Golgotha,
+I cannot tell: but I am faint,
+My Gashes cry for helpe."},{photoname:"",text:"King.
+So well thy words become thee, as thy wounds,
+They smack of Honor both: Goe get him Surgeons.
+Enter Rosse and Angus.
+
+Who comes here?"},{photoname:"",text:"
+Mal.
+The worthy Thane of Rosse.
+
+Lenox.
+What a haste lookes through his eyes?
+So should he Iooke, that seemes to speake things strange.
+"},{photoname:"",text:"Rosse.
+God saue the King.
+ 
+King.
+Whence cam'st thou, worthy Thane?
+
+"},{photoname:"",text:"
+Rosse.
+From Fiffe, great King,
+Where the Norweyan Banners flowt the Skie,
+And fanne our people cold.
+Norway himselfe, With terrible numbers,"},{photoname:"",text:"Assisted by that most disloyall Traytor,
+The Thane of Cawdor, began a dismall Conflict,
+Till that Bellona's Bridegroome, lapt in proofe,
+Confronted him with selfe-comparisons,"},{photoname:"",text:"Point against Point, rebellious Arme 'gainst Arme,
+Curbing his lauish spirit: and to conclude,
+The Victorie fell on vs.
+"},{photoname:"",text:"King.
+Great happinesse.
+
+
+
+Rosse.
+That now Sweno, the Norwayes King,
+Craues composition:
+Nor would we deigne him buriall of his men,
+Till he disbursed, at Saint Colmes ynch.
+Ten thousand Dollars, "},{photoname:"",text:"to our generall vse.
+
+King.
+No more that Thane of Cawdor shall deceiue
+Our Bosome interest: Goe pronounce his present death,
+And with his former Title greet Macbeth.
+"},{photoname:"",text:"Rosse.
+Ile see it done.
+
+
+King.
+What he hath Iost, Noble Macbeth hath wonne.
+
+Exeunt"}],title:"Macbeth",xuid:"2535441506324425"}},{Count:1b,Damage:1s,Name:"minecraft:banner",Slot:22b,WasPickedUp:0b,tag:{Patterns:[{Color:0,Pattern:"flo"},{Color:0,Pattern:"cs"},{Color:0,Pattern:"ms"},{Color:0,Pattern:"cr"},{Color:1,Pattern:"bo"}],RepairCost:0,Type:0,display:{Name:"Starpeople"}}},{Count:1b,Damage:15s,Name:"minecraft:banner",Slot:23b,WasPickedUp:0b,tag:{Patterns:[{Color:6,Pattern:"gru"},{Color:6,Pattern:"sc"}],RepairCost:0,Type:0,display:{Name:"Axertia"}}},{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:24b,WasPickedUp:0b,tag:{Patterns:[{Color:15,Pattern:"rs"},{Color:4,Pattern:"cs"},{Color:4,Pattern:"ms"},{Color:15,Pattern:"mc"}],RepairCost:0,display:{Name:"Greenwood Empire"}}},{Count:1b,Damage:1s,Name:"minecraft:banner",Slot:25b,WasPickedUp:0b,tag:{Patterns:[{Color:8,Pattern:"vh"},{Color:1,Pattern:"vh"},{Color:8,Pattern:"rd"},{Color:0,Pattern:"flo"},{Color:0,Pattern:"mr"}]}},{Count:1b,Damage:0s,Name:"minecraft:leather",Slot:26b,WasPickedUp:0b,tag:{display:{Lore:["a flaked off piece of forskin from bernie sanders"]}}}],RepairCost:0,display:{Name:"Â§lBirds Books"}}},{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:12b,WasPickedUp:0b,tag:{Patterns:[{Color:15,Pattern:"sc"},{Color:0,Pattern:"bri"},{Color:0,Pattern:"hh"},{Color:15,Pattern:"flo"},{Color:0,Pattern:"tt"}],Type:0}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:13b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Info
+
+I stayed up a while making this kit while just playing some music in the bakc ground. This is meant for nothing other than just stuff. Feel free to reupload.
+
+By. Vogel"}],title:"Info",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:14b,WasPickedUp:0b,tag:{Patterns:[{Color:15,Pattern:"sc"},{Color:0,Pattern:"bri"},{Color:0,Pattern:"hh"},{Color:15,Pattern:"flo"},{Color:0,Pattern:"tt"}],Type:0}},{Block:{name:"minecraft:shulker_box",states:{color:"black"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:15b,WasPickedUp:0b,tag:{Items:[{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:0b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"The red sun in our hearts Shines a piece of red to the borders of the motherland
+One hundred thousand miles singing loud and clear Feet tread on the flying red flag in highlands
+One thousand rivers.... run into the sea"},{photoname:"",text:"Ten thousand sunflowers open towards the sun
+Yanbian people indulge in singing
+Our hearts' red sun
+Oh.... Chairman Mao
+We love you indefinitely"},{photoname:"",text:"Your teachings are kept in our hearts
+Yanbian people wish you
+Longevity with no boundaries, longevity of years with no boundaries
+"},{photoname:"",text:"The sun in the sky is red
+In our hearts is the sun Mao Zedong
+He leads us to liberation
+The masses stand up to be the owners
+Yiyayiziyou a, yaeryaziyoua
+The masses stand up to be the owners
+"},{photoname:"",text:"The sun in the sky is red
+In our hearts is the sun Mao Zedong
+He leads us to move forward
+The revolutionary country is a piece of red yeah
+Yiyayiziyou a, yaeryaziyoua
+The revolutionary country is a piece of red"},{photoname:"",text:"The sun in the sky is red
+In our hearts is the sun Mao Zedong
+He leads us to move forward
+The revolutionary country is a piece of red yeah
+Solala zi solala zi
+yiya..... one piece of red!!!!!!!!!!
+"}],title:"Mao",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:1b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Only three weeks ago I stood in this place to read the FÃ¼hrer's proclamation on the 10th anniversary of the seizure of power, and to speak to you and to the German people."},{photoname:"",text:"The crisis we now face on the Eastern Front was at its height. In the midst of the hard misfortunes the nation faced in the battle on the Volga, we gathered together"},{photoname:"",text:"in a mass meeting on the 30th of January to display our unity, our unanimity and our strong will to overcome the difficulties we faced in the fourth year of the war."},{photoname:"",text:"
+It was a moving experience for me, and probably also for all of you, to be bound by radio with the last heroic fighters in Stalingrad during our powerful meeting here in the Sport Palace. They radioed to us that they had heard the FÃ¼hrer's proclamation,"},{photoname:"",text:"and perhaps for the last time in their lives joined us in raising their hands to sing the national anthems. What an example German soldiers have set in this great age! And what an obligation it puts on us all, particularly the entire German homeland!"},{photoname:"",text:"Stalingrad was and is fate's great alarm call to the German nation! A nation that has the strength to survive and overcome such a disaster, even to draw from it additional strength, is unbeatable. In my speech to you and the German people, I"},{photoname:"",text:"shall remember the heroes of Stalingrad, who put me and all of us under a deep obligation.
+"},{photoname:"",text:"I do not know how many millions of people are listening to me over the radio tonight, at home and at the front. I want to speak to all of you from the depths of my heart to the depths of yours. I believe that the entire German people has a"},{photoname:"",text:"passionate interest in what I have to say tonight. I will therefore speak with holy seriousness and openness, as the hour demands. The German people, raised, educated and disciplined by National Socialism, can bear the whole truth. It knows"},{photoname:"",text:"the gravity of the situation, and its leadership can therefore demand the necessary hard measures, yes even the hardest measures. We Germans are armed against weakness and uncertainty. The blows and misfortunes of the war only give us"},{photoname:"",text:"additional strength, firm resolve, and a spiritual and fighting will to overcome all difficulties and obstacles with revolutionary Ã©lan."},{photoname:"",text:"Now is not the time to ask how it all happened. That can wait until later, when the German people and the whole world will learn the full truth about the misfortune of the past weeks, and its deep and fateful significance. The heroic sacrifices of"},{photoname:"",text:"heroism of our soldiers in Stalingrad has had vast historical significance for the whole Eastern Front. It was not in vain. The future will make clear why.
+"},{photoname:"",text:"When I jump over the past to look ahead, I do it intentionally. The time is short! There is no time for fruitless debates. We must act, immediately, thoroughly, and decisively, as has always been the National Socialist way.
+"},{photoname:"",text:"The movement has from its beginning acted in that way to master the many crises it faced and overcame. The National Socialist state also acted decisively when faced by a threat. We are not like the ostrich that sticks its head in the sand so as not to"},{photoname:"",text:"see danger. We are brave enough to look danger in the face, to coolly and ruthlessly take its measure, then act decisively with our heads held high. Both as a movement and as a nation, we have always been at our best when we needed"},{photoname:"",text:"fanatic, determined wills to overcome and eliminate danger, or a strength of character sufficient to overcome every obstacle, or bitter determination to reach our goal, or an iron heart capable of withstanding every internal and external"},{photoname:"",text:"battle. So it will be today. My task is to give you an unvarnished picture of the situation, and to draw the hard conclusions that will guide the actions of the German government, but also of the German people.
+"},{photoname:"",text:"I will end here"}],title:"Do You Want War?",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:2b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Ivan the Terrible 1530 - 1584
+
+--------------------"},{photoname:"",text:"Ivan the Terrible was actually Ivan IV, or Ivan Vasilyevich. If you are Russian, you will probably call him Ivan Grozny, which means Ivan the Terrible.
+
+When Ivan was 16 years old, he became the first czar of Russia (1547-1584.)"},{photoname:"",text:"Ivan the Terrible â€” His Strengths
+
+Despite his cruelty, Ivan the Terrible improved Russia's governmental administration and contributed to the nation's culture."},{photoname:"",text:" Ivan was also a skillful writer with a talent for biting sarcasm. He was eager to maintain political relations with Europe and was a devout adherent of the Orthodox Church."},{photoname:"",text:"Because of its Orthodox religion, after Constantinople, Moscow became the Third Rome. Its ruler was referred to as czar (from the word caesar).
+
+"},{photoname:"",text:"Ivan IV the Terrible â€” His Family
+
+Ivan was a member of the  Rurik Dynasty."},{photoname:"",text:"Ivan's grandfather was  Ivan III the Great.
+
+Ivan's father was the  Grand Duke Vasily III of Moscow. His mother was Yelena Glinskaya. Ivan's mother died in 1538, allegedly by poison."},{photoname:"",text:"Ivan's spouse was Anastasia Romanovna. They married in 1547 and she died in 1560. Ivan seemed especially off-balance after Anastasia's death. He then married six more times, disposing of unwanted wives quickly."},{photoname:"",text:"Ivan's children were Ivan and Fyodor (by Anastasia). He later had six more children by his various other wives.
+
+"}],title:"IvanTheTTerrible",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:3b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Vogelism
+--------------------
+Is the theory that if you preserve the past by restricting rights of your citizens they will not grow or expand. "}],title:"Vogelism",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:4b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"The New Combine
+--------------------
+The new combine was a group founded by Vogel that went realm ravaging it is not a well known group mainly because of its short life and political instability."},{photoname:"",text:"The empire lasted over a year and continues in shadow goverments through all of minecraft. In some shape form or way just one group post for a starwars game lead Vogel to meet a another player named cube which lead to them meeting bog and that creates a"},{photoname:"",text:"whole history itself all three of them made the Lasorcraft government that lasted for a few months until it became the combine. The Combine then became the New Roman empire after months of civil war and inactivity as I write this Bog is inactive Cube no "},{photoname:"",text:"longer plays minecraft I Vogel am the only one with this history left to spread."}],title:"Combine History",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:5b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"The Dark Ages Of the Combine.
+--------------------
+In December Of 2020 bird and bog was on the homeworld of the combine during the time of most unstability that lead to the temporary break up of the lasorcraft government."},{photoname:"",text:"There was only Cube as president then one single dictator and he had just learned about call of duty. He never got on for 2 months leading his realm to be greifed everyday. This event is known as the winter greif or the dark ages."}],title:"Dark Ages",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:6b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Planetarium
+BY ADRIENNE RICH
+
+A woman in the shape of a monster   
+a monster in the shape of a woman   
+the skies are full of them"},{photoname:"",text:"
+a woman      â€˜in the snow
+among the Clocks and instruments   
+or measuring the ground with polesâ€™
+
+in her 98 years to discover   
+8 comets"},{photoname:"",text:"she whom the moon ruled   
+like us
+levitating into the night sky   
+riding the polished lenses
+
+Galaxies of women, there
+doing penance for impetuousness   
+ribs chilled   
+in those spaces    of th"},{photoname:"",text:"An eye,
+
+          â€˜virile, precise and absolutely certainâ€™
+          from the mad webs of Uranusborg
+
+                                                            encountering the NOVA   "},{photoname:"",text:"
+every impulse of light exploding
+
+from the core
+as life flies out of us
+
+             Tycho whispering at last
+             â€˜Let me not seem to have lived in vainâ€™
+
+What we see, we see   
+and seeing is changing"},{photoname:"",text:"
+the light that shrivels a mountain   
+and leaves a man alive
+
+Heartbeat of the pulsar
+heart sweating through my body
+
+The radio impulse   
+pouring in from Taurus
+
+         I am bombarded yet         I stand"},{photoname:"",text:"I have been standing all my life in the   
+direct path of a battery of signals
+the most accurately transmitted most   
+untranslatable language in the universe
+I am a galactic cloud so deep      so invo-
+
+
+"},{photoname:"",text:"luted that a light wave could take 15   
+years to travel through me       And has   
+taken      I am an instrument in the shape   
+of a woman trying to translate pulsations   
+into images    for the relief of the body   
+and the reconstruction of the mind."}],title:"planetarium",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:7b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"New Austin
+--------------------
+On a Server named Free Land or New Texas as they now call it once had a grand stable empire called the Texan empire. 
+It was pure survival and there was a great castle called austin. After 500 group post one day Vogels Admin"},{photoname:"",text:"was stripped away from him. There was 10+ members a day. It was huge. Until the Combine it made a great big obsidian citadel to defend austin. The guild of the Hidden fell creating a world war which lead to the down fall."}],title:"New Austin",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:8b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"In The Mind Of Corrupt Admins
+--------------------
+Corrupt admins are like serial killers they are fed by pain. If you let them abuse their power on you then it gets to them and they keep on abusing. If you just leave the server for like three hours it "},{photoname:"",text:"annoys them deeply."}],title:"Corrupt Admins",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:9b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"About the Political Compass
+The starting point of the (original) Political Compass was in 2001, when we recognised the inadequacies of the standard political measure:"},{photoname:"",text:"Itâ€™s certainly fine for discussing economics but to this day is still widely â€” and wrongly â€” used to describe social attitudes. Franceâ€™s National Front, for example, is popularly described as â€œfar rightâ€, yet its"},{photoname:"",text:"economic policies have sometimes been to the left of even the French Socialist Party. The partyâ€™s real extremism is in its social attitudes. Thatâ€™s why we added a social scale.
+
+"},{photoname:"",text:"Nevertheless, the more nationalistic and authoritarian a party or individual is, the more â€˜right-wingâ€™ theyâ€™re still labelled. This, of course, is absurd. Taken to its logical conclusion, it means that the further left a"},{photoname:"",text:"country sits, the more socially liberal its attitudes are. on that basis, North Korea must be a shining model of human rights and social freedoms!"},{photoname:"",text:"Conversely, a country may be very right wing (ie libertarian) in its economics, and be authoritarian at the same time. Singapore is a perfect example."},{photoname:"",text:"The Index of Economic Freedom produced by the Wall Street Journal and the conservative Heritage Foundation, hails Singapore as the economically freest nation on Earth in 2021. On the social scale,"},{photoname:"",text:"however, itâ€™s a very different story. Human Rights Watch details its reasons for finding Singapore a deeply authoritarian state."},{photoname:"",text:"Uruguay is currently rated the worldâ€™s 44 th most free economy, and a leading Latin American light in social freedoms â€” from gay and lesbian rights to legalisation of cannabis. Switzerland also has a high rating as"},{photoname:"",text:"a libertarian economy, while at the same time providing a wide range of social welfare programmes, in common with the Nordic states and a number of other western countries."},{photoname:"",text:"With the exception of its Hong Kong region, China maintains strong economic controls, though fewer than those assiciated with a more orthodox ruling â€˜Communistâ€™ party. In recent years China has shifted"},{photoname:"",text:"closer to the totally repressive social climate of North Korea, where the economy also is under the absolute control of the state. Saudi Arabia"},{photoname:"",text:"has veered futher towards a libertarian economy in recent times, but with no real relaxation of its sweeping authoritarian powers."},{photoname:"",text:""}],title:"Political Compas",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:10b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"The Applicant
+BY SYLVIA PLATH"},{photoname:"",text:"First, are you our sort of a person?
+Do you wear
+A glass eye, false teeth or a crutch,
+A brace or a hook,
+Rubber breasts or a rubber crotch,"},{photoname:"",text:"
+Stitches to show something's missing? No, no? Then
+How can we give you a thing?
+Stop crying.
+Open..."},{photoname:"",text:"To fill it and willing
+To bring teacups and roll away headaches
+And do whatever you tell it.
+Will you marry it?
+It is guaranteed"},{photoname:"",text:"To thumb shut your eyes at the end
+And dissolve of sorrow.
+We make new stock from the salt.
+I notice you are stark naked.
+How about this suitâ€”â€”"},{photoname:"",text:"Black and stiff, but not a bad fit.
+Will you marry it?
+It is waterproof, shatterproof, proof
+Against fire and bombs through the roof.
+Believe me, they'll bury you in it."},{photoname:"",text:"
+Now your head, excuse me, is empty.
+I have the ticket for that.
+Come here, sweetie, out of the closet.
+Well, what do you think of that?
+Naked as paper to start"},{photoname:"",text:"
+But in twenty-five years she'll be silver,
+In fifty, gold.
+A living doll, everywhere you look.
+It can sew, it can cook,
+It can talk, talk, talk."},{photoname:"",text:"
+It works, there is nothing wrong with it.
+You have a hole, it's a poultice.
+You have an eye, it's an image.
+My boy, it's your last resort.
+Will you marry it, marry it, marry it.
+"}],title:"The Applicant",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:11b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"THE ART
+
+OF
+
+GERMAN COOKING AND BAKING
+
+Revised and Enlarged Edition.
+
+Compiled and Published by
+
+Mrs. LINA MEIER,German i"},{photoname:"",text:"MILWAUKEE, U. S. A.
+
+1922."},{photoname:"",text:"CHAPTER 1.
+
+SOUPS.
+
+No. 1â€”BOUILLON."},{photoname:"",text:"4 lbs. ox-bones
+6 qts. water
+â…› of an onion
+Â½ of a carrot
+1 small piece celery
+1 small piece kohlrabi
+1 small piece parsley-root
+1 tomato, salt"},{photoname:"",text:"Preparation: The soupbone is put over the fire in 6 qts. of cold water after it has been washed in cold water. Soupgreens and salt are added and the whole is boiled"},{photoname:"",text:"slowly 4 hours until it is boiled down to 2 or 3 quarts. Before using pour the bouillon through a fine sieve. If you like the bouillon very strong and of a good color add Â½ teaspoonful of beef extract.
+
+"},{photoname:"",text:"No. 2â€”BOUILLON.
+
+The soupbone and the soupgreens are fried lightbrown with a piece of butter or lard. Water is then added and salt. Boil 4 hours as in the preceding recipe and strain before using."},{photoname:"",text:"No. 2â€”BOUILLON.
+
+The soupbone and the soupgreens are fried lightbrown with a piece of butter or lard. Water is then added and salt. Boil 4 hours as in the preceding recipe and strain before using."},{photoname:"",text:"Preparation: Cut the ox-tail into small pieces and together with the soupgreens, fry them in butter lightbrown. Add 5 qts. of water and salt. Let it boil 4 or 5 hours slowly down to 2 qts."},{photoname:"",text:"This bouillon will be very strong and may be served in cups, and bread or cheese-sticks may be served with it.
+
+"},{photoname:"",text:"No. 4â€”BOUILLON OF MEAT EXTRACT.
+
+Soupgreens
+1 tbsp. butter or lard
+1 tsp. extract of meat
+Salt,
+1 qt. water"},{photoname:"",text:"Preparation: Stew the soupgreens in butter or lard a little while, then add water and salt and boil slowly for 20 minutes. Add the meat extract and strain. The yolk of one egg may be stirred into it."},{photoname:"",text:""}],title:"German Soups",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:12b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"owowowowowowowowoowowwowoowowowowowowowowowowowowoowowooowowowowowoowwoowowowowowowoowwooooowoowwoowowowoowowowowowowowowowowoowowowowwowowowowowowwowowowowowowowowowowowowoowowowowowowowowowoowowowowowowowowowowowowowowowowowowoowowowowowowowoowowowowowow"},{photoname:"",text:"uwuwuwuwuwuuwuwuwuwuwuwuwuwuwuwuwuuwuwuwuwuwuwuwuwuwuwuwuuwuwuwuwuwuwuwuwuwuuWUWUWUWUWUUWUWUWUuWUUWUuwuwUUWUWUwUWuwuWUUWUWUUWuWUWUUWUUWUWuUwUWUWUWUwuUWUWUWUWuuwUWUwUWUwuWuUWUWUWUWuWUUwUwUWuWuUWUUuWuWuUwUwUWUWuwuUWUwuWuUWUWUwUWuWUUwUWUwuwuUWUWUWUWUwuUWUWUUW"},{photoname:"",text:"oMoMOmoMOomMOmoMOmoMMOomMOmomoMOmoMOmoMOmomoMOmoMOmoMOMOmoMOmoOMmomoMOmoMOmoMOmoOMmMmoMOmoKMMKMMMKkmKMKmkMmommoMOmoMOmoMOmoMOmoMOMOmoMOmoMmoMOmomOMmOMoOMOmmoOMmoMmoOMmoOMmMOoMomoMOMmmOmOmomMOMoMOMMOommooMMomomoMmoMOMoooommoMomOMOmoMOOOmoMmmomomomoOMomOMOmo"},{photoname:"",text:"OwO
+UwU
+OmO"}],title:"3 UwU's",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:13b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"How to Lose a Friend.
+------------------
+1. Unfriend them
+2. Ghost them
+3. Execute Them
+4. Gulag Time
+5. Make a Racist Joke If They Are Politically Correct
+6. Pet them or say UwU"}],title:"Lose a Friend!",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:14b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"The Autobahn ( IPA: [ËˆÊ”aÊŠtoËŒbaËn] ( listen); German plural Autobahnen) is the federal controlled-access highway system in Germany."},{photoname:"",text:"The official German term is Bundesautobahn (abbreviated BAB ), which translates as "federal motorway". The literal meaning of the word"},{photoname:"",text:"Bundesautobahn is "Federal Auto (mobile) Track"."}],title:"Autobahn",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:15b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"uwu (emoticon)
+
+"},{photoname:"",text:"Usage
+uwu is often used to denote cuteness, happiness, or tenderness.[2][3] Excessive usage of the emoticon can also have the intended effect of annoying its recipient.[4] The emoticon has been popular in the furry fandom.[2]"},{photoname:"",text:"It also has a more surprised and sometimes allusive variant, OwO (also associated with the furry fandom and often the response, "what's this?")[2] that may too denote cuteness, as well as curiosity and perplexion.[5]"},{photoname:"",text:"History
+uwu is known to date back as far as 2005, in an anime fanfiction. The origin of the word is unknown, with many people believing it to originate in Internet chat rooms. By 2014, the"},{photoname:"",text:"emoticon had spread across the Internet into Tumblr, becoming an Internet subculture.[4]"},{photoname:"",text:"The word uwu is included in the Royal Spanish Academy's word observatory,[a] defined as an "emoticon used to show happiness or tenderness".[3][7]"},{photoname:"",text:"Notable uses
+In 2018, the official Twitter account tweeted "uwu" in response to a tweet by an artist on October 22, 2018.[8][9]"},{photoname:"",text:"In 2020, the U.S. Army Esports Twitter account tweeted "uwu" in reply to a tweet by Discord, which was met by significant backlash from Twitter users. This event culminated in a"},{photoname:"",text:"trend of attempting to get banned from the U.S. Army Esports Discord server as quickly as possible, with a common technique being to link to the Wikipedia article on the war crimes committed by the United States.[10][11]"}],title:"History Of UwU",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:16b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Pay 64 Diamonds To Make a city pay it to a admin and then send them cords to your city location. Doing this you cannot make a country until you pay 128 diamonds to make it until then you are part of another country"},{photoname:"",text:"Requirements
+1 Town Hall
+2 Farms
+1 House"}],title:"good server rule",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:17b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"United States war crimes"},{photoname:"",text:"United States war crimes are the violations of the laws and customs of war which the United States Armed Forces has committed against signatories after the signing of the Hague"},{photoname:"",text:"Conventions of 1899 and 1907. These have included the summary execution of captured enemy combatants, the mistreatment of prisoners during interrogation, the use of torture,"},{photoname:"",text:"and the use of violence against civilians and non-combatants. War crimes can be prosecuted in the United States through the War Crimes Act of 1996 and through various articles of the Uniform Code of Military Justice (UCMJ). However, the"},{photoname:"",text:"Federal government of the United States strongly opposes the International Criminal Court (ICC) treaty, arguing that the Court lacks checks and balances,[1] and thus does not"},{photoname:"",text:"accept ICC jurisdiction over its nationals.[2]"}],title:"USA war crimes",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:18b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Philippineâ€“American War"},{photoname:"",text:"Following the end of the Spanishâ€“American War in 1898, Spain ceded the Philippines to the United States as part of"},{photoname:"",text:"the peace settlement. This triggered a conflict between the United States Armed Forces and revolutionary First Philippine Republic under President Emilio Aguinaldo, and the Moro fighters."},{photoname:"",text:"War crimes committed by the United States Army in the Philippines include the March across Samar, which led to the court martial and forcible retirement of Brigadier General Jacob H. Smith.[1] Smith instructed Major Littleton Waller,"},{photoname:"",text:"commanding officer of a battalion of 315 U.S. Marines assigned to bolster his forces in Samar, regarding the conduct of pacification, in which he stated the following:"},{photoname:"",text:"I want no prisoners. I wish you to kill and burn, the more you kill and burn the better it will please me. I want all persons killed who are capable of bearing arms in actual hostilities against the United States.[6][7][8]"},{photoname:"",text:""}],title:"American-Philipi",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:19b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"VOGEL
+-=-=-=-=-=-=-=-=-=-
+
+"}],title:"Heoil 2",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:20b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Story Of LSD Harry
+--------------------
+One day a man walked up to harry handed him a bag of mushrooms and told him to eat them once harry did he say bright colors and was traveling through space back into 1939 and met papa stalin."}],title:"LSD HARRY",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:21b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Viking runestones"},{photoname:"",text:"The Viking runestones are runestones that mention Scandinavians who participated in Viking expeditions. This article"},{photoname:"",text:"treats the runestone that refer to people who took part in voyages abroad, in western Europe, and stones that mention men who were Viking warriors and/or died while travelling in the West. However, it is likely that all of them do not"},{photoname:"",text:"mention men who took part in pillaging. The inscriptions were all engraved in Old Norse with the Younger Futhark. The runestones are unevenly distributed in Scandinavia: Denmark has 250 runestones, Norway has 50 while Iceland has"},{photoname:"",text:"none. Sweden have as many as between 1,700 and 2,500 depending on definition. The Swedish district of Uppland has the highest concentration with as many as 1,196 inscriptions in stone, whereas SÃ¶dermanland is second with 391. [1] [2]"},{photoname:"",text:"The largest group consists of 30 stones that mention England, and they are treated separately in the article England runestones. The runestones that talk of voyages to eastern Europe, the Byzantine Empire and the Middle East are"},{photoname:"",text:"treated separately in the article Varangian runestones and its subarticles."},{photoname:"",text:"The most notable of the Viking runestones is the Kjula Runestone in SÃ¶dermanland, Sweden, and it contains a poem in Old Norse in the metre fornyrÃ°islag that refers to the extensive warfare of a man called "Spear":[3]"},{photoname:"",text:"saÊ€ vestarla
+um vaÊ€it hafÃ°i,
+borg um brutna
+i ok um barÃ°a;
+fÃ¦rÃ° han karsaÊ€
+kunni allaÊ€.
+who had been
+in the west,
+broken down and fought
+in townships.
+He knew all
+the journey's fortresses.
+"}],title:"Runestones",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:22b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"SmÃ¥land
+
+"},{photoname:"",text:"SmÃ¥land (Swedish pronunciation: [ËˆsmÇ’Ëland] (audio speaker iconlisten)) is a historical province (landskap) in southern Sweden. SmÃ¥land borders Blekinge, "},{photoname:"",text:" Scania (Swedish: SkÃ¥ne), Halland, VÃ¤stergÃ¶tland, Ã–stergÃ¶tland and the island Ã–land in the Baltic Sea. The name SmÃ¥land literally means Small Lands.[2]"},{photoname:"",text:"The Latinized form Smolandia has been used in other languages. The highest point in SmÃ¥land is Tomtabacken, at 377 metres (1,237 ft). In terms of total area, SmÃ¥land is of a similar size as Belgium."}],title:"Smaland",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:23b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Paganism "},{photoname:"",text:"Paganism  is a term first used in the fourth century by early Christians for people in the Roman Empire who practiced polytheism[1] or ethnic religions other than Judaism. In the time of the"},{photoname:"",text:"Roman empire, individuals fell into the pagan class either because they were increasingly rural and provincial relative to the Christian population,"},{photoname:"",text:" or because they were not milites Christi (soldiers of Christ).[2][3] Alternative terms in Christian texts were hellene, gentile, and heathen.[1]"},{photoname:"",text:" Ritual sacrifice was an integral part of ancient Graeco-Roman religion[4] and was regarded as an indication of whether a person was pagan or Christian.[4]"},{photoname:"",text:"Paganism has broadly connoted the "religion of the peasantry".[1][5]"}],title:"Paganism",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:24b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"00:00 Ð”ÑƒÑ€Ð½Ð¾Ð¹ Ð’ÐºÑƒÑ- ÐŸÐ»Ð°ÑÑ‚Ð¸Ð½ÐºÐ¸
+03:02 Ð¥Ð¾Ð»Ð¾Ð´Ð½Ñ‹Ð¹ Ð”Ð¾Ð¶Ð´ÑŒ - ÐšÑ€Ð¾Ð²ÑŒ Ð¸ Ð»ÑƒÐ½Ð°
+08:56 NÃ¼rnberg - Å½orstka
+12:48 NÃ¼rnberg - Valasy"},{photoname:"",text:"15:43 Ð”ÐµÐ¿ÑƒÑ‚Ð°Ñ‚ Ð‘Ð°Ð»Ñ‚Ð¸ÐºÐ¸ - ÐÐ¾Ð²Ð°Ñ Ð¿ÐµÑÐ½Ñ (cover by Ñ‡Ñ‘Ñ€ÑÑ‚Ð²Ñ‹Ð¹)
+17:51 Ploho, ÐœÐ¾Ð»Ñ‡Ð°Ñ‚ Ð´Ð¾Ð¼Ð° - ÐŸÐ¾ ÐºÑ€Ð°ÑŽ Ð¾ÑÑ‚Ñ€Ð¾Ð²Ð°
+21:32 ÐŸÐµÑ€ÐµÐ¼Ð¾Ñ‚ÐºÐ° - Ð’ÑÑ‚Ñ€ÐµÑ‡Ð½Ð°Ñ
+25:33 Ð‘ÑƒÐµÑ€Ð°Ðº - ÐÐ° ÑÑ‚Ð°Ñ€Ñ‹Ñ… ÑÐ¸Ð´ÐµÐ½Ð¸ÑÑ… ÐºÐ¸Ð½Ð¾Ñ‚ÐµÐ°Ñ‚Ñ€Ð°
+29:14 Helgi Olegov - fall"},{photoname:"",text:"31:45 Helgi Olegov - another day
+34:24 ssshhhiiittt - ÐÐµÐ±Ð¾
+37:08 Ð±ÐµÑÑÐ¾Ð½Ð½Ð¸Ñ†Ð° - ÐžÑ‚Ð¿ÑƒÑÐºÐ°Ð¹
+40:25 Ð”ÐµÐ²ÑÐ½Ð¾ÑÑ‚Ð¾ Ð”ÐµÐ²ÑÑ‚ÑŒ - ÐÐµÐ½Ð°Ð²Ð¸Ð¶Ñƒ
+44:05 Ð±ÐµÑÑÐ¾Ð½Ð½Ð¸Ñ†Ð° - 19"},{photoname:"",text:"31:45 Helgi Olegov - another day
+34:24 ssshhhiiittt - ÐÐµÐ±Ð¾
+37:08 Ð±ÐµÑÑÐ¾Ð½Ð½Ð¸Ñ†Ð° - ÐžÑ‚Ð¿ÑƒÑÐºÐ°Ð¹
+40:25 Ð”ÐµÐ²ÑÐ½Ð¾ÑÑ‚Ð¾ Ð”ÐµÐ²ÑÑ‚ÑŒ - ÐÐµÐ½Ð°Ð²Ð¸Ð¶Ñƒ
+44:05 Ð±ÐµÑÑÐ¾Ð½Ð½Ð¸Ñ†Ð° - 19"},{photoname:"",text:"depressed again (always)"}],title:"Russian Doomer 9",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:25b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Dark Jokes!
+--------------------
+I have a plane and two towers
+
+Where is the tsar lenin
+
+KFC= Kentucky Fried Children
+
+I can't wait for music that makes you feel like you are in ukraine"},{photoname:"",text:"That guy has a star on his arm.
+
+OH NEIN DID DUETSHLAND IST KAPUT!!!!!!!
+
+Get me a hammer and a sickle and its our stuff.
+
+"}],title:"Dark Jokes",xuid:"2535441506324425"}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:26b,WasPickedUp:0b,tag:{author:"Author Unknown",generation:0,pages:[{photoname:"",text:"Last Book In The Library Kit
+3/3/2022
+Made By Vogel"}],title:"ye",xuid:"2535441506324425"}}],RepairCost:0,display:{Name:"Books"}}},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:20b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:name_tag",Slot:21b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"â˜­Ja"}}},{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:22b,WasPickedUp:0b,tag:{Patterns:[{Color:15,Pattern:"sc"},{Color:0,Pattern:"bri"},{Color:0,Pattern:"hh"},{Color:15,Pattern:"flo"},{Color:0,Pattern:"tt"}],Type:0}},{Count:1b,Damage:0s,Name:"minecraft:name_tag",Slot:23b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"â˜­Ja"}}},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:portal",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Name:"Library Kit"}}}

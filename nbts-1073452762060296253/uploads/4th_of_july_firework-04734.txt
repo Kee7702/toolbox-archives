@@ -1,0 +1,1 @@
+{Count:64b,tag:{Fireworks:{Explosions:[{FireworkColor:[B;4b],FireworkType:0b,FireworkFade:[B;],FireworkTrail:1b,FireworkFlicker:0b},{FireworkColor:[B;4b,15b,1b],FireworkType:0b,FireworkFade:[B;],FireworkTrail:0b,FireworkFlicker:1b}],Flight:2b}},Damage:0s,WasPickedUp:0b,Name:"minecraft:firework_rocket"}

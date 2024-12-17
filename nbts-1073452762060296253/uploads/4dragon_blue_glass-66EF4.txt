@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:movingBlock",version:17825808,states:{}},Count:64b,tag:{movingBlock:{name:"minecraft:dragon_egg"},movingBlockExtra:{name:"minecraft:stained_glass",states:{color:blue}},display:{Name:"§1blue §0dragon_egg §7glass"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:movingblock"}

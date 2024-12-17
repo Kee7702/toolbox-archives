@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:100,Ticking:1b,Command:"/gamerule commandblockoutput false"},Damage:3s,WasPickedUp:0b,Name:"minecraft:bucket"}

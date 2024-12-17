@@ -1,0 +1,850 @@
+{Block:{name:"minecraft:movingBlock",states:{},version:17879555},CanPlaceOn:["dirt"],Count:64b,Damage:0s,Name:"minecraft:movingblock",WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§hMade By Â§bAmayori","Â§cÂ§fYouTube: Â§âˆ†Â§cAmayori30Â§r"],Name:"Â§5Trident Â§aFarm"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§cBuild",
+      "data" : [
+         {
+            "cmd_line" : "fill ~-20 ~116 ~-22 ~21 ~107 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~107 ~-22 ~21 ~98 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~98 ~-22 ~21 ~89 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~89 ~-22 ~21 ~80 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~80 ~-22 ~21 ~71 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~71 ~-22 ~21 ~62 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~62 ~-22 ~21 ~53 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~53 ~-22 ~21 ~44 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~44 ~-22 ~21 ~35 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~35 ~-22 ~21 ~26 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~26 ~-22 ~21 ~17 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~17 ~-22 ~21 ~8 ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~8 ~-22 ~21 ~ ~19 air",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~ ~-1 ~-5 ~ ~-1 ~-1 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~-1 ~ shroomlight",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~61 ~-4 chest 5",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~61 ~-3 chest 5",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~61 ~-2 hopper 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~61 ~-1 hopper 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~62 ~-7 ~3 ~63 ~-7 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~62 ~-6 ~3 ~62 ~-6 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~62 ~-5 ~-1 ~62 ~-4 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~1 ~62 ~-5 ~3 ~62 ~-5 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~62 ~-4 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~2 ~62 ~-4 ~3 ~62 ~-4 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~62 ~-3 ~ ~62 ~-1 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~62 ~-3 stone_brick_stairs 6",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~2 ~62 ~-3 ~2 ~62 ~ stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~1 ~62 ~-2 ~2 ~62 ~-2 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~62 ~-1 hopper",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-1 ~62 ~ redstone_block",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~62 ~ dispenser 1",
+"cmd_ver":12
+},
+{
+"cmd_line":"replaceitem block ~ ~62 ~ slot.container 0 water_bucket 1",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~1 ~62 ~ ~2 ~62 ~ stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~63 ~-6 ~-2 ~63 ~-4 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~3 ~63 ~-6 ~3 ~63 ~-4 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~63 ~-3 ~-1 ~63 ~-2 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~63 ~-3 piston 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~63 ~-3trapdoor 3",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~2 ~63 ~-3 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~2 ~63 ~-2 piston 5",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-1 ~63 ~-1 piston 4",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~2 ~63 ~-1 ~2 ~63 ~ stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-1 ~63 ~ stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~63 ~ stone_brick_stairs 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~63 ~ piston 3",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-1 ~64 ~-3 dropper 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~64 ~-3 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~64 ~-3 observer 5",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~2 ~64 ~-3 unpowered_repeater 4",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-1 ~64 ~-2 observer 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~2 ~64 ~-2 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-1 ~64 ~-1 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~2 ~64 ~-1 observer 3",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-1 ~64 ~ dropper 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~64 ~ observer 4",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~64 ~ stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~2 ~64 ~ dropper 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~65 ~-7 ~3 ~65 ~-7 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~65 ~-6 ~-2 ~65 ~-4 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~3 ~65 ~-6 ~3 ~65 ~-4 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~65 ~-3 ~2 ~65 ~-3 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~65 ~-2 ~-1 ~84 ~-1 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~2 ~65 ~-2 ~2 ~84 ~-1 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~65 ~ ~2 ~65 ~ glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~66 ~-6 ~2 ~66 ~-4 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~ ~66 ~-3 ~1 ~84 ~-3 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~ ~66 ~ ~1 ~84 ~ glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~ ~84 ~-4 ~1 ~85 ~-4 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-1 ~84 ~-3 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~2 ~84 ~-3 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~84 ~-2 ~-2 ~85 ~-1 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~3 ~84 ~-2 ~3 ~85 ~-1 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-1 ~84 ~ stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~2 ~84 ~ stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~ ~84 ~1 ~1 ~85 ~1 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~85 ~-4 ~3 ~85 ~-4 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~85 ~-3 ~-2 ~85 ~1 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~85 ~-3 ~2 ~85 ~-3 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~3 ~85 ~-3 ~3 ~85 ~1 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~85 ~-2 ~-1 ~85 ~ ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~85 ~-2 wall_sign 3",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~85 ~-2 wall_sign 3",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~2 ~85 ~-2 ~2 ~85 ~ ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~85 ~-1 wall_sign 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~1 ~85 ~-1 wall_sign 2",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~ ~85 ~ ~2 ~85 ~ ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~85 ~1 ~3 ~85 ~1 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-3 ~86 ~-5 ~4 ~86 ~-5 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-3 ~86 ~-4 ~-3 ~86 ~2 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~86 ~-4 ~3 ~86 ~-4 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~4 ~86 ~-4 ~4 ~86 ~2 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~86 ~-3 ~-2 ~86 ~1 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~3 ~86 ~-3 ~3 ~86 ~1 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-1 ~86 ~1 ~3 ~86 ~1 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~86 ~2 ~4 ~86 ~2 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-4 ~87 ~-6 ~5 ~87 ~-6 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-4 ~87 ~-5 ~-4 ~87 ~3 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-3 ~87 ~-5 ~4 ~87 ~-5 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~5 ~87 ~-5 ~5 ~87 ~3 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-3 ~87 ~-4 ~-3 ~87 ~2 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~4 ~87 ~-4 ~4 ~87 ~2 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-2 ~87 ~2 ~4 ~87 ~2 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-3 ~87 ~3 ~5 ~87 ~3 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-5 ~88 ~-7 ~6 ~88 ~-7 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-5 ~88 ~-6 ~-5 ~88 ~4 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-4 ~88 ~-6 ~5 ~88 ~-6 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~6 ~88 ~-6 ~6 ~88 ~4 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-4 ~88 ~-5 ~-4 ~88 ~3 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~5 ~88 ~-5 ~5 ~88 ~3 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-3 ~88 ~3 ~5 ~88 ~3 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-4 ~88 ~4 ~6 ~88 ~4 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-6 ~89 ~-8 ~7 ~89 ~-8 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-6 ~89 ~-7 ~-6 ~89 ~5 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-5 ~89 ~-7 ~6 ~89 ~-7 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~7 ~89 ~-7 ~7 ~89 ~5 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-5 ~89 ~-6 ~-5 ~89 ~4 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~6 ~89 ~-6 ~6 ~89 ~4 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-4 ~89 ~4 ~6 ~89 ~4 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-5 ~89 ~5 ~7 ~89 ~5 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-7 ~90 ~-9 ~8 ~90 ~-9 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-7 ~90 ~-8 ~-7 ~90 ~6 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-6 ~90 ~-8 ~7 ~90 ~-8 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~8 ~90 ~-8 ~8 ~90 ~6 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-6 ~90 ~-7 ~-6 ~90 ~5 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~7 ~90 ~-7 ~7 ~90 ~5 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-5 ~90 ~5 ~7 ~90 ~5 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-6 ~90 ~6 ~8 ~90 ~6 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-8 ~91 ~-10 ~9 ~91 ~-10 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-8 ~91 ~-9 ~-8 ~91 ~7 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-7 ~91 ~-9 ~8 ~91 ~-9 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~9 ~91 ~-9 ~9 ~91 ~7 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-7 ~91 ~-8 ~-7 ~91 ~6 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~8 ~91 ~-8 ~8 ~91 ~6 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-6 ~91 ~6 ~8 ~91 ~6 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-7 ~91 ~7 ~9 ~91 ~7 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-9 ~92 ~-11 ~10 ~92 ~-11 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-9 ~92 ~-10 ~-9 ~92 ~8 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-8 ~92 ~-10 ~9 ~92 ~-10 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~10 ~92 ~-10 ~10 ~92 ~8 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-8 ~92 ~-9 ~-8 ~92 ~7 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~9 ~92 ~-9 ~9 ~92 ~7 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-7 ~92 ~7 ~9 ~92 ~7 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-8 ~92 ~8 ~10 ~92 ~8 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-10 ~93 ~-12 ~11 ~93 ~-12 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-10 ~93 ~-11 ~-10 ~93 ~9 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-9 ~93 ~-11 ~10 ~93 ~-11 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~11 ~93 ~-11 ~11 ~93 ~9 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-9 ~93 ~-10 ~-9 ~93 ~8 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~10 ~93 ~-10 ~10 ~93 ~8 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-8 ~93 ~8 ~10 ~93 ~8 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-9 ~93 ~9 ~11 ~93 ~9 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-11 ~94 ~-13 ~12 ~94 ~-13 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-11 ~94 ~-12 ~-11 ~94 ~10 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-10 ~94 ~-12 ~11 ~94 ~-12 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~12 ~94 ~-12 ~12 ~94 ~10 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-10 ~94 ~-11 ~-10 ~94 ~9 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~11 ~94 ~-11 ~11 ~94 ~9 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-9 ~94 ~9 ~11 ~94 ~9 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-10 ~94 ~10 ~12 ~94 ~10 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~95 ~-14 ~13 ~95 ~-14 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~95 ~-13 ~-12 ~95 ~11 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-11 ~95 ~-13 ~12 ~95 ~-13 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~13 ~95 ~-13 ~13 ~95 ~11 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-11 ~95 ~-12 ~-11 ~95 ~10 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~12 ~95 ~-12 ~12 ~95 ~10 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-10 ~95 ~10 ~12 ~95 ~10 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-11 ~95 ~11 ~13 ~95 ~11 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~96 ~-15 ~13 ~96 ~-15 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-13 ~96 ~-14 ~-13 ~96 ~11 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~96 ~-14 ~13 ~96 ~-14 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~14 ~96 ~-14 ~14 ~96 ~11 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~96 ~-13 ~-12 ~96 ~11 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~13 ~96 ~-13 ~13 ~96 ~11 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-11 ~96 ~11 ~13 ~96 ~11 ice",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~96 ~12 ~13 ~96 ~12 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~97 ~-15 ~13 ~98 ~-15 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-13 ~97 ~-14 ~-13 ~98 ~11 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~14 ~97 ~-14 ~14 ~98 ~11 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~97 ~12 ~13 ~98 ~12 glass",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~109 ~-22 ~21 ~109 ~-15 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~109 ~-14 ~-13 ~109 ~19 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~109 ~-14 ~13 ~109 ~11 leaves2 8",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~14 ~109 ~-14 ~21 ~109 ~19 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~109 ~12 ~21 ~109 ~19 stonebrick",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~110 ~-22 ~21 ~110 ~-15 stone_slab 5",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-20 ~110 ~-14 ~-13 ~110 ~19 stone_slab 5",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~14 ~110 ~-14 ~21 ~110 ~19 stone_slab 5",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~110 ~12 ~21 ~110 ~19 stone_slab 5",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~ ~ ~-5 ~ ~62 ~-5 scaffolding",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~-2 ~64 ~-5 lantern",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~3 ~64 ~-5 lantern",
+"cmd_ver":12
+},
+{
+"cmd_line":"summon armor_stand sword ~2 ~63 ~-6",
+"cmd_ver":12
+},
+{
+"cmd_line":"replaceitem entity @e[name=sword] slot.weapon.mainhand 0 diamond_sword 1",
+"cmd_ver":12
+},
+{
+"cmd_line":"enchant @e[name=sword] looting 3",
+"cmd_ver":12
+},
+{
+"cmd_line":"tp @e[name=sword] ~2 ~63 ~-6 45",
+"cmd_ver":12
+},
+{
+"cmd_line":"summon armor_stand trident ~2 ~63 ~-4",
+"cmd_ver":12
+},
+{
+"cmd_line":"replaceitem entity @e[name=trident] slot.weapon.mainhand 0 trident 1",
+"cmd_ver":12
+},
+{
+"cmd_line":"enchant @e[name=trident] impaling 5",
+"cmd_ver":12
+},
+{
+"cmd_line":"tp @e[name=trident] ~2 ~63 ~-4 135",
+"cmd_ver":12
+},
+{
+"cmd_line":"setblock ~ ~64 ~-4 lever 12",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~98 ~-14 ~13 ~98 ~-14 water",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-12 ~98 ~-13 ~-12 ~98 ~11 water",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~13 ~98 ~-13 ~13 ~98 ~11 water",
+"cmd_ver":12
+},
+{
+"cmd_line":"fill ~-11 ~98 ~11 ~13 ~98 ~11 water",
+"cmd_ver":12
+},
+{
+"cmd_line":"title @p subtitle Â§eSubscribe to Â§aAmayori30 Â§c(YouTube) Â§efor more nbt!",
+"cmd_ver":12
+},
+{
+"cmd_line":"title @p title Structure Built!",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "built by Amayori",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill",
+      "data" : [
+         {
+            "cmd_line" : "kill\t@e[type=npc,r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=1]",
+      "type" : 1
+   }
+]",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§5Trident Â§aFarmÂ§r",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"Â§cBuildÂ§0 = Make Â§6Trident Farm                    Â§cKillÂ§0 = Kill Npc                                                                                                Â§cÂ§l==== CREDITS ====               Â§rThis Nbt Was Made By Â§3Amayori                 Â§4YouTube Â§0Channel: Â§cAmayori30                  Â§0Discord: Â§1https://dsc.gg/amayoritown",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rawtext:"Â§dTridentÂ§aFarm",Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:6,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}}

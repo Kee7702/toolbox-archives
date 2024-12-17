@@ -1,0 +1,1 @@
+{Count:1b,tag:{Attributes:[{Current:5.0f,Max:5.0f,Base:0.40832168f,Name:"minecraft:horse.jump_strength"},{Current:1.0f,Max:"3.4028235E38f",Base:0.1333673f,Name:"minecraft:movement"}],EntityType:10,definitions:["+minecraft:skeleton_horse"]},Damage:5s,Name:"minecraft:bucket"}

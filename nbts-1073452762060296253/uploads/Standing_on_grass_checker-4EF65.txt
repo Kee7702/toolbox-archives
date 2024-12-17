@@ -1,0 +1,8 @@
+How to use this CBE:
+1. Get Horion at horion.download
+2. Copy the nbt down below
+3. Go into your world/server/realm
+4. Inject Horion
+5. Type in chat ".nbt load"
+
+{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",WasPickedUp:0b,tag:{display:{Lore:["Made by: cheese6476"],Name:"Â§dÂ§lYou are standing on grass?"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:bee_nest"},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @r ~ ~ ~ detect ~ ~-1 ~ grass 0 title @p actionbar Â§lÂ§2You are standing on grass :o",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],id:"Beehive"},pistonPosX:0,pistonPosY:0,pistonPosZ:0}}

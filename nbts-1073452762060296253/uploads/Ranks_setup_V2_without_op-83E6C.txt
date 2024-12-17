@@ -1,0 +1,17 @@
+{Count:64b,Damage:0s,Name:"bee_nest",tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tellraw @a {"rawtext":[{"text":" Â§fÂ§luse /scoreboard players reset username rank for remove Â§gadmin "}]}",Persistent:1b,Ticking:1b,TickDelay:100000,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"gamerule commandblockoutput false",Persistent:1b,Ticking:1b,TickDelay:100000,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"scoreboard objectives add rank dummy Â§gÂ§lADMIN",Persistent:1b,Ticking:1b,TickDelay:100000,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"scoreboard players add @p rank 0",Persistent:1b,Ticking:1b,TickDelay:100000,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"scoreboard objectives setdisplay belowname rank",Persistent:1b,Ticking:1b,TickDelay:100000,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"scoreboard objectives setdisplay sidebar rank",Persistent:1b,Ticking:1b,TickDelay:100000,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={rank=0}] ~ ~ ~ particle minecraft:note_particle ~ ~2 ~1",Persistent:1b,Ticking:1b,TickDelay:0,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={rank=0}] ~ ~ ~ particle minecraft:note_particle ~ ~2 ~-1",Persistent:1b,Ticking:1b,TickDelay:0,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={rank=0}] ~ ~ ~ particle minecraft:note_particle ~1 ~2 ~",Persistent:1b,Ticking:1b,TickDelay:0,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={rank=0}] ~ ~ ~ particle minecraft:note_particle ~-1 ~2 ~",Persistent:1b,Ticking:1b,TickDelay:0,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={rank=0}] ~ ~ ~ particle minecraft:redstone_wire_dust_particle ~ ~ ~",Persistent:1b,Ticking:1b,TickDelay:0,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={rank=0}] ~ ~ ~ particle minecraft:sparkler_emitter ~ ~ ~",Persistent:1b,Ticking:1b,TickDelay:0,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={rank=0}] ~ ~ ~ particle minecraft:end_chest ~ ~ ~",Persistent:1b,Ticking:1b,TickDelay:0,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"title @a title Â§dby Â§bMÂ§6oÂ§0rÂ§4tÂ§faÂ§5dÂ§aa Ranks setup",Persistent:1b,Ticking:1b,TickDelay:100000,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"tickingarea add circle 4 4 4 1",Persistent:1b,Ticking:1b,TickDelay:100000,TicksLeftToStay:0}},
+{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"say Â§cÂ§lvisit us at https://discord.gg/d7HHSm74NM",Persistent:1b,Ticking:1b,TickDelay:100000,TicksLeftToStay:0}}]
+,display:{Lore:["https://discord.gg/d7HHSm74NM"],Name:"Â§dby Â§bMÂ§6oÂ§0rÂ§4tÂ§faÂ§5dÂ§aa Ranks setup"},ench:[{id:28s,lvl:1s}]}}

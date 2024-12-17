@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:beehive",WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/xp 9000 @p ",Persistent:1b,Ticking:1b},TicksLeftToStay:0}],display:{Lore:["/xp 9000 @p "],Name:"XP "},ench:[{id:28s,lvl:1s}]}}

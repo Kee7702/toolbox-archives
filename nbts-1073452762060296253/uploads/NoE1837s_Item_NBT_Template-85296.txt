@@ -1,0 +1,1 @@
+{Count:10b,Damage:5s,Name:"minecraft:<Your item>",Slot:12b,display:"Name:"<Your item name>"}

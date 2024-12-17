@@ -1,0 +1,1 @@
+{Count:1b,Damage:0s,Name:"minecraft:crossbow",WasPickedUp:0b,tag:{chargedItem:{Count:1000b,Damage:25s,Name:"minecraft:arrow",WasPickedUp:0b}}}

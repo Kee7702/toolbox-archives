@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:Leaves",states:{direction:0,honey_level:0},version:17879555},Count:1b,Damage:0s,Name:"minecraft:beehive",WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/summon wither",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],display:{Lore:["random"],Name:"Harli's-NBT Command"},ench:[{id:28s,lvl:1s}]}}

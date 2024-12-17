@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"green"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Count:1b,Damage:0s,Name:"minecraft:iron_axe",Slot:13b,WasPickedUp:0b,tag:{Damage:0,Unbreakable:127b,display:{Name:"THE BEAST"},ench:[{id:9s,lvl:5s},{id:15s,lvl:5s}]}}],RepairCost:0,display:{Name:"THE BEAST"}}}

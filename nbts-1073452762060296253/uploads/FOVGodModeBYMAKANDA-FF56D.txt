@@ -1,0 +1,1 @@
+{Count:1b,tag:{CustomPotionEffects:[{Duration:100000,Id:1,Amplifier:10},{Duration:1,Id:21,Amplifier:100},{Duration:100000,Id:3,Amplifier:20},{Duration:1,Id:14,Amplifier:-255}],RepairCost:0,display:{Name:"FOV"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:potion"}

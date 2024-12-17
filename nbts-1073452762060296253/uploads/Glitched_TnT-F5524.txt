@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:62,CustomName:"Just a glitched TnT lol",Invunerable:1b,definitions:["+minecraft:tnt"]},Damage:5s,Name:"minecraft:bucket"}

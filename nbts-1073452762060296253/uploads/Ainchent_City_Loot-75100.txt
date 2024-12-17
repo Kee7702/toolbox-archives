@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:chest",version:17959425,states:{facing_direction:0}},Count:64b,tag:{LootTable:"loot_tables/chests/ancient_city.json",LootTableSeed:0l,display:{Name:"§l§6Ancient City Loot"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:chest"}

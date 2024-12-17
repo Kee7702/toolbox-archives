@@ -1,0 +1,1 @@
+{ench:[{id:28s,lvl:1s}],Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"say §lIm using Horion, and im a fuckinn retａrd",Ticking:1b,TicksLeftToStay:0}}],RepairCost:0,display:{Lore:["Â§bÂ§lBy iShqfty"],Name:"Â§gÂ§lWhen Horion Smol Brain"},ench:[{id:28s,lvl:1s}]}

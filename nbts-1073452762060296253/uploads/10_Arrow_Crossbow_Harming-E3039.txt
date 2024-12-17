@@ -1,0 +1,1 @@
+{Count:2b,tag:{chargedItem:{Count:10b,Damage:25s,WasPickedUp:0b,Name:"minecraft:arrow"},ench:[{id:17s,lvl:10s},{id:26s,lvl:10s},{id:33s,lvl:1s},{id:34s,lvl:10s},{id:35s,lvl:5s}],Unbreakable:1b,Damage:0},Damage:0s,WasPickedUp:0b,Name:"minecraft:crossbow"}

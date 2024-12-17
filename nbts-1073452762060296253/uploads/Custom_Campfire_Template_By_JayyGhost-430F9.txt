@@ -1,0 +1,1 @@
+{Count:64b,tag:{Item3:{Count:64b,tag:{},Damage:0s,WasPickedUp:0b,Name:"minecraft:"},Item4:{Count:1b,tag:{},Damage:0s,WasPickedUp:0b,Name:"minecraft:"},Item1:{Count:64b,tag:{},Damage:0s,WasPickedUp:0b,Name:"minecraft:"},Item2:{Count:64b,tag:{},Damage:0s,WasPickedUp:0b,Name:"minecraft:"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:campfire"}

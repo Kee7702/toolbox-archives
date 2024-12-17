@@ -1,0 +1,1 @@
+{WasPickedUp:0b,tag:{EntityType:100,AppendCustomName:1b,TickDelay:0,CustomName:"",ExecuteOnFirstTick:1b,Ticking:1b,definitions:["+minecraft:falling_block",+wandering_trader],Command:"/gamerule functioncommandlimit 0"},Count:1b,Damage:4s,Name:"minecraft:bucket"}

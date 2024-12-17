@@ -1,0 +1,1 @@
+Count:1b,tag:{ench:[{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:11s,lvl:32767s},{id:13s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:32767s},{id:28s,lvl:32767s}],"minecraft:item_lock":2b,Damage:0,display:{Lore:["Â§lÂ§oÂ§gÂ§4by â„¢çˆªä¹™å�‚å±±.exeÂ®Ù„Ø¯Ø¯Ø¨ÙˆØ§Ù„Ø§Ù„î€€î€�"],Name:"Â§lÂ§oÂ§5Get Trolled Kid "}},Damage:0s,WasPickedUp:0b,Name:"minecraft:diamond_sword"}

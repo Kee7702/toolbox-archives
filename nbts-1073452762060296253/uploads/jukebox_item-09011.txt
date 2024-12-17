@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:jukebox"},Count:1b,Damage:0s,Name:"minecraft:jukebox",WasPickedUp:0b,tag:{RecordItem:{Count:64b,Damage:0s,Name:"minecraft:diamond",WasPickedUp:0b}}}

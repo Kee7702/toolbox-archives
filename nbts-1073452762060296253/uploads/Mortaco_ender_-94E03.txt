@@ -1,0 +1,5 @@
+{Block:{name:"minecraft:moving_block",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:moving_block",WasPickedUp:0b,tag:{display:{Lore:["/say hello"],Name:"Â§gÂ§lMovingBlock BeeNest Command"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:cave_vines_body_with_berries"},movingEntity:{Occupants:[
+
+{ActorIdentifier:"minecraft:enderman<>",SaveData:{,canPickupItems:1b,carriedBlock:{name:"minecraft:repeating_command_block",states:{},version:17959425},hasBoundOrigin:0b,hasSetCanPickupItems:1b,boundX:0,boundY:0,boundZ:0,definitions:["+minecraft:enderman"],identifier:"minecraft:cow"},TicksLeftToStay:0},
+
+],id:"Beehive"},pistonPosX:0,pistonPosY:0,pistonPosZ:0}}

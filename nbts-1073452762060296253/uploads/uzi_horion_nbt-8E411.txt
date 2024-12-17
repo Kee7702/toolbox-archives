@@ -1,0 +1,3 @@
+{chargedItem:{Count:3b,Damage:0s,Name:"minecraft:arrow",WasPickedUp:0b},display:{Lore:["Â§rÂ§2The Uzi sub machine gun is almost as iconic as the M-16
+or AK-47. Short, reliable, compact, it is perfect for
+use in close quarters, ambushes, and security forces."],Name:"Â§rÂ§5Uzi - 86 Shots/Min"},ench:[{id:17s,lvl:32767s},{id:35s,lvl:5s},{id:33s,lvl:2102s},{id:26s,lvl:2102s}]}

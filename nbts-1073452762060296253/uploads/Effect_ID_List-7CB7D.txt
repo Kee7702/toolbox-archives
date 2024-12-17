@@ -1,0 +1,29 @@
+﻿Speed speed 1
+Slowness slowness 2
+Haste haste 3
+Mining Fatigue mining_fatigue 4  
+Strength strength 5
+Instant Health instant_health 6
+Instant Damage instant_damage 7
+Jump Boost jump_boost 8
+Nausea nausea 9 
+Regeneration regeneration 10
+Resistance resistance 11
+Fire Resistance fire_resistance 12
+Water Breathing water_breathing 13
+Invisibility invisibility 14
+Blindness blindness 15
+Night Vision night_vision 16 
+Hunger hunger 17
+Weakness weakness 18 
+Poison poison 19 
+Wither wither 20
+Health Boost health_boost 21
+Absorption absorption 22 
+Saturation saturation 23
+ Levitation levitation 24
+Fatal Poison fatal_poison 25
+Conduit Power conduit_power 26
+Slow Falling slow_falling 27
+Bad Omen bad_omen 28
+Hero of the Village village_hero 29

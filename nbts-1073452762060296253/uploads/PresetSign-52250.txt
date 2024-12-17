@@ -1,0 +1,2 @@
+{Count:12b,tag:{Text:"Lol
+HACKED",isMovable:1b,id:Sign},Damage:0s,Name:"minecraft:sign"}

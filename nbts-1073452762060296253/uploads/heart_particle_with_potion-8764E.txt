@@ -1,0 +1,1 @@
+{Count:1b,Damage:2s,tag:{Duration:1000,ParticleId:18,InitialRadius:2.5f,mobEffects:[{Duration:10000000,Id:11b,Amplifier:-1b},{Duration:10000000,Id:10b,Amplifier:-1b}],EntityType:95},Name:"minecraft:bucket"}

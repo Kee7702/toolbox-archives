@@ -1,0 +1,1 @@
+{Count:1b,tag:{ench:[{id:9s,lvl:10s},{id:10s,lvl:10s},{id:11s,lvl:10s},{id:13s,lvl:10s},{id:14s,lvl:10s},{id:12s,lvl:3s}],Unbreakable:100b,Damage:0,display:{Lore:["§r§f§5Make By A Great Warrior\n§6Legendary Items"],Name:"§r§f§4D00M SW0RD§r"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:diamond_sword"}

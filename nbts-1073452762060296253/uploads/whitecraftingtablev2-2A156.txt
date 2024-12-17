@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:movingblock",version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["It's White"],Name:"White Crafting Table"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:crafting_table",states:{},version:17879555},movingBlockExtra:{name:"minecraft:stained_glass"}}}

@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:100,ench:[{id:0s,lvl:1s}],Command:"/execute @a[name=!youtuber4328870]~ ~ ~ tp @e[type=arrow] ~ ~ ~",ExecuteOnFirstTick:1b,display:{Name:"Weather Clear"},Ticking:1b,TickDelay:0},Damage:5s,Name:"minecraft:bucket"}

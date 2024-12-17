@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:moving_block",version:17959425,states:{}},Count:50b,tag:{movingBlock:{name:"minecraft:sculk"},movingBlockExtra:{name:"minecraft:leaves",states:{old_leaf_type:jungle,color:color,block_light_level:0}},display:{Name:"Colored Block"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:moving_block"}

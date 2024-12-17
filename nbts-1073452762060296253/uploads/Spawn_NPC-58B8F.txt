@@ -1,0 +1,1 @@
+{tag:{RepairCost:0,display:{Name:"§lN§aP§eC"},ench:[{id:17s,lvl:3s}]},Count:64b,Damage:258s,ItemIdentifier:"minecraft:npc",Name:"minecraft:spawn_egg"}

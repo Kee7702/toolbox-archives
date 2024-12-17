@@ -1,0 +1,1 @@
+{Count:16b,tag:{ench:[],chargedItem:{Count:1b,Damage:1s,WasPickedUp:0b,Name:"minecraft:ender_pearl"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:ender_pearl"}

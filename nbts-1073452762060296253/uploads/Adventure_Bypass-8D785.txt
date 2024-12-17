@@ -1,0 +1,4 @@
+step one, .cbe /gamemode 1 NAME
+step two, .nbt load {Count:1b,Damage:5s,Name:"minecraft:dispenser",CanPlaceOn:["grass"]} Place on ground
+step three, .nbt load {Count:1b,Damage:5s,Name:"minecraft:lever",CanPlaceOn:["dispenser"]} place lever on dispenser 
+step four, drop the water bucket pick it up put the bucket in the dispenser and pull the lever

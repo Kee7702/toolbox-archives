@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:mob_spawner",version:17760256,states:{}},Count:64b,tag:{MaxNearbyEntities:25s,RequiredPlayerRange:16s,SpawnCount:5s,isMovable:1b,EntityIdentifier:"minecraft:player",MaxSpawnDelay:20s,SpawnRange:20s,Delay:0s,MinSpawnDelay:20s},Damage:0s,Name:"minecraft:mob_spawner"}

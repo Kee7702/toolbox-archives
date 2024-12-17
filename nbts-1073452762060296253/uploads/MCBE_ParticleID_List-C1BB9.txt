@@ -1,0 +1,77 @@
+- Change 'Invulnerable' to: 1 (not sure if this helps but it doesnt hurt)
+- Changing 'ParticleColor': not sure if this does anything, couldnt figure out the color method being used
+- Put 'Radius' to: 0.5 → → → 2.0 (lags after 2)
+- Change 'RadiusChangeOnPickup' to: 0 (IMPORTANT)
+- Change 'Duration' to: 2147483647 (this is the max time, I promise its not 999999999)
+- Change 'DurationOnUse' to: 2147483647 (this is the max time, I promise its not 9999999)
+- Set 'RadiusOnUse' to: 0 (IMPORTANT)
+- Set 'RadiusPerTick' to: 0 (IMPORTANT)
+- Change 'ParticleId' to a number from the provided list below.↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓
+ 
+LIST OF SOME PARTICLES (If the number is not listed, it was not tested):
+
+24: nothing
+25: same as 38
+26: water droplets rising?
+27: water droplets (no sounds)
+28: lava droplets (no sounds)
+29: falling Honey block droplets
+30: water droplets (sounds)
+31: falling Lava droplets (sounds)
+32: nothing
+33: normal (ling potion)
+34: normal (ling potion)
+35: normal (ling potion)
+36: nothing
+37: eating something green (pandas?)
+38: rain
+39: angry villager
+40: bone meal effect
+41: enchantment letters
+42: nothing
+43: cyan note block
+44: 66 but rising and purple
+45: eating a carrot
+46: nothing
+47: like 62 but smaller
+48: purple fuzz floating up
+49: water evap
+50: same as 83
+51: nothing
+52: nothing
+53: stationary white firework trail
+54: weird flashing white squares
+55: Weird shape thingys (white, looks like an edu thing)
+56: small green fire like 71 but green
+57: falling green firework trail
+58: confetti?
+59: bubbles
+60: bubbles
+61: light green see-through pixels?
+62: Circles that slowly shrink and fade away
+63: Angry Villager
+64: nothing
+65: Black Pixels
+66: border block but falling
+67: thin rising smoke
+68: thick rising smoke
+69: falls then bounces up purple fuzz
+70: 69 but stationary 
+71: soul torch fire
+72: soul speed
+73: crying obsidion
+74: nothing
+75: llama spit
+76: nothing
+77: blue, red, purple, and black fading splarklers
+78: falling green squares?
+79: 78 but they fly in all directions over 90+ blocks away!
+80: nothing
+81: nothing
+82: crashes
+83: floating XP orbs (really cool one)
+84: nothing
+85: crashes
+86: crashes
+87: crashes
+

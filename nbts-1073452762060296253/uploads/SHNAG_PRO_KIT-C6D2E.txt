@@ -1,0 +1,908 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"black"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:0b,WasPickedUp:0b,tag:{Patterns:[{Color:6,Pattern:"ls"},{Color:6,Pattern:"rs"},{Color:6,Pattern:"ms"},{Color:0,Pattern:"bo"}],RepairCost:0,display:{Name:"Â§lÂ§bHORION Â§fBANNER"},ench:[{id:31s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:1b,WasPickedUp:0b,tag:{Base:0,Patterns:[{Color:12,Pattern:"bs"},{Color:12,Pattern:"drs"},{Color:12,Pattern:"ts"},{Color:4,Pattern:"bo"},{Color:0,Pattern:"bo"}],RepairCost:0,Type:0,display:{Lore:["Â§lÂ§1SÂ§9UÂ§1RÂ§9GÂ§1E Â§bON Â§1TOP"],Name:"î„…Â§bÂ§lSURGE Â§1BANNERÂ§rî„…"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:13s,Name:"minecraft:banner",Slot:2b,WasPickedUp:0b,tag:{Patterns:[{Color:0,Pattern:"ls"},{Color:0,Pattern:"rs"},{Color:0,Pattern:"dls"},{Color:12,Pattern:"bo"}],RepairCost:0,display:{Name:"Â§lÂ§bNÂ§dG Â§0BANNER"},ench:[{id:31s,lvl:10s}]}},{Count:1b,Damage:7s,Name:"minecraft:banner",Slot:3b,WasPickedUp:0b,tag:{Patterns:[{Color:15,Pattern:"ms"},{Color:15,Pattern:"bo"},{Color:7,Pattern:"rs"},{Color:7,Pattern:"bs"},{Color:15,Pattern:"ls"}],RepairCost:0,display:{Name:"Â§lÂ§fFADEÂ§0AWAY Â§fBANNER"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:4b,WasPickedUp:0b,tag:{Patterns:[{Color:4,Pattern:"bs"},{Color:4,Pattern:"drs"},{Color:4,Pattern:"ts"},{Color:0,Pattern:"bo"}],RepairCost:0,display:{Name:"Â§lÂ§9STRIKE Â§0BANNER"},ench:[{id:31s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:5b,WasPickedUp:0b,tag:{Patterns:[{Color:1,Pattern:"ls"},{Color:1,Pattern:"ms"},{Color:1,Pattern:"rs"},{Color:1,Pattern:"bs"},{Color:1,Pattern:"ts"},{Color:0,Pattern:"bo"}],RepairCost:0,display:{Name:"Â§lÂ§4BADMAN Â§cBANNER"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:banner",Slot:6b,WasPickedUp:0b,tag:{Patterns:[{Color:5,Pattern:"ts"},{Color:5,Pattern:"bs"},{Color:5,Pattern:"dls"},{Color:5,Pattern:"dls"},{Color:11,Pattern:"bo"}],RepairCost:0,display:{Name:"Â§lÂ§oZephyr Banner"},ench:[{id:31s,lvl:10s}]}},{Count:1b,Damage:15s,Name:"minecraft:banner",Slot:7b,WasPickedUp:0b,tag:{Patterns:[{Color:8,Pattern:"ts"},{Color:8,Pattern:"bs"},{Color:8,Pattern:"ms"},{Color:8,Pattern:"rs"},{Color:8,Pattern:"ls"},{Color:15,Pattern:"bo"}],RepairCost:0,display:{Name:"Â§lÂ§7BRUSH Â§fBANNER"},ench:[{id:28s,lvl:10s}]}},{Count:1b,Damage:10s,Name:"minecraft:banner",Slot:8b,WasPickedUp:0b,tag:{Patterns:[{Color:8,Pattern:"ts"},{Color:8,Pattern:"cs"},{Color:10,Pattern:"bo"}],RepairCost:0,display:{Name:"Â§lÂ§aTOOLBOX Â§7BANNER"},ench:[{id:31s,lvl:10s}]}},{Block:{name:"minecraft:shulker_box",states:{color:"gray"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:9b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMSÂ§k"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:1b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:2b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:3b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:4b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:5b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:6b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:7b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:8b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:9b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_helmet",Slot:10b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN HELMETî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:11b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_chestplate",Slot:12b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN CHESTPLATEî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:13b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_leggings",Slot:14b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN LEGGINGSî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:15b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_boots",Slot:16b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN BOOTSî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:17b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:sparkler",Slot:18b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN SWORDî„"},ench:[{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:17s,lvl:32767s},{id:14s,lvl:10s},{id:12s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:19b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:20b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:21b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:22b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:23b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:24b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:25b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:elytra",Slot:26b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN WINGSî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}}],RepairCost:0,display:{Lore:["(Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r)"],Name:"â™°Â§lÂ§cINVISÂ§f-Â§7KITÂ§râ™°"},facing:5b}},{Block:{name:"minecraft:shulker_box",states:{color:"red"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:10b,WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:beehive",Slot:2b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+{
+"button_name":"Â§1Â§3Health",
+"data":[
+{
+"cmd_line":"/effect\t@p\tinstant_health\t\t9999999\t255\ttrue",
+"cmd_ver":12
+}
+],
+"mode":0,
+"text":"/effect\t@p\tinstant_health\t\t9999999\t\t255\ttrue",
+"type":1
+},
+{
+"button_name":"Â§9Invisibility",
+"data":[
+{
+"cmd_line":"/effect\t@p\tinvisibility\t999999\t255\ttrue",
+"cmd_ver":12
+}
+],
+"mode":0,
+"text":"/effect\t@p\tinvisibility\t999999\t255\ttrue",
+"type":1
+},
+{
+"button_name":"Â§1Â§lSAYHI",
+"data":[
+{
+"cmd_line":"/say\t@a\tÂ§dÂ§lFollow_Tik4Tok_@getshanged",
+"cmd_ver":12
+}
+],
+"mode":0,
+"text":"/say\t@a\tÂ§1Â§lFollow@getshangedontiktok",
+"type":1
+},
+{
+"button_name":"Â§4Â§lGamemodeC",
+"data":[
+{
+"cmd_line":"/gamemode\tc\t@p",
+"cmd_ver":12
+}
+],
+"mode":0,
+"text":"/gamemode\tc\t@p",
+"type":1
+},
+{
+"button_name":"Â§5Â§lGamemodeS",
+"data":[
+{
+"cmd_line":"/gamemode\tS\t@a",
+"cmd_ver":12
+}
+],
+"mode":0,
+"text":"/gamemode\tS\t@p",
+"type":1
+},
+{
+"button_name":"Â§6Â§lKillNPC",
+"data":[
+{
+"cmd_line":"/kill\t@s",
+"cmd_ver":12
+}
+],
+"mode":0,
+"text":"/kill\t@s",
+"type":1
+}
+]
+",InterativeText:"Â§bÂ§lFollow TikTok @getshanged for kits and more",RawtextName:"Â§dÂ§lShanged Helper BOT",Ticking:1b,TicksLeftToStay:1,Variant:19}}],display:{Name:"Â§d Server Bot"},ench:[{id:19s,lvl:1s}]}},{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:beehive",Slot:5b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4Invisibility",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@p\tinvisibility\t999999\t255\ttrue",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\tc\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§6ClearInventory",
+      "data" : [
+         {
+            "cmd_line" : "/clear@a",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ta\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "ClearSpawn",
+      "data" : [
+         {
+            "cmd_line" : "/clearspawnpoint@a",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode\ts\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§2TPrandom",
+      "data" : [
+         {
+            "cmd_line" : "/execute@p~~~tp@p@r[rm=2]",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamemode\ts\t@p",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "tp\t@a\t~\t~\t~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§9KillAll",
+      "data" : [
+         {
+            "cmd_line" : "/kill@e",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect@e[tag=!dontkillme]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tag\t@p\tadd\tdontkillme\n/kill@a[tag=!dontkillme]",
+      "type" : 1
+   },
+   {
+      "button_name" : "KICK",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@a",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/kick@a",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/tag\t@p\tadd\tdontkickme\n/kick@a[tag=!dontkickme]",
+      "type" : 1
+   }
+]
+",CustomName:"Â§dÂ§kÃ¦Ã¦Â§rÂ§d Server Bot Â§kÂ§dÃ¦ÃŸ",Ticking:1b,TicksLeftToStay:1,Variant:19}}],RepairCost:0,display:{Name:"ShangsTrollBot"},ench:[{id:13s,lvl:9s}]}},{Count:1b,Damage:0s,Name:"minecraft:paper",Slot:20b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§7Â§o<--- BROKEN ATM"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:22b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§dMade By Â§bGOTSHNAGEDÂ§r"],Name:"î„ƒÂ§6Â§lDR NUKERÂ§2 *NPC*î„ƒÂ§r"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:wither_rose",states:{},version:17760256},movingEntity:{CustomName:"Â§bshnags",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "îˆÂ§lÂ§cTNTîˆ",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule tntexplodes true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/difficulty h",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @a title Â§kÂ¶Â§rÂ§lÂ§7î„GRIEFÂ§0GANGî„Â§rÂ§kÂ¶Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say Â§lÂ§cGET Â§4NUKED Â§cBY: Â§7GRIEF-GANGÂ§8!?!Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=25] ~~~ fill ~-15 ~-15 ~-15 ~15 ~15 ~15 tnt",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=25] ~ ~ ~ fill ~1 ~16 ~1 ~-1 ~-16 ~-1 fire",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[rm=25] slowness 99999 255 true",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule tntexplodes true\n/difficulty h\n/title @a title Â§kÂ¶Â§rÂ§lÂ§7î„GRIEFÂ§0GANGî„Â§rÂ§kÂ¶Â§r\n/say Â§lÂ§cGET Â§4NUKED Â§cBY: Â§7GRIEF-GANGÂ§8!?!Â§r\n/execute @a[rm=25] ~~~ fill ~-15 ~-15 ~-15 ~15 ~15 ~15 tnt\n/execute @a[rm=25] ~ ~ ~ fill ~1 ~16 ~1 ~-1 ~-16 ~-1 fire\n/effect @a[rm=25] slowness 99999 255 true",
+      "type" : 1
+   },
+   {
+      "button_name" : "î‰Â§lÂ§9SETUPî‰",
+      "data" : [
+         {
+            "cmd_line" : "/title @p title BY î„…|Â§kÂ¶Â§rÂ§lÂ§fTIKÂ§0TOKÂ§rÂ§kÂ¶Â§r|î„… Â§kÂ¶Â§rÂ§cî„:::Â§lÂ§3@GOTSHNAGEDÂ§rÂ§cî„€:::Â§rÂ§kÂ¶Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/scoreboard objectives add Â§0Â§lGRIEF-GANG dummy",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/scoreboard objectives setdisplay list \"Â§0Â§lGRIEF-GANG\" ascending",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/scoreboard players add @a[rm=10] \"Â§0Â§lGRIEF-GANG\" 69",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule commandblockoutput false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule pvp true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule doweathercycle false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule dodaylightcycle false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/time set day",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/weather clear",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule keepinventory false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule commandblocksenabled false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule sendcommandfeedback false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @p actionbar î„‚Â§lÂ§9SETUP: Â§2CHECK= Â§bGOODî„‚",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/title @p title BY î„…|Â§kÂ¶Â§rÂ§lÂ§fTIKÂ§0TOKÂ§rÂ§kÂ¶Â§r|î„… Â§kÂ¶Â§rÂ§cî„:::Â§lÂ§3@GOTSHNAGEDÂ§rÂ§cî„€:::Â§rÂ§kÂ¶Â§r\n/scoreboard objectives add Â§0Â§lGRIEF-GANG dummy\n/scoreboard objectives setdisplay list \"Â§0Â§lGRIEF-GANG\" ascending\n/scoreboard players add @a[rm=10] \"Â§0Â§lGRIEF-GANG\" 69\n/gamerule commandblockoutput false\n/gamerule pvp true\n/gamerule doweathercycle false\n/gamerule dodaylightcycle false\n/time set day\n/weather clear \n/gamerule keepinventory false\n/gamerule commandblocksenabled false\n/gamerule sendcommandfeedback false\n/title @p actionbar î„‚Â§lÂ§9SETUP: Â§2CHECK= Â§bGOODî„‚",
+      "type" : 1
+   },
+   {
+      "button_name" : "îˆÂ§lÂ§0SUMMONîˆ",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule mobgriefing true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/difficulty h",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @e[rm=50] ~~~ summon wither ~ ~ ~ minecraft:entity_spawned î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=50] ~~~ summon ender_dragon ~ ~ ~ ",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[rm=25] slowness 99999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @a actionbar Â§lÂ§7î„GRIEFÂ§0GANGî„ Â§6ON Â§gTOP!?!",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule mobgriefing true\n/difficulty h\n/execute @e[rm=50] ~~~ summon wither ~ ~ ~ minecraft:entity_spawned î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/execute @a[rm=50] ~~~ summon ender_dragon ~ ~ ~\n/effect @a[rm=25] slowness 99999 255 true\n/title @a actionbar Â§lÂ§7î„GRIEFÂ§0GANGî„ Â§6ON Â§gTOP!?!",
+      "type" : 1
+   },
+   {
+      "button_name" : "îˆÂ§lÂ§8RESETîˆ",
+      "data" : [
+         {
+            "cmd_line" : "/summon @a[rm=25] ~~~ lighting_bolt",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamemode s @a[rm=25]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/clear @a[rm=25]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/clearspawnpoint @a[rm=25]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/kill @a[rm=25]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @a title Â§lÂ§7î„GRIEFÂ§0GANGî„",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/playsound mob.ghast.scream @a 1000",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/summon @a[rm=25] ~~~ lighting_bolt\n/gamemode s @a[rm=25]\n/clear @a[rm=25]\n/clearspawnpoint @a[rm=25]\n/kill @a[rm=25]\n/title @a title Â§lÂ§7î„GRIEFÂ§0GANGî„\n/playsound mob.ghast.scream @a 1000",
+      "type" : 1
+   },
+   {
+      "button_name" : "î‰Â§lÂ§gDisplayî‰",
+      "data" : [
+         {
+            "cmd_line" : "/title @a actionbar î„‚Â§lÂ§9WELCOME:Â§aTO Â§6DISPLAYî„‚Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 glass 0 outline",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=25] ~30 ~9 ~30 tp @s ~ ~1 ~",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~10 ~30 fill ~15 0 ~-15 ~-15 0 ~15 border_block",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~30 ~10 ~30 fill ~15 2 ~-15 ~-15 2 ~15 deny /effect @a[rm=25] slowness 99999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/title @a actionbar î„‚Â§lÂ§9WELCOME:Â§aTO Â§6DISPLAYî„‚Â§r\n/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air\n/execute @p ~30 ~9 ~30 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 glass 0 outline\n/execute @a[rm=25] ~30 ~9 ~30 tp @s ~ ~1 ~\n/execute @p ~30 ~10 ~30 fill ~15 0 ~-15 ~-15 0 ~15 border_block \n/execute @p ~30 ~10 ~30 fill ~15 2 ~-15 ~-15 2 ~15 deny /effect @a[rm=25] slowness 99999 255 true\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€\n/say @r î„€Â§lÂ§cTIKÂ§9TOKÂ§r-Â§bgotshnagedÂ§rî„€",
+      "type" : 1
+   },
+   {
+      "button_name" : "îˆÂ§2Â§lTROLLîˆ",
+      "data" : [
+         {
+            "cmd_line" : "/replaceitem entity @e[rm=10] slot.armor.head 0 carved_pumpkin 1 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @a title Â§kÂ¶Â§rÂ§lÂ§7î„GRIEFÂ§0GANGî„Â§rÂ§kÂ¶Â§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/playanimation @e[rm=25] animation.ghast.scale z 999",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/playsound random.fuse @e",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[rm=25] levitation 99999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/xp @e 100000000",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/titleraw @a actionbar {\\\"rawtext\\\":[{\\\"text\\\":\\\"Â§lÂ§d    î„ î„ƒ  HOW--TO--GET--SERVER--BACK î„ƒ î„Â§r     \\\\n       Â§1Â§l-------------------------------Â§r \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§g@Â§lÂ§6GOTSHNAGEDÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__ \\\\n Â§9Â§l___SUB__Â§rÂ§5TO_Â§lÂ§f_SHNAGSÂ§rÂ§b__Â§lON__Â§lÂ§4YOUÂ§cTUBEÂ§b__ \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§2@Â§lÂ§eDribforealzzzÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__ \\\\n Â§bÂ§l___FOLLOW__Â§rÂ§c@Â§lÂ§4yourdiscountsusÂ§rÂ§b__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§b__ \\\\n Â§4Â§l___Sub__Â§rÂ§3T0_Â§lÂ§0_NRG JobroÂ§rÂ§a__Â§lON__Â§lÂ§fYouÂ§0TubeÂ§4__ \\\\n Â§bÂ§l___FOLLOW__Â§rÂ§4@Â§lÂ§5realmraidsÂ§rÂ§b__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§b__ \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§g@Â§lÂ§flxvlxvclientÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__\\\"}]}",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/replaceitem entity @e[rm=10] slot.armor.head 0 carved_pumpkin 1 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}\n/title @a title Â§kÂ¶Â§rÂ§lÂ§7î„GRIEFÂ§0GANGî„Â§rÂ§kÂ¶Â§r\n/playanimation @e[rm=25] animation.ghast.scale z 999\n/playsound random.fuse @e\n/effect @a[rm=25] levitation 99999 255 true\n/xp @e 100000000\n/titleraw @a actionbar {\\\"rawtext\\\":[{\\\"text\\\":\\\"Â§lÂ§d    î„ î„ƒ  HOW--TO--GET--SERVER--BACK î„ƒ î„Â§r     \\\\n       Â§1Â§l-------------------------------Â§r \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§g@Â§lÂ§6GOTSHNAGEDÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__ \\\\n Â§9Â§l___SUB__Â§rÂ§5TO_Â§lÂ§f_SHNAGSÂ§rÂ§b__Â§lON__Â§lÂ§4YOUÂ§cTUBEÂ§b__ \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§2@Â§lÂ§eDribforealzzzÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__ \\\\n Â§bÂ§l___FOLLOW__Â§rÂ§c@Â§lÂ§4yourdiscountsusÂ§rÂ§b__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§b__ \\\\n Â§4Â§l___Sub__Â§rÂ§3T0_Â§lÂ§0_NRG JobroÂ§rÂ§a__Â§lON__Â§lÂ§fYouÂ§0TubeÂ§4__ \\\\n Â§bÂ§l___FOLLOW__Â§rÂ§4@Â§lÂ§5realmraidsÂ§rÂ§b__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§b__ \\\\n Â§aÂ§l___FOLLOW__Â§rÂ§g@Â§lÂ§flxvlxvclientÂ§rÂ§a__Â§lON__Â§lÂ§1TIKÂ§4TOKÂ§a__\\\"}]}",
+      "type" : 1
+   }
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-125.913f,Chested:0b,Color:0b,Color2:0b,CustomName:"î„ƒ4rÂ§lDR NUKERî„ƒ",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"î„…|Â§kÂ¶Â§rÂ§lÂ§fTIKÂ§0TOKÂ§rÂ§kÂ¶Â§r|î„… Â§kÂ¶Â§rÂ§cî„:::Â§lÂ§3@GOTSHNAGEDÂ§rÂ§cî„€:::Â§rÂ§kÂ¶Â§r
+î„‚Â§lÂ§0GRIEF-GANG-Â§con-Â§2TOPÂ§rî„‚
+Â§lÂ§41. NUKE (EVERYONE BUT YOU)
+Â§lÂ§12. SETUP FOR GRIEF
+Â§lÂ§83. SUMMON WITHERS/DRAGONS
+Â§lÂ§74. RESET EVERYONE
+Â§lÂ§g5. Display Everyone in a Cage
+Â§lÂ§a6. TROLL SOME SKIDS!?!",Invulnerable:1b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[290.5f,66f,-13.5f],RawtextName:"î„ƒ Â§4Â§lDOCTOR_NUKERÂ§rî„ƒ",Rotation:[170.742f,0.772919f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-8589933953l,Variant:13,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc","+"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:25b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["î„‚Â§rÂ§lÂ§bTikTokî„‚ Â§bÂ§lÂ§d@getshnaged Â§rÂ§lÂ§gWAS HEREî„ƒ"],Name:"î„…Â§4Â§lSERVERî„î„ƒî„DEATHî„… î„‚Â§lÂ§bNPCî„‚ Â§r"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§lÂ§4î„…NUKE CMDsî„…",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule sendcommandfeedback false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule commandblocksenabled false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule commandblockoutput false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air 0 replace repeating_command_block",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air 0 replace command_block",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air 0 replace chain_command_block",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air 0 replace deny",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/tickingarea remove_all",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/functioncommandlimit 0",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule maxcommandchainlength 0",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/msg @p Â§lÂ§oÂ§9DISSABLER WORKING... COMMANDS NUKEDÂ§r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule sendcommandfeedback false\n/gamerule commandblocksenabled false\n/gamerule commandblockoutput false\n/execute @e ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air 0 replace repeating_command_block\n/execute @e ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air 0 replace command_block\n/execute @e ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air 0 replace chain_command_block\n/execute @e ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air 0 replace deny\n/tickingarea remove_all\n/functioncommandlimit 0\n/gamerule maxcommandchainlength 0\n/msg @p Â§lÂ§oÂ§9DISSABLER WORKING... COMMANDS NUKEDÂ§r",
+      "type" : 1
+   },
+   {
+      "button_name" : "î„ƒÂ§1Â§lNBT ENABLEî„ƒ",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule sendcommandfeedback false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule commandblocksenabled false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule commandBlocksenabled true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/msg @p Â§lÂ§oÂ§d NBTS ARE READYÂ§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule doImmediateRespawn true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule mobGriefing true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule tntexplodes true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule keepInvetory false",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/weather clear",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/time set day",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamerule sendcommandfeedback false\n/gamerule commandblocksenabled false\n/gamerule commandBlocksenabled true\n/msg @p Â§lÂ§oÂ§d NBTS ARE READYÂ§r\n/gamerule doImmediateRespawn true\n/gamerule mobGriefing true\n/gamerule tntexplodes true\n/gamerule keepInvetory false\n/weather clear\n/time set day",
+      "type" : 1
+   },
+   {
+      "button_name" : "î„€Â§bÂ§lNUKE ALLî„€",
+      "data" : [
+         {
+            "cmd_line" : "/execute @a[rm=5] ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 tnt",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/title @a title Â§9TikÂ§4Tok Â§oÂ§d@getshnaged",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamerule tntexplodes true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/say @a î„ƒÂ§lÂ§bYOU GOTSHNAGED Â§aRIP ALLî„ƒÂ§r",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=5] ~ ~ ~ summon tnt ~ ~4 ~",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamemode a @a[rm=5]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[rm=5] nausea 10 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[rm=5] slowness 10 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/difficulty hard",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @a[rm=5] wither 10 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/tickingarea add circle ~~~ 4 GETSHNAGED",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @a[rm=5] ~ ~ ~ fill ~1 ~16 ~1 ~-1 ~-16 ~-1 fire",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/execute @a[rm=5] ~ ~ ~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 tnt\n/title @a title Â§9TikÂ§4Tok Â§oÂ§d@getshnaged\n/gamerule tntexplodes true\n/say @a î„ƒÂ§lÂ§bYOU GOTSHNAGED Â§aRIP ALLî„ƒÂ§r\n/execute @a[rm=5] ~ ~ ~ summon tnt ~ ~4 ~\n/gamemode a @a[rm=5]\n/effect @a[rm=5] nausea 10 255 true\n/effect @a[rm=5] slowness 10 255 true\n/difficulty hard\n/effect @a[rm=5] wither 10 255 true\n/tickingarea add circle ~~~ 4 GETSHNAGED\n/execute @a[rm=5] ~ ~ ~ fill ~1 ~16 ~1 ~-1 ~-16 ~-1 fire",
+      "type" : 1
+   },
+   {
+      "button_name" : "î„Â§5Â§oFIND @rî„",
+      "data" : [
+         {
+            "cmd_line" : "/effect @p invisibility 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/gamemode c @p",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/give @p tnt 64",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/give @p flint_and_steel 1",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/execute @p ~ ~ ~ tp @p @r[rm=2]",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/msg @p Â§6Â§lî„‚YOU HAVE TP'd TO RANDOMî„‚",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/effect @p invisibility 999999 255 true\n/gamemode c @p\n/give @p tnt 64\n/give @p flint_and_steel 1\n/execute @p ~ ~ ~ tp @p @r[rm=2]\n/msg @p Â§6Â§lî„‚YOU HAVE TP'd TO RANDOMî„‚\n/kill @e[type=npc,r=1]",
+      "type" : 1
+   },
+   {
+      "button_name" : "î„‚Â§gÂ§lGAMEMODE Cî„‚",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode c @p",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/msg @p[m=!c] Â§2Â§l Welcome To CreavtiveÂ§r",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode c @p\n/msg @p[m=!c] Â§2Â§l Welcome To CreavtiveÂ§r\n",
+      "type" : 1
+   },
+   {
+      "button_name" : "î„Â§7Â§lGAMEMODE Sî„",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode s @p",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @p instant_health 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @p absoption 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @p health_boost 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @p regereration 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @p resistance 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @p night_vision 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @p strenght 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @p haste 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/effect @p conduit_power 999999 255 true",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/msg @p î„Â§9Â§lWELCOME TO GODMODE SURVIVALî„",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/gamemode s @p\n/effect @p instant_health 999999 255 true\n/effect @p absoption 999999 255 true\n/effect @p health_boost 999999 255 true\n/effect @p regereration 999999 255 true\n/effect @p resistance 999999 255 true\n/effect @p night_vision 999999 255 true\n/effect @p strenght 999999 255 true\n/effect @p haste 999999 255 true\n/effect @p conduit_power 999999 255 true\n/msg @p î„Â§9Â§lWELCOME TO GODMODE SURVIVALî„",
+      "type" : 1
+   }
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:225f,DefaultMax:16f,DefaultMin:0f,Max:225f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:225f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:16.4126f,Chested:0b,Color:0b,Color2:0b,CustomName:"î„…Â§dÂ§lSHNAG BOTî„‚ Â§r",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"î„‚Â§lÂ§kÂ§3:::Â§rÂ§lÂ§gTikTokÂ§kÂ§0:::Â§rÂ§lÂ§d@getshnagedÂ§lÂ§gnpcÂ§kÂ§3:::î„‚
+
+Â§rÂ§4Â§l1. Turn Commands off NUKE command blocks
+Â§rÂ§1Â§l2. ENABLE COMMANDS for nbt
+Â§rÂ§3Â§l3. Nuke Players
+Â§rÂ§5Â§l4. TP RANDOM/INVISABLE
+Â§rÂ§6Â§l5. GAMEMODE C
+Â§rÂ§7Â§l6GAMEMODE S / GOD MODE",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[568.5f,74f,23.5f],RawtextName:"î„‚Â§rÂ§lÂ§aSERVER DEATHî„‚",Rotation:[-134.349f,0.643875f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-25769803724l,Variant:18,boundX:0,boundY:0,boundZ:0,canPickupItems:1b,definitions:["+minecraft:npc","+"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}}],RepairCost:0,display:{Name:"Â§lÂ§aâœ„SHNAGS Â§4â˜‚NPCâ˜‚ Â§aBOXâœ„"}}},{Block:{name:"minecraft:bubble_column",states:{drag_down:0b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bubble_column",Slot:11b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§aî„„BY Â§dSÂ§cHÂ§eNÂ§bAÂ§5GÂ§1Sî„„"},ench:[{id:10s,lvl:0s},{id:10s,lvl:1s},{id:10s,lvl:2s},{id:10s,lvl:3s},{id:10s,lvl:4s},{id:10s,lvl:5s},{id:10s,lvl:6s},{id:10s,lvl:7s},{id:10s,lvl:8s},{id:10s,lvl:9s},{id:10s,lvl:10s}]}},{Block:{name:"minecraft:bubble_column",states:{drag_down:0b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bubble_column",Slot:12b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§aî„„BY Â§dSÂ§cHÂ§eNÂ§bAÂ§5GÂ§1Sî„„"},ench:[{id:10s,lvl:0s},{id:10s,lvl:1s},{id:10s,lvl:2s},{id:10s,lvl:3s},{id:10s,lvl:4s},{id:10s,lvl:5s},{id:10s,lvl:6s},{id:10s,lvl:7s},{id:10s,lvl:8s},{id:10s,lvl:9s},{id:10s,lvl:10s}]}},{Block:{name:"minecraft:barrel",states:{facing_direction:3,open_bit:1b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:barrel",Slot:13b,WasPickedUp:0b,tag:{CustomName:"î„‚Â§lÂ§gSHNAGS ILLEGAL ITEMSî„‚",Findable:0b,Items:[{Block:{name:"minecraft:lit_furnace",states:{facing_direction:0},version:17959425},Count:64b,Damage:0s,Name:"minecraft:lit_furnace",Slot:0b,WasPickedUp:0b},{Block:{name:"minecraft:bubble_column",states:{drag_down:0b},version:17959425},Count:64b,Damage:0s,Name:"minecraft:bubble_column",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:fire",states:{age:0},version:17959425},Count:64b,Damage:0s,Name:"minecraft:fire",Slot:2b,WasPickedUp:0b},{Block:{name:"minecraft:bed",states:{direction:0,head_piece_bit:0b,occupied_bit:0b},version:17959425},Count:64b,Damage:0s,Name:"minecraft:item.bed",Slot:3b,WasPickedUp:0b},{Block:{name:"minecraft:end_portal",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:end_portal",Slot:4b,WasPickedUp:0b},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:64b,Damage:0s,Name:"minecraft:portal",Slot:5b,WasPickedUp:0b},{Block:{name:"minecraft:end_gateway",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:end_gateway",Slot:6b,WasPickedUp:0b},{Block:{name:"minecraft:glowingobsidian",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:glowingobsidian",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:netherreactor",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:netherreactor",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:mob_spawner",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:mob_spawner",Slot:9b,WasPickedUp:0b},{Block:{name:"minecraft:flowing_water",states:{liquid_depth:0},version:17959425},Count:64b,Damage:0s,Name:"minecraft:flowing_water",Slot:10b,WasPickedUp:0b},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:64b,Damage:0s,Name:"minecraft:flowing_lava",Slot:11b,WasPickedUp:0b},{Block:{name:"minecraft:camera",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:camera",Slot:12b,WasPickedUp:0b},{Block:{name:"minecraft:barrier",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:barrier",Slot:13b,WasPickedUp:0b},{Block:{name:"minecraft:structure_void",states:{structure_void_type:"void"},version:17959425},Count:64b,Damage:0s,Name:"minecraft:structure_void",Slot:14b,WasPickedUp:0b},{Block:{name:"minecraft:stickyPistonArmCollision",states:{facing_direction:0},version:17959425},Count:64b,Damage:0s,Name:"minecraft:stickypistonarmcollision",Slot:15b,WasPickedUp:0b},{Block:{name:"minecraft:hard_glass",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:hard_glass",Slot:16b,WasPickedUp:0b},{Block:{name:"minecraft:hard_glass_pane",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:hard_glass_pane",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:info_update2",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:info_update2",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:info_update",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:info_update",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:reserved6",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:reserved6",Slot:20b,WasPickedUp:0b},{Block:{name:"minecraft:light_block",states:{block_light_level:15},version:17959425},Count:64b,Damage:0s,Name:"minecraft:light_block",Slot:21b,WasPickedUp:0b},{Block:{name:"minecraft:underwater_torch",states:{torch_facing_direction:"unknown"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:underwater_torch",Slot:22b,WasPickedUp:0b},{Block:{name:"minecraft:underwater_torch",states:{torch_facing_direction:"unknown"},version:17959425},Count:64b,Damage:0s,Name:"minecraft:underwater_torch",Slot:23b,WasPickedUp:0b},{Block:{name:"minecraft:client_request_placeholder_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:client_request_placeholder_block",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:movingblock",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:invisibleBedrock",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:invisiblebedrock",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Lore:["(Â§lÂ§aBY Â§cSHNAGSÂ§r)"],Name:"Â§lÂ§4âšILLEGALSâš"},ench:[{id:28s,lvl:-32767s}]}},{Block:{name:"minecraft:bubble_column",states:{drag_down:0b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bubble_column",Slot:14b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§aî„„BY Â§dSÂ§cHÂ§eNÂ§bAÂ§5GÂ§1Sî„„"},ench:[{id:10s,lvl:0s},{id:10s,lvl:1s},{id:10s,lvl:2s},{id:10s,lvl:3s},{id:10s,lvl:4s},{id:10s,lvl:5s},{id:10s,lvl:6s},{id:10s,lvl:7s},{id:10s,lvl:8s},{id:10s,lvl:9s},{id:10s,lvl:10s}]}},{Block:{name:"minecraft:bubble_column",states:{drag_down:0b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bubble_column",Slot:15b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§aî„„BY Â§dSÂ§cHÂ§eNÂ§bAÂ§5GÂ§1Sî„„"},ench:[{id:10s,lvl:0s},{id:10s,lvl:1s},{id:10s,lvl:2s},{id:10s,lvl:3s},{id:10s,lvl:4s},{id:10s,lvl:5s},{id:10s,lvl:6s},{id:10s,lvl:7s},{id:10s,lvl:8s},{id:10s,lvl:9s},{id:10s,lvl:10s}]}},{Block:{name:"minecraft:shulker_box",states:{color:"gray"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:16b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Count:64b,Damage:0s,Name:"minecraft:end_crystal",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§5Â§lâ˜ƒÂ§fÂ§l32k Â§5Crystalâ˜ƒ"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Block:{name:"minecraft:obsidian",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:obsidian",Slot:1b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lSHNAGS OBBY"},ench:[{id:0s,lvl:32767s},{id:9s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_sword",Slot:2b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE SWORD î‰Â§k
+Â§r            Â§8Â§k-Â§rÂ§cCOPE HARDERÂ§8Â§k
+Â§r          Â§lÂ§0How TO ATTACK?"},ench:[{id:9s,lvl:32767s},{id:17s,lvl:0s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:9s,lvl:32767s},{id:14s,lvl:10s},{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:9s,lvl:32767s},{id:26s,lvl:32767s},{id:9s,lvl:32767s},{id:12s,lvl:32767s},{id:9s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_axe",Slot:3b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:2031,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE PICKAXE î‰Â§k
+Â§r               Â§8Â§k-Â§rÂ§8Frick TreesÂ§k
+Â§r               Â§lÂ§0How TO CHOP?"},ench:[{id:17s,lvl:0s},{id:18s,lvl:10s},{id:26s,lvl:32767s},{id:15s,lvl:32767s},{id:9s,lvl:32767s},{id:17s,lvl:0s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:9s,lvl:32767s},{id:14s,lvl:10s},{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:9s,lvl:32767s},{id:26s,lvl:32767s},{id:9s,lvl:32767s},{id:12s,lvl:32767s},{id:9s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_pickaxe",Slot:4b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:2031,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE PICKAXE î‰Â§k
+Â§r               Â§8Â§k-Â§rÂ§8Just BetterÂ§k
+Â§r               Â§lÂ§0How TO MINE?"},ench:[{id:17s,lvl:0s},{id:18s,lvl:10s},{id:26s,lvl:32767s},{id:15s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:flint_and_steel",Slot:5b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["(Â§3By Â§cSHNAGSÂ§d)"],Name:"Â§kÂ§6â”¼Â§rÂ§lÂ§1POP Â§3A Â§9LIGHTÂ§rÂ§kÂ§6â”¼Â§r"},ench:[{id:13s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:bow",Slot:6b,WasPickedUp:0b,tag:{Damage:0,RepairCost:3,Unbreakable:1b,display:{Name:"Â§lÂ§2SHHHNNIPPER"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:28s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:7b,WasPickedUp:0b,tag:{Damage:0,Unbreakable:1b,display:{Lore:["Â§b By GETSHNAGED"],Name:"Â§4î„‚SHNAGS ARROWSî„‚"},ench:[{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:11s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:100s}]}},{Count:1b,Damage:0s,Name:"minecraft:glow_stick",Slot:8b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§b By GETSHNAGED"],Name:"Â§rÂ§4â™›Â§lÂ§5SHNAGS SABBERÂ§rÂ§4â™›Â§r"},ench:[{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:10s},{id:17s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:256s},{id:22s,lvl:10s},{id:26s,lvl:10s},{id:34s,lvl:32767s}]}},{Block:{name:"minecraft:obsidian",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:obsidian",Slot:9b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lSHNAGS OBBY"},ench:[{id:0s,lvl:32767s},{id:9s,lvl:32767s}]}},{Count:64b,Damage:0s,Name:"minecraft:end_crystal",Slot:10b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§5Â§lâ˜ƒÂ§fÂ§l32k Â§5Crystalâ˜ƒ"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_helmet",Slot:11b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE HELMET î‰Â§k
+Â§r    Â§8Â§k-Â§rÂ§8SPED HEAD PROTECTIONÂ§k
+Â§r         Â§lÂ§0How TO THINK?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_chestplate",Slot:12b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE CHESTPLATE î‰Â§k
+Â§r     Â§8Â§k-Â§rÂ§8Protection For Your Black HeartÂ§k
+Â§r             Â§lÂ§0How TO Human?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:elytra",Slot:13b,WasPickedUp:0b,tag:{Damage:430,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE ELYTRA î‰Â§k
+Â§r       Â§8Â§k-Â§rÂ§8Fairy Wings For GiehsÂ§k
+Â§r             Â§lÂ§0How TO FLY?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_leggings",Slot:14b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE LEGGINGS î‰Â§k
+Â§r          Â§8Â§k-Â§rÂ§8DOWN UP DOWN BADÂ§k
+Â§r             Â§lÂ§0How TO JUMP?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_boots",Slot:15b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE BOOTS î‰Â§k
+Â§r              Â§8Â§k-Â§rÂ§8Just BetterÂ§k
+Â§r             Â§lÂ§0How TO WALK?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Block:{name:"minecraft:barrel",states:{facing_direction:0,open_bit:1b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:barrel",Slot:16b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:0b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:1b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:2b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:3b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:4b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:5b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:6b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:7b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:8b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:9b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:10b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:11b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:12b,WasPickedUp:0b},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},CanPlaceOn:["minecraft:grass"],Count:-128b,Damage:0s,Name:"minecraft:movingblock",Slot:13b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§4SUICIDE BOMB"},ench:[{id:9s,lvl:-10s}],movingBlock:{name:"minecraft:wither_rose",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:area_effect_cloud<>",SaveData:{Duration:999999,ParticleId:55,Persistent:1b,Radius:6969f,TicksLeftToStay:100,definitions:["+minecraft:area_effect_cloud"],identifier:"minecraft:area_effect_cloud",mobEffects:[{Amplifier:-2b,Duration:99999999,Id:7b},{Amplifier:-2b,Duration:99999999,Id:9b}]}}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:14b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:15b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:16b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:17b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:18b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:19b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:20b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:21b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:22b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:23b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:24b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:25b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGS)"],Name:"Â§lÂ§4KILLA Â§câ˜£DRUGSâ˜£"},ench:[{id:28s,lvl:32767s}]}},{Block:{name:"minecraft:tnt",states:{allow_underwater_bit:1b,explode_bit:1b},version:17959425},Count:64b,Damage:0s,Name:"minecraft:tnt",Slot:17b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§0Â§lâ˜ DEADLY Â§cTNTÂ§0â˜ "},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:64b,Damage:0s,Name:"minecraft:chorus_fruit",Slot:18b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§oÂ§0BEÂ§5-Â§0GONE Â§5Fruit"},ench:[{id:27s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:19b,WasPickedUp:0b,tag:{Damage:0,Unbreakable:1b,display:{Lore:["Â§b By GETSHNAGED"],Name:"Â§4î„‚SHNAGS ARROWSî„‚"},ench:[{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:11s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:100s}]}},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:20b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:21b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:firework_rocket",Slot:22b,WasPickedUp:0b,tag:{Fireworks:{Explosions:[],Flight:-24b},RepairCost:0,display:{Lore:["BY GETSHNAGED"],Name:"î„‚Â§aÂ§lROCKET TO SPACEî„‚"},ench:[{id:22s,lvl:10s}]}},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:23b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:24b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Block:{name:"minecraft:lit_blast_furnace",states:{facing_direction:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:lit_blast_furnace",Slot:25b,WasPickedUp:0b,tag:{BurnDuration:-27009s,BurnTime:-27009s,CookTime:1s,CustomName:"î‚  Â§eXÂ§6P î‚¡",Items:[{Count:100b,Damage:0s,Name:"minecraft:raw_gold",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eSMELT ME"}}},{Count:1b,Damage:0s,Name:"minecraft:gold_ingot",Slot:2b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eTAKE ME"}}}],RepairCost:0,StoredXPInt:999999999,display:{Lore:["(Â§bBy Â§cSHNAGSÂ§d)"],Name:"Â§lÂ§eâ‡®Â§dXÂ§6P Â§aEZÂ§eâ‡®"}}},{Count:64b,Damage:0s,Name:"minecraft:enchanted_golden_apple",Slot:26b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§eÂ§lâœŒEZ AppleâœŒ"}}}],RepairCost:0,display:{Lore:["(+Â§0Unbreakable Â§4Â§lBY Â§6SHNAGS)"],Name:"â˜¹Â§lÂ§8SHNAGS Â§eâ˜ OPâ˜  Â§8KITÂ§râ˜¹"},ench:[{id:27s,lvl:32767s}],facing:1b}},{Block:{name:"minecraft:shulker_box",states:{color:"gray"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:17b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Count:1b,Damage:0s,Name:"minecraft:Netherite_pickaxe",Slot:0b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§3 By GETSHNAGED"],Name:"î„…Â§3Â§lÂ§oInstaÂ§rÂ§lÂ§9-MINER-Â§3Â§lÂ§oInstaÂ§rî„…"},ench:[{id:18s,lvl:3s},{id:17s,lvl:3s},{id:15s,lvl:5s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:Netherite_sword",Slot:1b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§3 By GETSHNAGED"],Name:"î„…Â§3Â§lÂ§oEZÂ§rÂ§lÂ§1-KILLA-Â§3Â§lÂ§oEZÂ§rî„…"},ench:[{id:13s,lvl:2s},{id:9s,lvl:5s},{id:17s,lvl:3s},{id:12s,lvl:2s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:Netherite_helmet",Slot:2b,WasPickedUp:0b,tag:{Damage:0,RepairCost:100,Unbreakable:1b,display:{Lore:["Â§1Â§l BY GETSHNAGED"],Name:"Â§3î„… Netherite Helmetî„…"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:6s,lvl:3s},{id:8s,lvl:1s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:64b,Damage:0s,Name:"minecraft:enchanted_golden_apple",Slot:3b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:Netherite_boots",Slot:4b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,Unbreakable:1b,display:{Lore:["Â§1Â§l BY GETSHNAGED"],Name:"î„…Â§3 Netherite Bootsî„…"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:2s,lvl:4s},{id:7s,lvl:3s},{id:36s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Block:{name:"minecraft:cave_vines_body_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_body_with_berries",Slot:5b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:flint_and_steel",Slot:6b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["(Â§3By Â§cSHNAGSÂ§d)"],Name:"Â§kÂ§6â”¼Â§rÂ§lÂ§1POP Â§3A Â§9LIGHTÂ§rÂ§kÂ§6â”¼Â§r"},ench:[{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Block:{name:"minecraft:cave_vines_body_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_body_with_berries",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:cave_vines_head_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_head_with_berries",Slot:8b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:end_crystal",Slot:9b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:end_crystal",Slot:10b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:Netherite_chestplate",Slot:11b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,Unbreakable:1b,display:{Lore:["Â§1Â§l BY GETSHNAGED"],Name:"î„…Â§3 Netherite Chestplateî„…"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:64b,Damage:0s,Name:"minecraft:golden_carrot",Slot:12b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:Netherite_leggings",Slot:13b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,Unbreakable:1b,display:{Lore:["Â§1Â§l BY GETSHNAGED"],Name:"î„… Â§3Netherite Leggingsî„…"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Block:{name:"minecraft:cave_vines_head_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_head_with_berries",Slot:14b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:bow",Slot:15b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Name:"Â§lÂ§2SHHHNNIPPER"},ench:[{id:17s,lvl:3s},{id:21s,lvl:1s},{id:26s,lvl:1s},{id:20s,lvl:2s},{id:19s,lvl:5s}]}},{Block:{name:"minecraft:cave_vines_body_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_body_with_berries",Slot:16b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:clock",Slot:17b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§gPARTY Â§aTIME"}}},{Block:{name:"minecraft:obsidian",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:obsidian",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:obsidian",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:obsidian",Slot:19b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:elytra",Slot:20b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§3 By GETSHNAGED"],Name:"î„…Â§3Â§lNot Used For Eyltra FlyÂ§rî„…"},ench:[{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:64b,Damage:0s,Name:"minecraft:firework_rocket",Slot:21b,WasPickedUp:0b,tag:{Fireworks:{Explosions:[],Flight:3b}}},{Count:64b,Damage:0s,Name:"minecraft:experience_bottle",Slot:22b,WasPickedUp:0b},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:23b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"}}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:cave_vines_head_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_head_with_berries",Slot:25b,WasPickedUp:0b},{Count:1b,Damage:33s,Name:"minecraft:lingering_potion",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Lore:["Â§lÂ§aBÂ§dY Â§cSHNAGS"],Name:"î„… Â§lÂ§9LEGIT Â§3KITî„…Â§c
+Â§1Netherite!Â§r"},facing:1b}},{Block:{name:"minecraft:shulker_box",states:{color:"light_blue"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:18b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMSÂ§k"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:1b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:2b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:3b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:4b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:5b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:6b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:7b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:8b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:9b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_helmet",Slot:10b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN HELMETî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:11b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_chestplate",Slot:12b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN CHESTPLATEî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:13b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_leggings",Slot:14b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN LEGGINGSî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:15b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_boots",Slot:16b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN BOOTSî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:17b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:sparkler",Slot:18b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN SWORDî„"},ench:[{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:17s,lvl:32767s},{id:14s,lvl:10s},{id:12s,lvl:32767s},{id:26s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:19b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:20b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:21b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:22b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:23b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:24b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Block:{name:"minecraft:flowing_lava",states:{liquid_depth:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:flowing_lava",Slot:25b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r
+
+Â§cDONT FAST MOVE ITEMS"},ench:[{id:21s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:elytra",Slot:26b,WasPickedUp:0b,tag:{Damage:-32767,RepairCost:0,Unbreakable:1b,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGSÂ§a)"],Name:"î„Â§lÂ§dHIDDEN WINGSî„"},ench:[{id:4s,lvl:32767s},{id:3s,lvl:32767s},{id:0s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:5s,lvl:32767s},{id:2s,lvl:32767s},{id:7s,lvl:32767s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:10s},{id:17s,lvl:32767s},{id:26s,lvl:32767s}]}}],RepairCost:0,display:{Lore:["(Â§lÂ§eâœ¯Â§6BY Â§4SHNAGSÂ§eâœ¯Â§r)"],Name:"â™°Â§lÂ§3INVISÂ§f-Â§7KITÂ§râ™°"},facing:5b}},{Block:{name:"minecraft:shulker_box",states:{color:"red"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:19b,WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:movingBlock",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:0b,WasPickedUp:0b,tag:{display:{Lore:["Â§lÂ§cDROP and THROW SNOWBALL"],Name:"Â§lÂ§bâ’¸Â§dâ’¶Â§bâ“€Â§dâ’ºÂ§bâ’¹ Â§dâ’¹Â§bâ“„Â§bâ“ŒÂ§dâ“ƒ"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:bee_nest"},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"scoreboard objectives add menu dummy",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"scoreboard players add @a menu 0",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"replaceitem entity @a slot.hotbar 8 snowball",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"scoreboard players set @a[scores={menu=7..}] menu 1",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"kill @e[name=snowball]",Persistent:1b,TickDelay:1,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"kill @e[type=snowball]",Persistent:1b,TickDelay:5,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[name=snowball] ~~~ scoreboard players add @p[r=2] menu 1",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=snowball] ~~~ gamemode c @p[r=2,scores={menu=1}]",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=snowball] ~~~ execute @p[r=2,scores={menu=2}] ~~~ kill @a[rm=10]",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=snowball] ~~~ execute @p[r=2,scores={menu=3}] ~~~ tp @a[rm=2] ~~5000~",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=snowball] ~~~ execute @p[r=2,scores={menu=4}] ~~~ execute @a[rm=10] ~~~ summon tnt ~~~",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=snowball] ~~~ execute @p[r=2,scores={menu=5}] ~~~ execute @a[rm=10] ~~~ summon Lightning_bolt ~~~",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=snowball] ~~~ execute @p[r=2,scores={menu=6}] ~~~ execute @a[rm=10] ~~~ fill ~-15 ~-15 ~-15 ~15 ~15 ~15 air",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"tickingarea add circle ~~~ 4 cake",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={menu=1}] ~~~ titleraw @s actionbar {"rawtext":[{"text":"Â§cLOGGED AS Â§fâ‡¨ Â§4"},{"selector":"@s"},{"text":"Â§lÂ§bâ’¸Â§dâ’¶Â§bâ“€Â§dâ’ºÂ§bâ’¹ Â§dâ’¹Â§bâ“„Â§bâ“ŒÂ§dâ“ƒ \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ \n Â§7 GAMEMODE C \n Â§5 Kill All  \n Â§5 Send Em 2 Space \n Â§5 TNT \n Â§5 STRIKE'em \n Â§5 FIll Air \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ "}]}",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={menu=2}] ~~~ titleraw @s actionbar {"rawtext":[{"text":"Â§cLOGGED AS Â§fâ‡¨ Â§4"},{"selector":"@s"},{"text":"Â§lÂ§bâ’¸Â§dâ’¶Â§bâ“€Â§dâ’ºÂ§bâ’¹ Â§dâ’¹Â§bâ“„Â§bâ“ŒÂ§dâ“ƒ \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ \n Â§5 GAMEMODE C \n Â§7 Kill All  \n Â§5 Send Em 2 Space \n Â§5 TNT \n Â§5 STRIKE'em \n Â§5 FIll Air \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ "}]}",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={menu=3}] ~~~ titleraw @s actionbar {"rawtext":[{"text":"Â§cLOGGED AS Â§fâ‡¨ Â§4"},{"selector":"@s"},{"text":"Â§lÂ§bâ’¸Â§dâ’¶Â§bâ“€Â§dâ’ºÂ§bâ’¹ Â§dâ’¹Â§bâ“„Â§bâ“ŒÂ§dâ“ƒ \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ \n Â§5 GAMEMODE C \n Â§5 Kill All  \n Â§7 Send Em 2 Space \n Â§5 TNT \n Â§5 STRIKE'em \n Â§5 FIll Air \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ "}]}",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={menu=4}] ~~~ titleraw @s actionbar {"rawtext":[{"text":"Â§cLOGGED AS Â§fâ‡¨ Â§4"},{"selector":"@s"},{"text":"Â§lÂ§bâ’¸Â§dâ’¶Â§bâ“€Â§dâ’ºÂ§bâ’¹ Â§dâ’¹Â§bâ“„Â§bâ“ŒÂ§dâ“ƒ \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ \n Â§5 GAMEMODE C \n Â§5 Kill All  \n Â§5 Send Em 2 Space \n Â§7 TNT \n Â§5 STRIKE'em \n Â§5 FIll Air \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ "}]}",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={menu=5}] ~~~ titleraw @s actionbar {"rawtext":[{"text":"Â§cLOGGED AS Â§fâ‡¨ Â§4"},{"selector":"@s"},{"text":"Â§lÂ§bâ’¸Â§dâ’¶Â§bâ“€Â§dâ’ºÂ§bâ’¹ Â§dâ’¹Â§bâ“„Â§bâ“ŒÂ§dâ“ƒ \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ \n Â§5 GAMEMODE C \n Â§5 Kill All  \n Â§5 Send Em 2 Space \n Â§5 TNT \n Â§7 STRIKE'em \n Â§5 FIll Air \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ "}]}",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @a[scores={menu=6}] ~~~ titleraw @s actionbar {"rawtext":[{"text":"Â§cLOGGED AS Â§fâ‡¨ Â§4"},{"selector":"@s"},{"text":"Â§lÂ§bâ’¸Â§dâ’¶Â§bâ“€Â§dâ’ºÂ§bâ’¹ Â§dâ’¹Â§bâ“„Â§bâ“ŒÂ§dâ“ƒ \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ \n Â§5 GAMEMODE C \n Â§5 Kill All  \n Â§5 Send Em 2 Space \n Â§5 TNT \n Â§5 STRIKE'em \n Â§7 FIll Air \n Â§1Â§l â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ â–ƒâ–ƒ "}]}",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"say Â§lÂ§cDROP and THROW SNOWBALL Â§lÂ§bâ’¸Â§dâ’¶Â§bâ“€Â§dâ’ºÂ§bâ’¹ Â§dâ’¹Â§bâ“„Â§bâ“ŒÂ§dâ“ƒ",Persistent:1b,Ticking:1b,TicksLeftToStay:0}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"say Â§lÂ§aJOIN discord.gg/e2K6Up8V3T ",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],id:"Beehive"},pistonPosX:0,pistonPosY:0,pistonPosZ:0}},{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:beehive",Slot:8b,WasPickedUp:0b,tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=armor_stand] ~~~ fill ~ ~5 ~ ~ ~-5 ~ air 0 outline",Persistent:1b,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:tnt"],identifier:"minecraft:command_block_minecart"}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/playsound raid.horn @a ~~~ 999 13 13",Persistent:1b,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:tnt"],identifier:"minecraft:command_block_minecart"}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=armor_stand] ~~~ fill ~1 ~1 ~1 ~-1 ~-1 ~-1 tnt 0 outline",Persistent:1b,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:tnt"],identifier:"minecraft:command_block_minecart"}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=armor_stand] ~~~ fill ~2 ~2 ~2 ~-2 ~-2 ~-2 fire 0 outline",Persistent:1b,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:tnt"],identifier:"minecraft:command_block_minecart"}},{ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§4Drop BOMB",
+      "data" : [
+         {
+            "cmd_line" : "/execute @e ~~~ summon armor_stand ~ ~50 ~ minecraft:entity_spawned î„€Â§lÂ§ckkkkÂ§9nnnnnÂ§cnnnnnÂ§buukkkkkÂ§rî„€",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/getfucked\tc\t@p",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cTNT on",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule tntexplodes true",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/fucked on",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§2Sound horn",
+      "data" : [
+         {
+            "cmd_line" : "/playsound raid.horn @a ~~10~",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/get fucked",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§2SHNUKE",
+      "data" : [
+         {
+            "cmd_line" : "/say Â§4Â§l GetSHHHNNNUUKKEEEDD",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say Â§4Â§l GetSHHHNNNUUKKEEEDD ",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "tp\t@a\t~\t~\t~",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§9Extra Nuke",
+      "data" : [
+         {
+            "cmd_line" : "/execute @a[rm=15] ~~~ fill ~10 ~10 ~10 ~-10 ~-10 ~-10 tnt",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "",
+      "data" : [
+         {
+            "cmd_line" : "",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "/null",
+      "type" : 1
+   }
+]
+",CustomName:"Â§dÂ§kÃ¦Ã¦Â§rÂ§ kaaaannnuuukkkeeee Â§kÂ§dÃ¦ÃŸ",Ticking:1b,TicksLeftToStay:1,Variant:19}}],RepairCost:0,display:{Name:"Â§cSHNAG Â§4NUKE"}}},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:10b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§4DISABLER"},ench:[{id:0s,lvl:32767s}],movingBlock:{name:"minecraft:dirt",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @r ~~~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 fire 0 replace repeating_command_block",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:Player"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @r ~~~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 fire 0 replace chain_command_block",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:Player"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @r ~~~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 fire 0 replace command_block",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:Player"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @r ~~~ time set day",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:Player"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @r ~~~ tickingarea remove_all",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:Player"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @r ~~~ gamerule commandblockoutput false",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:Player"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @r ~~~ gamerule sendcommandfeedback false",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:Player"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @r ~~~ gamerule functioncommandlimit 1",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:Player"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @r ~~~ gamerule maxcommandchainlength 1",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:Player"]}}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:16b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"TNT STORM"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:dirt",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamerule commandblockoutput false",CustomName:"b8",Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:minecart"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/say Â§lÂ§0TIKÂ§fTOKÂ§1-Â§b@Â§9getshnagedÂ§r",CustomName:"Admin",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/playsound block.end_portal.spawn @a",CustomName:"spawn",Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:minecart"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/title @a title Â§cSHNAGS WAS SUMMON",CustomName:"summon",Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:minecart"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @p ~~~ gamemode c",CustomName:"GMC",Ticking:1b,TicksLeftToStay:50,definitions:["+minecraft:minecart"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[name=Â§TNT] ^^^1 particle minecraft:lava_particle ~~-13~",CustomName:"tnt",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[type=wither] ~~~ say Â§aFollow ",CustomName:"tnt",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @p ^^^35 fill ~10 ~10 ~10 ~-10 ~-10 ~-10 fire 0 replace air",CustomName:"5",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @p ^^^40 fill ~1 ~1 ~1 ~-1 ~-1 ~-1 tnt",CustomName:"î„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @p ~~~ tp @e[type=armor_stand] ~~15~ ~15",CustomName:"Â§TNT",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @p ~~~ tp @e[type=wither] ~~15~ ~25",CustomName:"î„€Â§lÂ§kÂ§g:::Â§rÂ§lÂ§0Â§kÂ§f:::Â§rÂ§lÂ§0TIKÂ§fTOK Â§d@Â§cGETSHNAGEDÂ§kÂ§f:::Â§rÂ§lÂ§6Â§kÂ§g:::§kî„€",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:wither"]}}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:21b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§e?Â§rÂ§kÂ§9???Â§rÂ§kÂ§a???Â§r Â§lÂ§bTIKÂ§cTOKÂ§r Â§kÂ§4???Â§r Â§d@Â§7-Â§lÂ§egetshnagedÂ§r Â§kÂ§9???Â§rÂ§kÂ§a???Â§rÂ§lÂ§e?Â§r"},ench:[{id:28s,lvl:32767s}],movingBlock:{name:"minecraft:lightning_rod",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[rm=50] ~ ~50 ~ tp @s ~~~",CustomName:"Â§bLightning",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:lightning_bolt"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/playanimation @e[type=lightning_bolt] animation.ghast.scale z 999",CustomName:"Â§bLightning",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:lightning_bolt"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e ~~~ summon lightning_bolt ~ ~256 ~",CustomName:"Â§bLightning",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:lightning_bolt"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[type=lightning_bolt] ~~~ summon lightning_bolt ~ ~ ~",CustomName:"Â§bLightning",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:lightning_bolt"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[type=lightning_bolt] ~~~ summon lightning_bolt ~ ~ ~",CustomName:"Â§bLightning",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:lightning_bolt"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[type=lightning_bolt] ~~~ summon lightning_bolt ~ ~ ~",CustomName:"Â§bLightning",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:lightning_bolt"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/playsound mob.ghast.scream @e 1000",CustomName:"Â§bLightning",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:lightning_bolt"]}}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:23b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§2REALM RENOVATOR"},ench:[{id:28s,lvl:32767s}],movingBlock:{name:"minecraft:bee_nest",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @p ^^^35 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air",CustomName:"Â§s",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @p ^^^35 fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air",CustomName:"Â§s",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @p ~~~ tp @e[type=armor_stand] ~~14~",CustomName:"Â§s",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/playsound mob.horse.death @a ~~~ 1000 1000 1000",CustomName:"Â§s",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/say @r Â§lÂ§eâ˜ºÂ§rÂ§kÂ§9â™€â˜»â˜ºÂ§rÂ§kÂ§aâ™€â˜»â˜ºÂ§r Â§lÂ§bTIKÂ§cTOKÂ§r Â§kÂ§4â™€â˜»â˜ºÂ§r Â§d@Â§7-Â§lÂ§egetshnagedÂ§r Â§kÂ§9â™€â˜»â˜ºÂ§rÂ§kÂ§aâ™€â˜»â˜ºÂ§rÂ§lÂ§eâ˜ºÂ§r",CustomName:"Â§s",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @a ~~~ fill ~15 ~15 ~15 ~-15 ~-15 ~-15 air",CustomName:"Â§s",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamemode c @a",CustomName:"Â§s",Invulnerable:1b,Ticking:1b,TicksLeftToStay:0,definitions:["+minecraft:armor_stand"]}}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}}],RepairCost:0,display:{Name:"Â§lÂ§6SHNAG Â§0â˜£ Â§4â™¨CBE'sâ™¨"}}},{Block:{name:"minecraft:bubble_column",states:{drag_down:0b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bubble_column",Slot:20b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§aî„„BY Â§dSÂ§cHÂ§eNÂ§bAÂ§5GÂ§1Sî„„"},ench:[{id:10s,lvl:0s},{id:10s,lvl:1s},{id:10s,lvl:2s},{id:10s,lvl:3s},{id:10s,lvl:4s},{id:10s,lvl:5s},{id:10s,lvl:6s},{id:10s,lvl:7s},{id:10s,lvl:8s},{id:10s,lvl:9s},{id:10s,lvl:10s}]}},{Block:{name:"minecraft:bubble_column",states:{drag_down:0b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bubble_column",Slot:21b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§aî„„BY Â§dSÂ§cHÂ§eNÂ§bAÂ§5GÂ§1Sî„„"},ench:[{id:10s,lvl:0s},{id:10s,lvl:1s},{id:10s,lvl:2s},{id:10s,lvl:3s},{id:10s,lvl:4s},{id:10s,lvl:5s},{id:10s,lvl:6s},{id:10s,lvl:7s},{id:10s,lvl:8s},{id:10s,lvl:9s},{id:10s,lvl:10s}]}},{Block:{name:"minecraft:undyed_shulker_box",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:undyed_shulker_box",Slot:22b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Block:{name:"minecraft:camera",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:camera",Slot:0b,WasPickedUp:0b,tag:{display:{Name:"Â§kÂ¶Â§rÂ§lÂ§0CAUGHTÂ§9IN-4KÂ§rÂ§kÂ¶Â§r"},ench:[{id:10s,lvl:32767s},{id:14s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:ghast_tear",Slot:1b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lCRY Â§bABOUT Â§1IT"},ench:[{id:34s,lvl:-10s}]}},{Count:1b,Damage:0s,Name:"minecraft:ghast_tear",Slot:2b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lCRY Â§bABOUT Â§1IT"},ench:[{id:34s,lvl:-10s}]}},{Block:{name:"minecraft:mob_spawner",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:mob_spawner",Slot:3b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:1.8f,DisplayEntityScale:1f,DisplayEntityWidth:0.6f,EntityIdentifier:"minecraft:iron_golem",MaxNearbyEntities:1000s,MaxSpawnDelay:800s,MinSpawnDelay:200s,RequiredPlayerRange:1000s,SpawnCount:100s,SpawnRange:100s,display:{Lore:["(+DATA)"],Name:"î„ƒÂ§0IRONÂ§fGOLLEMî„ƒ"},ench:[{id:5s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:ghast_tear",Slot:4b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lCRY Â§bABOUT Â§1IT"},ench:[{id:34s,lvl:-10s}]}},{Count:1b,Damage:0s,Name:"minecraft:ghast_tear",Slot:5b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lCRY Â§bABOUT Â§1IT"},ench:[{id:34s,lvl:-10s}]}},{Count:1b,Damage:0s,Name:"minecraft:axolotl_bucket",Slot:6b,WasPickedUp:0b,tag:{Air:300s,AppendCustomName:1b,Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:2f,Current:2f,DefaultMax:2f,DefaultMin:2f,Max:2f,Min:2f,Name:"minecraft:attack_damage"},{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:16f,Current:16f,DefaultMax:16f,DefaultMin:16f,Max:16f,Min:16f,Name:"minecraft:absorption"},{Base:9998f,Current:9910f,DefaultMax:999998f,DefaultMin:1099f,Max:899999f,Min:99910f,Name:"minecraft:health"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:10.3f,Current:2f,DefaultMax:10f,DefaultMin:1f,Max:10f,Min:1f,Name:"minecraft:movement"},{Base:10.02f,Current:10f,DefaultMax:10f,DefaultMin:10f,Max:10f,Min:10f,Name:"minecraft:underwater_movement"},{Base:0.02f,Current:0f,DefaultMax:0f,DefaultMin:0f,Max:0f,Min:0f,Name:"minecraft:lava_movement"}],BodyRot:-8.1301f,BreedCooldown:0,Chested:0b,Color:0b,Color2:0b,CustomName:"î„ƒÂ§rÂ§lÂ§1BLUEÂ§kÂ§0:::Â§rÂ§lÂ§9AxolotlÂ§kÂ§0:::î„ƒ",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InLove:0,Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,LoveCause:0l,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,Motion:[0f,0.0830778f,0f],NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:0b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[132.375f,11.1661f,151.625f],Rotation:[-8.1301f,0f],Saddled:1b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-42949672919l,Variant:4,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:axolotl","+"],ench:[{id:31s,lvl:10s}],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:axolotl",limitedLife:0}},{Count:1b,Damage:0s,Name:"minecraft:ghast_tear",Slot:7b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lCRY Â§bABOUT Â§1IT"},ench:[{id:34s,lvl:-10s}]}},{Block:{name:"minecraft:camera",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:camera",Slot:8b,WasPickedUp:0b,tag:{display:{Name:"Â§kÂ¶Â§rÂ§lÂ§0CAUGHTÂ§9IN-4KÂ§rÂ§kÂ¶Â§r"},ench:[{id:10s,lvl:32767s},{id:14s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:ghast_tear",Slot:9b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lCRY Â§bABOUT Â§1IT"},ench:[{id:34s,lvl:-10s}]}},{Count:64b,Damage:0s,Name:"minecraft:firework_rocket",Slot:10b,WasPickedUp:0b,tag:{Fireworks:{Explosions:[],Flight:100b},RepairCost:0,display:{Lore:["BY GETSHNAGED"],Name:"î„‚Â§aÂ§lROCKET TO SPACEî„‚"},ench:[{id:22s,lvl:10s}]}},{Block:{name:"minecraft:lit_blast_furnace",states:{facing_direction:0},version:17959425},Count:64b,Damage:0s,Name:"minecraft:lit_blast_furnace",Slot:11b,WasPickedUp:0b,tag:{BurnDuration:-27009s,BurnTime:-27009s,CookTime:1s,CustomName:"î‚  Â§eXÂ§6P î‚¡",Items:[{Count:100b,Damage:0s,Name:"minecraft:raw_gold",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eSMELT ME"}}},{Count:1b,Damage:0s,Name:"minecraft:gold_ingot",Slot:2b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eTAKE ME"}}}],RepairCost:0,StoredXPInt:999999999,display:{Lore:["(Â§bBy Â§cSHNAGSÂ§d)"],Name:"Â§lÂ§eâ‡®Â§dXÂ§6P Â§aEZÂ§eâ‡®"}}},{Count:1b,Damage:0s,Name:"minecraft:ghast_tear",Slot:12b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lCRY Â§bABOUT Â§1IT"},ench:[{id:34s,lvl:-10s}]}},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},CanPlaceOn:["minecraft:grass"],Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:13b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§dâ˜ºÂ§lÂ§bSÂ§cHÂ§eNÂ§dAÂ§aG Â§9MODEÂ§dâ˜º"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:netherreactor",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:area_effect_cloud<>",SaveData:{Duration:1000,ParticleId:69,Persistent:1b,Radius:6f,TicksLeftToStay:20,definitions:["+minecraft:area_effect_cloud"],identifier:"minecraft:area_effect_cloud",mobEffects:[{Amplifier:-2b,Duration:99999999,Id:10b},{Amplifier:-2b,Duration:99999999,Id:11b},{Amplifier:25b,Duration:99999999,Id:5b},{Amplifier:-2b,Duration:99999999,Id:12b},{Amplifier:-2b,Duration:99999999,Id:13b},{Ambient:0b,Amplifier:4b,Duration:99999999,Id:21b},{Amplifier:-2b,Duration:99999999,Id:22b},{Amplifier:-2b,Duration:99999999,Id:29b},{Amplifier:-2b,Duration:99999999,Id:3b},{Amplifier:-2b,Duration:99999999,Id:23b},{Amplifier:5b,Duration:99999999,Id:1b},{Amplifier:10b,Duration:99999999,Id:16b},{Amplifier:2b,Duration:99999999,Id:8b}]}}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Block:{name:"minecraft:portal",states:{portal_axis:"unknown"},version:17959425},Count:64b,Damage:0s,Name:"minecraft:portal",Slot:14b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§5NEATHER"}}},{Count:16b,Damage:0s,Name:"minecraft:ender_pearl",Slot:15b,WasPickedUp:0b},{Count:16b,Damage:0s,Name:"minecraft:ender_pearl",Slot:16b,WasPickedUp:0b},{Count:16b,Damage:0s,Name:"minecraft:ender_pearl",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:client_request_placeholder_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:client_request_placeholder_block",Slot:18b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["(Â§aPLACE TO XRAYÂ§b) Â§eBy Â§dSHNAGS"],Name:"Â§lÂ§5XÂ§f-Â§dRAY Â§0BLOCK"},ench:[{id:34s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:ghast_tear",Slot:19b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lCRY Â§bABOUT Â§1IT"},ench:[{id:34s,lvl:-10s}]}},{Block:{name:"minecraft:wall_sign",states:{facing_direction:0},version:17959425},Count:64b,Damage:0s,Name:"minecraft:wall_sign",Slot:20b,WasPickedUp:0b,tag:{IgnoreLighting:0b,RepairCost:0,SignTextColor:-16777216,Text:"î„‚Â§rÂ§lÂ§bTikTokî„‚ Â§rÂ§lÂ§d@getshnaged Â§rÂ§lÂ§gWAS HERE",TextOwner:"2535408205048434",display:{Lore:["î„‚Â§gSHNAGS SIGNî„‚"],Name:"Â§lÂ§bHACKED SIGN"}}},{Count:1b,Damage:0s,Name:"minecraft:ghast_tear",Slot:21b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lCRY Â§bABOUT Â§1IT"},ench:[{id:34s,lvl:-10s}]}},{Block:{name:"minecraft:shulker_box",states:{color:"yellow"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:22b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Count:7b,Damage:0s,Name:"minecraft:gold_ingot",Slot:0b,WasPickedUp:0b},{Count:7b,Damage:0s,Name:"minecraft:gold_ingot",Slot:1b,WasPickedUp:0b},{Count:7b,Damage:0s,Name:"minecraft:gold_ingot",Slot:2b,WasPickedUp:0b},{Count:7b,Damage:0s,Name:"minecraft:gold_ingot",Slot:3b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:gold_ingot",Slot:4b,WasPickedUp:0b},{Count:7b,Damage:0s,Name:"minecraft:gold_ingot",Slot:5b,WasPickedUp:0b},{Count:7b,Damage:0s,Name:"minecraft:gold_ingot",Slot:6b,WasPickedUp:0b},{Count:7b,Damage:0s,Name:"minecraft:gold_ingot",Slot:7b,WasPickedUp:0b},{Count:7b,Damage:0s,Name:"minecraft:gold_ingot",Slot:8b,WasPickedUp:0b},{Block:{name:"minecraft:stained_glass_pane",states:{color:"yellow"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:stained_glass_pane",Slot:9b,WasPickedUp:0b},{Block:{name:"minecraft:stained_glass_pane",states:{color:"yellow"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:stained_glass_pane",Slot:10b,WasPickedUp:0b},{Block:{name:"minecraft:stained_glass_pane",states:{color:"yellow"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:stained_glass_pane",Slot:11b,WasPickedUp:0b},{Block:{name:"minecraft:beacon",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:beacon",Slot:12b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["(Â§gHealthÂ§c) Â§aBy Â§dSHNAGS"],Name:"Â§lÂ§eHACKED BEACON"},primary:11,secondary:10}},{Block:{name:"minecraft:beacon",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:beacon",Slot:13b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["(Â§gMinerÂ§d) Â§aBy Â§dSHNAGS"],Name:"Â§lÂ§eHACKED BEACON"},primary:3,secondary:3}},{Block:{name:"minecraft:beacon",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:beacon",Slot:14b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["(Â§gPVPÂ§b) Â§aBy Â§dSHNAGS"],Name:"Â§lÂ§eHACKED BEACON"},primary:5,secondary:10}},{Block:{name:"minecraft:stained_glass",states:{color:"yellow"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:15b,WasPickedUp:0b},{Block:{name:"minecraft:stained_glass",states:{color:"yellow"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:16b,WasPickedUp:0b},{Block:{name:"minecraft:stained_glass",states:{color:"yellow"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:stained_glass",Slot:17b,WasPickedUp:0b},{Block:{name:"minecraft:gold_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:gold_block",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:gold_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:gold_block",Slot:19b,WasPickedUp:0b},{Block:{name:"minecraft:gold_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:gold_block",Slot:20b,WasPickedUp:0b},{Block:{name:"minecraft:gold_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:gold_block",Slot:21b,WasPickedUp:0b},{Block:{name:"minecraft:gold_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:gold_block",Slot:22b,WasPickedUp:0b},{Block:{name:"minecraft:gold_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:gold_block",Slot:23b,WasPickedUp:0b},{Block:{name:"minecraft:gold_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:gold_block",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:gold_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:gold_block",Slot:25b,WasPickedUp:0b},{Block:{name:"minecraft:gold_block",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:gold_block",Slot:26b,WasPickedUp:0b}],display:{Lore:["(Â§gBuild Full Beacon To UseÂ§d) Â§aBy Â§dSHNAGS"],Name:"Â§lÂ§eHACKED BEACON KIT"},facing:1b}},{Block:{name:"minecraft:end_gateway",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:end_gateway",Slot:23b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§0END"}}},{Block:{name:"minecraft:end_gateway",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:end_gateway",Slot:24b,WasPickedUp:0b,tag:{ExactTeleport:0b,ExitPortal:[10000000,100,10000000],display:{Lore:["Â§lÂ§gBY Â§cSHNAGS"],Name:"Â§aTP BLOCK
+Â§0 TP FAR"}}},{Block:{name:"minecraft:end_gateway",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:end_gateway",Slot:25b,WasPickedUp:0b,tag:{ExactTeleport:0b,ExitPortal:[100000,100,100000],display:{Lore:["Â§lÂ§gBY Â§cSHNAGS"],Name:"Â§aTP BLOCK
+Â§0 TP LEAVE SPAWN"}}},{Block:{name:"minecraft:end_gateway",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:end_gateway",Slot:26b,WasPickedUp:0b,tag:{ExactTeleport:2b,ExitPortal:[0,65,0],display:{Lore:["Â§lÂ§gBY Â§cSHNAGS"],Name:"Â§aTP BLOCK
+Â§0 TP Spawn"}}}],display:{Lore:["Â§d(+Â§cSHNAGÂ§d)"],Name:"Â§bâœª Â§lÂ§dNBT Â§a^â—•â€¿â—•^"},facing:1b}},{Block:{name:"minecraft:bubble_column",states:{drag_down:0b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bubble_column",Slot:23b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§aî„„BY Â§dSÂ§cHÂ§eNÂ§bAÂ§5GÂ§1Sî„„"},ench:[{id:10s,lvl:0s},{id:10s,lvl:1s},{id:10s,lvl:2s},{id:10s,lvl:3s},{id:10s,lvl:4s},{id:10s,lvl:5s},{id:10s,lvl:6s},{id:10s,lvl:7s},{id:10s,lvl:8s},{id:10s,lvl:9s},{id:10s,lvl:10s}]}},{Block:{name:"minecraft:bubble_column",states:{drag_down:0b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:bubble_column",Slot:24b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§aî„„BY Â§dSÂ§cHÂ§eNÂ§bAÂ§5GÂ§1Sî„„"},ench:[{id:10s,lvl:0s},{id:10s,lvl:1s},{id:10s,lvl:2s},{id:10s,lvl:3s},{id:10s,lvl:4s},{id:10s,lvl:5s},{id:10s,lvl:6s},{id:10s,lvl:7s},{id:10s,lvl:8s},{id:10s,lvl:9s},{id:10s,lvl:10s}]}},{Block:{name:"minecraft:shulker_box",states:{color:"light_blue"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:25b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Count:64b,Damage:0s,Name:"minecraft:end_crystal",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§5Â§lâ˜ƒÂ§fÂ§l32k Â§5Crystalâ˜ƒ"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Block:{name:"minecraft:obsidian",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:obsidian",Slot:1b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lSHNAGS OBBY"},ench:[{id:0s,lvl:32767s},{id:9s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_sword",Slot:2b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE SWORD î‰Â§k
+Â§r            Â§8Â§k-Â§rÂ§cCOPE HARDERÂ§8Â§k
+Â§r          Â§lÂ§0How TO ATTACK?"},ench:[{id:9s,lvl:32767s},{id:17s,lvl:0s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:9s,lvl:32767s},{id:14s,lvl:10s},{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:9s,lvl:32767s},{id:26s,lvl:32767s},{id:9s,lvl:32767s},{id:12s,lvl:32767s},{id:9s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_axe",Slot:3b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:2031,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE PICKAXE î‰Â§k
+Â§r               Â§8Â§k-Â§rÂ§8Frick TreesÂ§k
+Â§r               Â§lÂ§0How TO CHOP?"},ench:[{id:17s,lvl:0s},{id:18s,lvl:10s},{id:26s,lvl:32767s},{id:15s,lvl:32767s},{id:9s,lvl:32767s},{id:17s,lvl:0s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:9s,lvl:32767s},{id:14s,lvl:10s},{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:9s,lvl:32767s},{id:26s,lvl:32767s},{id:9s,lvl:32767s},{id:12s,lvl:32767s},{id:9s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_pickaxe",Slot:4b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:2031,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE PICKAXE î‰Â§k
+Â§r               Â§8Â§k-Â§rÂ§8Just BetterÂ§k
+Â§r               Â§lÂ§0How TO MINE?"},ench:[{id:17s,lvl:0s},{id:18s,lvl:10s},{id:26s,lvl:32767s},{id:15s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:flint_and_steel",Slot:5b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["(Â§3By Â§cSHNAGSÂ§d)"],Name:"Â§kÂ§6â”¼Â§rÂ§lÂ§1POP Â§3A Â§9LIGHTÂ§rÂ§kÂ§6â”¼Â§r"},ench:[{id:13s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:bow",Slot:6b,WasPickedUp:0b,tag:{Damage:0,RepairCost:3,Unbreakable:1b,display:{Name:"Â§lÂ§2SHHHNNIPPER"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:28s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:7b,WasPickedUp:0b,tag:{Damage:0,Unbreakable:1b,display:{Lore:["Â§b By GETSHNAGED"],Name:"Â§4î„‚SHNAGS ARROWSî„‚"},ench:[{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:11s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:100s}]}},{Count:1b,Damage:0s,Name:"minecraft:glow_stick",Slot:8b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§b By GETSHNAGED"],Name:"Â§rÂ§4â™›Â§lÂ§5SHNAGS SABBERÂ§rÂ§4â™›Â§r"},ench:[{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:10s},{id:17s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:256s},{id:22s,lvl:10s},{id:26s,lvl:10s},{id:34s,lvl:32767s}]}},{Block:{name:"minecraft:obsidian",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:obsidian",Slot:9b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§9Â§lSHNAGS OBBY"},ench:[{id:0s,lvl:32767s},{id:9s,lvl:32767s}]}},{Count:64b,Damage:0s,Name:"minecraft:end_crystal",Slot:10b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§5Â§lâ˜ƒÂ§fÂ§l32k Â§5Crystalâ˜ƒ"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_helmet",Slot:11b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE HELMET î‰Â§k
+Â§r    Â§8Â§k-Â§rÂ§8SPED HEAD PROTECTIONÂ§k
+Â§r         Â§lÂ§0How TO THINK?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_chestplate",Slot:12b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE CHESTPLATE î‰Â§k
+Â§r     Â§8Â§k-Â§rÂ§8Protection For Your Black HeartÂ§k
+Â§r             Â§lÂ§0How TO Human?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:elytra",Slot:13b,WasPickedUp:0b,tag:{Damage:430,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE ELYTRA î‰Â§k
+Â§r       Â§8Â§k-Â§rÂ§8Fairy Wings For GiehsÂ§k
+Â§r             Â§lÂ§0How TO FLY?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_leggings",Slot:14b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE LEGGINGS î‰Â§k
+Â§r          Â§8Â§k-Â§rÂ§8DOWN UP DOWN BADÂ§k
+Â§r             Â§lÂ§0How TO JUMP?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_boots",Slot:15b,WasPickedUp:0b,tag:{Damage:2030,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:" Â§7Â§k-Â§rÂ§7î‰ Â§lÂ§7UNBREAKABLE BOOTS î‰Â§k
+Â§r              Â§8Â§k-Â§rÂ§8Just BetterÂ§k
+Â§r             Â§lÂ§0How TO WALK?"},ench:[{id:7s,lvl:32767s},{id:0s,lvl:32767s},{id:1s,lvl:32767s},{id:2s,lvl:32767s},{id:3s,lvl:32767s},{id:4s,lvl:32767s},{id:5s,lvl:32767s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:25s,lvl:10s},{id:36s,lvl:10s},{id:6s,lvl:32767s},{id:8s,lvl:32767s},{id:17s,lvl:32767s},{id:26s,lvl:10s}]}},{Block:{name:"minecraft:barrel",states:{facing_direction:0,open_bit:1b},version:17959425},Count:1b,Damage:0s,Name:"minecraft:barrel",Slot:16b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:0b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:1b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:2b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:3b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:4b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:5b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:6b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:7b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:8b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:9b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:10b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:11b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:12b,WasPickedUp:0b},{Block:{name:"minecraft:movingBlock",states:{},version:17959425},CanPlaceOn:["minecraft:grass"],Count:-128b,Damage:0s,Name:"minecraft:movingblock",Slot:13b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§4SUICIDE BOMB"},ench:[{id:9s,lvl:-10s}],movingBlock:{name:"minecraft:wither_rose",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:area_effect_cloud<>",SaveData:{Duration:999999,ParticleId:55,Persistent:1b,Radius:6969f,TicksLeftToStay:100,definitions:["+minecraft:area_effect_cloud"],identifier:"minecraft:area_effect_cloud",mobEffects:[{Amplifier:-2b,Duration:99999999,Id:7b},{Amplifier:-2b,Duration:99999999,Id:9b}]}}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:14b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:15b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:16b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:17b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:18b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:19b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:20b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:21b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:22b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:23b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:24b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:25b,WasPickedUp:0b},{Count:-128b,Damage:24s,Name:"minecraft:splash_potion",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Lore:["(+Â§lÂ§0BY Â§lÂ§9SHNAGS)"],Name:"Â§lÂ§4KILLA Â§câ˜£DRUGSâ˜£"},ench:[{id:28s,lvl:32767s}]}},{Block:{name:"minecraft:tnt",states:{allow_underwater_bit:1b,explode_bit:1b},version:17959425},Count:64b,Damage:0s,Name:"minecraft:tnt",Slot:17b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§0Â§lâ˜ DEADLY Â§cTNTÂ§0â˜ "},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:64b,Damage:0s,Name:"minecraft:chorus_fruit",Slot:18b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§oÂ§0BEÂ§5-Â§0GONE Â§5Fruit"},ench:[{id:27s,lvl:1s}]}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:19b,WasPickedUp:0b,tag:{Damage:0,Unbreakable:1b,display:{Lore:["Â§b By GETSHNAGED"],Name:"Â§4î„‚SHNAGS ARROWSî„‚"},ench:[{id:9s,lvl:32767s},{id:10s,lvl:32767s},{id:11s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:100s}]}},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:20b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:21b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:1b,Damage:0s,Name:"minecraft:firework_rocket",Slot:22b,WasPickedUp:0b,tag:{Fireworks:{Explosions:[],Flight:-24b},RepairCost:0,display:{Lore:["BY GETSHNAGED"],Name:"î„‚Â§aÂ§lROCKET TO SPACEî„‚"},ench:[{id:22s,lvl:10s}]}},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:23b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:24b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"},ench:[{id:0s,lvl:32767s},{id:2s,lvl:32767s},{id:5s,lvl:32767s},{id:6s,lvl:32767s},{id:7s,lvl:32767s},{id:8s,lvl:32767s},{id:36s,lvl:32767s},{id:9s,lvl:32767s},{id:13s,lvl:32767s},{id:14s,lvl:32767s},{id:16s,lvl:32767s},{id:17s,lvl:32767s},{id:21s,lvl:32767s},{id:23s,lvl:32767s},{id:29s,lvl:32767s},{id:12s,lvl:32767s},{id:15s,lvl:32767s},{id:19s,lvl:32767s},{id:20s,lvl:32767s},{id:22s,lvl:32767s},{id:24s,lvl:32767s},{id:27s,lvl:32767s},{id:28s,lvl:32767s},{id:30s,lvl:32767s},{id:33s,lvl:32767s},{id:35s,lvl:32767s}]}},{Block:{name:"minecraft:lit_blast_furnace",states:{facing_direction:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:lit_blast_furnace",Slot:25b,WasPickedUp:0b,tag:{BurnDuration:-27009s,BurnTime:-27009s,CookTime:1s,CustomName:"î‚  Â§eXÂ§6P î‚¡",Items:[{Count:100b,Damage:0s,Name:"minecraft:raw_gold",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eSMELT ME"}}},{Count:1b,Damage:0s,Name:"minecraft:gold_ingot",Slot:2b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§eTAKE ME"}}}],RepairCost:0,StoredXPInt:999999999,display:{Lore:["(Â§bBy Â§cSHNAGSÂ§d)"],Name:"Â§lÂ§eâ‡®Â§dXÂ§6P Â§aEZÂ§eâ‡®"}}},{Count:64b,Damage:0s,Name:"minecraft:enchanted_golden_apple",Slot:26b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§eÂ§lâœŒEZ AppleâœŒ"}}}],RepairCost:0,display:{Lore:["(+Â§0Unbreakable Â§4Â§lBY Â§6SHNAGS)"],Name:"â˜¹Â§lÂ§8SHNAGS Â§eâ˜ OPâ˜  Â§8KITÂ§râ˜¹"},ench:[{id:27s,lvl:32767s}],facing:1b}},{Block:{name:"minecraft:shulker_box",states:{color:"light_blue"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",Slot:26b,WasPickedUp:0b,tag:{Findable:0b,Items:[{Count:1b,Damage:0s,Name:"minecraft:diamond_pickaxe",Slot:0b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§b By GETSHNAGED"],Name:"î„…Â§bÂ§lÂ§oInstaÂ§rÂ§lÂ§9-MINER-Â§bÂ§lÂ§oInstaÂ§rî„…"},ench:[{id:18s,lvl:3s},{id:17s,lvl:3s},{id:15s,lvl:5s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_sword",Slot:1b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§b By GETSHNAGED"],Name:"î„…Â§bÂ§lÂ§oEZÂ§rÂ§lÂ§1-KILLA-Â§bÂ§lÂ§oEZÂ§rî„…"},ench:[{id:13s,lvl:2s},{id:9s,lvl:5s},{id:17s,lvl:3s},{id:12s,lvl:2s},{id:26s,lvl:1s}]}},{Count:1b,Damage:0s,Name:"minecraft:diamond_helmet",Slot:2b,WasPickedUp:0b,tag:{Damage:0,RepairCost:100,Unbreakable:1b,display:{Lore:["Â§1Â§l BY GETSHNAGED"],Name:"Â§bî„… Diamond Helmetî„…"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:6s,lvl:3s},{id:8s,lvl:1s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:64b,Damage:0s,Name:"minecraft:enchanted_golden_apple",Slot:3b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:diamond_boots",Slot:4b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,Unbreakable:1b,display:{Lore:["Â§1Â§l BY GETSHNAGED"],Name:"î„…Â§b Diamond Bootsî„…"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:2s,lvl:4s},{id:7s,lvl:3s},{id:36s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Block:{name:"minecraft:cave_vines_body_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_body_with_berries",Slot:5b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:flint_and_steel",Slot:6b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["(Â§bBy Â§cSHNAGSÂ§d)"],Name:"Â§kÂ§6â”¼Â§rÂ§lÂ§1POP Â§bA Â§9LIGHTÂ§rÂ§kÂ§6â”¼Â§r"},ench:[{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Block:{name:"minecraft:cave_vines_body_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_body_with_berries",Slot:7b,WasPickedUp:0b},{Block:{name:"minecraft:cave_vines_head_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_head_with_berries",Slot:8b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:end_crystal",Slot:9b,WasPickedUp:0b},{Count:64b,Damage:0s,Name:"minecraft:end_crystal",Slot:10b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:diamond_chestplate",Slot:11b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,Unbreakable:1b,display:{Lore:["Â§1Â§l BY GETSHNAGED"],Name:"î„…Â§b Diamond Chestplateî„…"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:64b,Damage:0s,Name:"minecraft:golden_carrot",Slot:12b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:diamond_leggings",Slot:13b,WasPickedUp:0b,tag:{Damage:0,RepairCost:15,Unbreakable:1b,display:{Lore:["Â§1Â§l BY GETSHNAGED"],Name:"î„… Â§bDiamond Leggingsî„…"},ench:[{id:0s,lvl:4s},{id:5s,lvl:3s},{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Block:{name:"minecraft:cave_vines_head_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_head_with_berries",Slot:14b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:bow",Slot:15b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Name:"Â§lÂ§2SHHHNNIPPER"},ench:[{id:17s,lvl:3s},{id:21s,lvl:1s},{id:26s,lvl:1s},{id:20s,lvl:2s},{id:19s,lvl:5s}]}},{Block:{name:"minecraft:cave_vines_body_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_body_with_berries",Slot:16b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:clock",Slot:17b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"Â§lÂ§gPARTY Â§aTIME"}}},{Block:{name:"minecraft:obsidian",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:obsidian",Slot:18b,WasPickedUp:0b},{Block:{name:"minecraft:obsidian",states:{},version:17959425},Count:64b,Damage:0s,Name:"minecraft:obsidian",Slot:19b,WasPickedUp:0b},{Count:1b,Damage:0s,Name:"minecraft:elytra",Slot:20b,WasPickedUp:0b,tag:{Damage:0,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§b By GETSHNAGED"],Name:"î„…Â§bÂ§lNot Used For Eyltra FlyÂ§rî„…"},ench:[{id:17s,lvl:3s},{id:26s,lvl:1s}]}},{Count:64b,Damage:0s,Name:"minecraft:firework_rocket",Slot:21b,WasPickedUp:0b,tag:{Fireworks:{Explosions:[],Flight:3b}}},{Count:64b,Damage:0s,Name:"minecraft:experience_bottle",Slot:22b,WasPickedUp:0b},{Count:1b,Damage:25s,Name:"minecraft:totem_of_undying",Slot:23b,WasPickedUp:0b,tag:{Damage:25,RepairCost:0,Unbreakable:1b,display:{Lore:["Â§a BY GETSHNAGED"],Name:"î„‚ Â§lÂ§eEZî„‚"}}},{Count:64b,Damage:25s,Name:"minecraft:arrow",Slot:24b,WasPickedUp:0b},{Block:{name:"minecraft:cave_vines_head_with_berries",states:{growing_plant_age:0},version:17959425},Count:1b,Damage:0s,Name:"minecraft:cave_vines_head_with_berries",Slot:25b,WasPickedUp:0b},{Count:1b,Damage:33s,Name:"minecraft:lingering_potion",Slot:26b,WasPickedUp:0b}],RepairCost:0,display:{Lore:["Â§lÂ§aBÂ§dY Â§cSHNAGS"],Name:"î„… Â§lÂ§9LEGIT Â§bKITî„…Â§c
+Â§1Diamond!Â§r"},facing:1b}}],RepairCost:0,display:{Lore:["Â§b Â§6By Â§4GETÂ§2SHNAGED"],Name:"Â§lÂ§câ¦Â§2SHNAG Â§ePRO Â§bKITÂ§câ¦
+
+Â§4UNSTOPABLE "},ench:[{id:31s,lvl:10s}]}}

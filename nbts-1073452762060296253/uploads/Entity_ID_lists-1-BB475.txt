@@ -1,0 +1,129 @@
+use the dec code for entitytype.
+
+Dec	Hex	Entity			Drops
+64	40	item			Dropped item
+69	45	xp_orb			Experience Orb
+Blocks
+65	41	tnt			Primed TNT
+66	42	falling_block		Falling block
+67	43	moving_block		Moving Block
+
+Immobile and projectiles
+
+61	3D	armor_stand		Armor stand
+68	44	xp_bottle		Thrown Bottle o' Enchanting
+70	46	eye_of_ender_signal	Eye of Ender
+71	47	ender_crystal		Ender Crystal
+72	48	fireworks_rocket	Firework rocket
+73	49	thrown_trident		Trident
+76	4C	shulker_bullet		Shulker bullet
+77	4D	fishing_hook		Fishing Rod hook
+79	4F	dragon_fireball		Dragon fireball
+80	50	arrow			Shot arrow
+81	51	snowball		Thrown snowball
+82	52	egg			Thrown egg
+83	53	painting		Painting
+84	54	minecart		Minecart
+85	55	fireball		Ghast fireball
+86	56	splash_potion		Thrown splash potion
+87	57	ender_pearl		Thrown Ender Pearl
+88	58	leash_knot		Leash knot
+89	59	wither_skull		Wither skull
+90	5A	boat	Boat
+91	5B	wither_skull_dangerous	Blue wither skull
+93	5D	lightning_bolt		Lightning Bolt
+94	5E	small_fireball		Blaze fireball
+95	5F	area_effect_cloud	Area Effect Cloud
+96	60	hopper_minecart		Minecart with Hopper
+97	61	tnt_minecart		Minecart with TNT
+98	62	chest_minecart		Minecart with Chest
+100	64	command_block_minecart	Minecart with Command Block
+101	65	lingering_potion	Thrown lingering potion
+102	66	llama_spit		Llama spit
+103	67	evocation_fang		Evocation fangs
+106	6A	ice_bomb		Ice Bomb
+107	6B	balloon			Balloon
+
+Hostile mobs
+
+32	20	zombie			Zombie
+33	21	creeper			Creeper
+34	22	skeleton		Skeleton
+35	23	spider			Spider
+36	24	zombie_pigman		Zombie Pigman
+37	25	slime			Slime	
+38	26	enderman		Enderman
+39	27	silverfish		Silverfish
+40	28	cave_spider		Cave Spider
+41	29	ghast			Ghast
+42	2A	magma_cube		Magma Cube
+43	2B	blaze			Blaze
+44	2C	zombie_villager		Zombie Villager
+45	2D	witch			Witch
+46	2E	stray			Stray
+47	2F	husk			Husk
+48	30	wither_skeleton		Wither Skeleton
+49	31	guardian		Guardian
+50	32	elder_guardian		Elder Guardian
+52	34	wither			Wither
+53	35	ender_dragon		Ender Dragon
+54	36	shulker			Shulker
+55	37	endermite		Endermite
+57	39	vindicator		Vindicator
+58	3A	phantom			Phantom
+59	3B	ravager			Ravager
+104	68	evocation_illager	Evoker
+105	69	vex			Vex
+110	6E	drowned			Drowned
+114	72	pillager		Pillager
+116	74	zombie_villager_v2	Zombie Villager
+
+Passive and neutral mobs
+
+10	A	chicken			Chicken
+11	B	cow			Cow
+12	C	pig			Pig
+13	D	sheep			Sheep
+14	E	wolf			Wolf
+15	F	villager		Villager
+16	10	mooshroom		Mooshroom
+17	11	squid			Squid
+18	12	rabbit			Rabbit
+19	13	bat			Bat
+20	14	iron_golem		Iron Golem
+21	15	snow_golem		Snow Golem
+22	16	ocelot			Ocelot
+23	17	horse			Horse
+24	18	donkey			Donkey
+25	19	mule			Mule
+26	1A	skeleton_horse		Skeleton Horse
+27	1B	zombie_horse		Zombie Horse
+28	1C	polar_bear		Polar Bear
+29	1D	llama			Llama
+30	1E	parrot			Parrot
+31	1F	dolphin			Dolphin
+74	4A	turtle			Turtle
+75	4B	cat			Cat
+108	6C	pufferfish		Pufferfish
+109	6D	salmon			Salmon
+111	6F	tropicalfish		Tropical Fish
+112	70	cod			Cod
+113	71	panda			Panda
+115	73	villager_v2		Villager
+118	76	wandering_trader	Wandering Trader
+121	79	fox			Fox
+122	7A	bee			Bee
+Other
+63	3F	player			Player
+117	75	shield			Shield
+
+Unused
+
+120	78	elder_guardian_ghost	Elder Guardian Ghost
+
+Education Edition
+
+51	33	npc			NPC
+56	38	agent			Agent
+62	3E	tripod_camera		Camera
+78	4E	chalkboard		Chalkboard

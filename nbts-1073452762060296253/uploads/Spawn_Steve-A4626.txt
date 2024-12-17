@@ -1,0 +1,1 @@
+{tag:{RepairCost:0,display:{Name:"§lHEROBRINE"},ench:[{id:17s,lvl:3s}]},Count:64b,Damage:257s,ItemIdentifier:"minecraft:player",Name:"minecraft:spawn_egg"}

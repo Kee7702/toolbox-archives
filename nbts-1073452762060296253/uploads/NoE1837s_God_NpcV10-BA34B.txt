@@ -1,0 +1,655 @@
+{Count:1b,Damage:5s,Name:"minecraft:movingblock",Slot:12b,WasPickedUp:0b,tag:{display:{Lore:["
+
+
+"],Name:"Â§4Â§lNoE1837s_God_NpcV10"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:dirt"},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§lÂ§3Creative/Tags",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\tc\t@p",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tadmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmoderator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tModerator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\towner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwneer", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdminstrator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrailMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tHelper", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreative", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffstatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffStatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMember", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrusted", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tBoss", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTeamLeader", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreativeEnabled", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreativePerm", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§3Survival/tags",
+      "data" : [
+         {
+            "cmd_line" : "/gamemode\ts\t@p",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tadmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmoderator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tModerator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\towner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwneer", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdminstrator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tLeader", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrailMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tHelper", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreative", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffstatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffStatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrusted", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMember", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTeamLeader", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreativeEnabled", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreativePerm", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§3GodEffects",
+      "data" : [
+         {
+            "cmd_line" : "/effect\t@p\tresistance\t100000\t255\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tregeneration\t100000\t255\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tstrength\t100000\t25", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tjump_boost\t1000000\t4\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tspeed\t100000\t3\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\thealth_boost\t100000\t10\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\thaste\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tfire_resistance\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tAbsorption\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tnight_vision\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect\t@p\tsaturation\t100000\t15\ttrue", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§4NÂ§6UÂ§3KÂ§2E",
+      "data" : [
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~10\t~~14\t~~20\twooden_button", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/effect\t@a\tslowness\t100\t100", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/effect\t@a\tblindness\t100\t100", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/effect\t@a\tpoison\t1000\t20", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~10\t~~10\t~~10\tbedrock\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setworldspawn", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/qVnw2RWEwv", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/qVnw2RWEwv", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/qVnw2RWEwv", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/qVnw2RWEwv", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/qVnw2RWEwv", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/qVnw2RWEwv", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~4\t~~4\t~~4\tglass\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.irongolem.walk\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.irongolem.walk\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.irongolem.walk\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.irongolem.walk\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~40\t~~4\t~~4\twater\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.zombie.hurt\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playsound\tmob.zombie.hurt\t@a\t~\t~\t~\t1000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@a\t~~~\t/summon\ttnt", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~4\t~~10\t~~10\tlava\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~40\t~20\t~~5\tplanks\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/say\thttps://discord.gg/qVnw2RWEwv", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~32\t~~11\t~~4\tobsidian\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~3\t~~40\t~~12\twood\t2\thollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tModerator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\towner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwneer", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdminstrator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tLeader", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrailMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tHelper", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreative", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffstatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffStatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrusted", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMember", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTeamLeader", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreativeEnabled", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute\t@e\t~~~\t/fill\t~~33\t~~10\t~~6\tair\t2\thollow", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§4Kill@eExptU",
+      "data" : [
+         {
+            "cmd_line" : "/kill\t@e\t[rm=8]", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/kill\t@e\t[tag=!Owner]", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tModerator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\towner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwneer", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdminstrator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tLeader", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrailMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tHelper", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreative", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffstatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffStatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrusted", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMember", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTeamLeader", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreativeEnabled", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§4Clear@eEcsptU",
+      "data" : [
+         {
+            "cmd_line" : "/clear\t@a\t[rm=8]", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tNoE1837", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tadmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdmin", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tModerator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tmod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\towner", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tOwneer", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tAdminstrator", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tLeader", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrailMod", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tHelper", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreative", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffstatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tStaffStatus", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTrusted", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tMember", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tTeamLeader", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/tag\t@p\tadd\tCreativeEnabled", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   }
+]",Persistent:1b,CustomName:"NoE1837s_God_NpcV10",CustomNameVisible:1b,InterativeText:"Â§lÂ§1New futures =        
+-Â§4Â§lMore Tags/Nuke Upgraded
+- Â§4Â§lCan bypass Anti beehive/beenest/Other",Variant:10},TicksLeftToStay:0}],id:"Beehive"},pistonPosX:0,pistonPosY:0,pistonPosZ:0},RepairCost:0,display:{Name:"God NpcV10 By NoE1837"}}

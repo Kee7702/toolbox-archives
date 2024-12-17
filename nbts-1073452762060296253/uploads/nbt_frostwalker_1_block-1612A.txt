@@ -1,0 +1,1 @@
+{Count:1b,tag:{ench:[{id:25s,lvl:-2s}],Damage:0,display:{Name:"frost\nwalker\nlol"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:diamond_boots"}

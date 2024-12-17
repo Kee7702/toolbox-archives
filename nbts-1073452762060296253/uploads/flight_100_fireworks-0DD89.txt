@@ -1,0 +1,1 @@
+{Count:64b,tag:{Fireworks:{Explosions:[],Flight:100b}},Damage:0s,WasPickedUp:0b,Name:"minecraft:firework_rocket"}

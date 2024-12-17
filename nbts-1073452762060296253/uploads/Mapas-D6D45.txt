@@ -1,0 +1,1 @@
+{Count:64b,tag:{map_scale:4},Damage:2s,Name:"minecraft:emptymap"}

@@ -1,0 +1,113 @@
+Toolbox NBT! 
+
+- Layout By Ner0#0007
+
+______________
+
+shulker color id's
+
+0 - white
+1 - orange
+2 - magenta
+3 - light blue
+4 - yellow
+5 - lime
+6 - pink
+7 - gray
+8 - light gray
+9 - cyan
+10 - purple
+11 - blue
+12 - brown
+13 - green
+14 - red
+15 - black
+
+_____________
+
+arrow dmg values 
+
+0 - arrow
+1 - tipped arrow
+2 - tipped arrow mundane
+3 - tipped arrow mundane extended
+4 - tipped arrow thick
+5 - tipped arrow awkward
+6 - night vision
+7 - night vision extended
+8 - invisibility 
+9 - invisibility extended 
+10 - leaping 
+11 - leaping extended 
+12 - leaping level 2
+13 - fire resistance 
+14 - fire resistance extended
+15 - swiftness 
+16 - swiftness extended 
+17 - swiftness level 2
+18 - slowness 
+19 - slowness extended 
+20 - water breathing 
+21 - water breathing extended 
+22 - healing 
+23 - healing level 2
+24 - harming
+25 - harming level 2
+26 - poison
+27 - poison extended 
+28 - poison level 2
+29 - regeneration 
+30 - regeneration extended 
+31 - regeneration level 2
+32 - strength 
+33 - strength extended 
+34 - strength level 2
+35 - weakness
+36 - weakness extended
+37 - decay
+38 - turtle master
+39 - turtle master extended 
+40 - turtle master level 2
+41 - slow falling
+42 - slow falling extended 
+43 - slowness level 2
+
+__________________
+
+Color & Text Codes
+
+§4 - dark_red
+§c - red
+§6 - gold
+§e - yellow
+§2 - dark_green
+§a - green
+§b - aqua
+§3 - dark_aqua
+§1 - dark_blue
+§9 - blue
+§d - light_ purple
+§5 - dark_purple
+§f - white
+§7 - gray
+§8 - dark_gray
+§0 - black
+
+§k - obfuscated 
+§l - bold
+§m - strikethrough
+§n - underline
+§o - italic
+§r - reset
+
+(reset default color is black)
+
+___________________
+
+nbt tags explanation 
+
+NBT tags short for Named Binary Tag (formerly called data tags) allow you to set certain properties of an entity (or mob) in the game. NBT tags are used in game commands such as: /summon, /give, /fill, /setblock.
+The NBT tag is always surrounded in {} such as {NoAI:1}. If there is more than one NBT tag used in a command, the NBT tags are separated by a comma such as {NoAI:1, IsBaby:1}.
+Each entity (or mob) has its own unique set of NBT tags. Select an entity to see the NBT tags that you can change.
+
+more id's for mobs, enchants, and effects, etc. at: https://minecraft.gamepedia.com/Bedrock_Edition_data_value

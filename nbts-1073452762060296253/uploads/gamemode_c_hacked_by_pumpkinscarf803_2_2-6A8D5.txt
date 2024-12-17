@@ -1,0 +1,1 @@
+{Items:[{Count:1b,Damage:4s,Name:"minecraft:bucket",Slot:0b,WasPickedUp:0b,tag:{Command:"execute @p ~ ~ ~ gamemode s ",CurrentTickCount:0,EntityType:100,ExecuteOnFirstTick:1b,OnGround:1b,SuccessCount:10000,TickDelay:20,Ticking:1b,display:{Name:"gamemode c by pumpkinscarf803 have fun"}}]}]}

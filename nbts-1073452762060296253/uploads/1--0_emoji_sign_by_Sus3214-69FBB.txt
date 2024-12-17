@@ -1,0 +1,1 @@
+{Count:16b,tag:{ench:[{id:0s,lvl:1s}],Text:" 1  2 3 4 5 ",display:{Lore:["§∆§5By Sus3214, For NBT Creators :D"],Name:"§∆§c Emoji  Sign  By  Sus3214 "}},Damage:0s,WasPickedUp:0b,Name:"minecraft:oak_sign"}

@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:movingBlock",version:17825808,states:{}},Count:64b,tag:{movingBlock:{name:"minecraft:honey_block"},movingBlockExtra:{name:"minecraft:iron_block"},display:{Name:"§5medium)  "}},Damage:0s,WasPickedUp:0b,Name:"minecraft:movingblock"}

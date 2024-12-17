@@ -1,0 +1,1 @@
+{Slot:2b,Count:1b,tag:{EntityType:71,BlockTargetZ:0,Invulnerable:1b,BlockTargetY:128,BlockTargetX:0,display:{Lore:["§lHacked By FallGem"],Name:"End Crystal With Beam To 0,0"}},Damage:5s,Name:"minecraft:bucket"}

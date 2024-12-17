@@ -1,0 +1,1 @@
+{Count:64b,Damage:0s,Name:"bee_nest",tag:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"execute @e[type=cow,r=10000] ~ ~ ~ fill ~ ~-1 ~ ~ ~-1 ~ diamond_block 0 replace grass",Persistent:1b,Ticking:1b,TicksLeftToStay:0}}],display:{Lore:["Made by Mortada"],Name:"Â§0âšœcow that replace grass with diamond blockâšœ"},ench:[{id:28s,lvl:1s}]}}

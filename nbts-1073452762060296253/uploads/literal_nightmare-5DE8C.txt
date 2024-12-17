@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:chest",version:17879555,states:{facing_direction:0}},Count:1b,tag:{Items:[{Slot:0b,Count:1b,tag:{"minecraft:item_lock":2b,"minecraft:keep_on_death":1b,display:{Lore:["§rSeems Like A You Problem"],Name:"§4§lCursed Star"}},Damage:0s,WasPickedUp:0b,Name:"minecraft:nether_star"}]},Damage:0s,WasPickedUp:0b,Name:"minecraft:chest"}

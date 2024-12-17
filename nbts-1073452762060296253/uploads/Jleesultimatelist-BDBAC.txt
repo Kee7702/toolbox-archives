@@ -1,0 +1,24 @@
+
+
+
+
+.cbe execute @a ~ ~ ~ summon tnt ~ ~1 ~
+
+.cbe execute @e[type=tnt] ~ ~ ~ summon tnt ~ ~ ~
+
+.cbe /execute@e[type=thrown_trident] ~ ~ ~ summon wither ~ ~ ~
+
+.give trident 1
+
+.cbe /execute@e[type=thrown_trident] ~~~ fill ~~~ ~20 ~-15 ~20 air
+
+.cbe /gamerule commandBlockOutput false
+
+.cbe /execute @a ~~~ fill ~~~ ~20 ~-15 ~20 air
+
+.cbe /say §9Tik§4Tok §o§d@getshanged
+
+.cbe /title @a title §9Tik§4Tok §o§d@getshanged
+
+.cbe /kick @a §6HACKED by §9Tik§4Tok §o§d@getshanged
+ 

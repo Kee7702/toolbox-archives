@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:beehive",states:{direction:0,honey_level:0},version:17879555},WasPickedUp:0b,tag:{display:{Lore:[Command],Name:"§1"},Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{TickDelay:0,Ticking:1b,Command:"/cmd"}}]},Count:64b,Damage:0s,Name:"minecraft:beehive"}

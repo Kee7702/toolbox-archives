@@ -1,0 +1,2055 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"orange"},version:17959425},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:iron_bars",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:iron_bars",Slot:0b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Count:1b,Damage:0s,Name:"minecraft:chain",Slot:1b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Block:{name:"minecraft:moving_block",states:{},version:17959425},CanPlaceOn:["minecraft:grass","minecraft:dirt"],Count:1b,Damage:0s,Name:"minecraft:moving_block",Slot:2b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["","Â§rÂ§dMade by Â§gHazyHayden","Â§rÂ§bDiscord: Â§aHazy#6098"],Name:"Â§rÂ§cRed BarnÂ§0"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§9Build",
+      "data" : [
+         {
+            "cmd_line" : "fill ~0~0~0 ~12~0~0 grass",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~0~1~0 ~12~2~0 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~0~3~0 lantern [\"hanging\":true]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~0~4~0 ~0~4~20 planks [\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~0~5~0 ~0~5~20 oak_stairs [\"upside_down_bit\":false,\"weirdo_direction\":0]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~0~6~0 ~0~9~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~3~0 ~11~4~0 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~5~0 ~1~6~20 planks [\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~7~0 ~1~7~20 oak_stairs [\"upside_down_bit\":false,\"weirdo_direction\":0]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~8~0 ~1~9~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~5~0 ~10~6~0 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~7~0 ~2~7~20 planks [\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~8~0 ~2~8~20 oak_stairs [\"upside_down_bit\":false,\"weirdo_direction\":0]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~9~0 ~3~9~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~7~0 ~9~7~0 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~8~0 ~3~8~20 planks [\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~4~8~0 wooden_slab [\"top_slot_bit\":true,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~9~0 ~4~9~20 wooden_slab [\"top_slot_bit\":false,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~8~0 ~7~8~0 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~9~0 ~7~9~20 planks [\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~8~8~0 wooden_slab [\"top_slot_bit\":true,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~9~0 ~8~9~20 wooden_slab [\"top_slot_bit\":false,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~9~8~0 ~9~8~20 planks [\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~9~9~0 ~12~9~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~10~7~0 ~10~7~20 planks [\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~10~8~0 ~10~8~20 oak_stairs [\"upside_down_bit\":false,\"weirdo_direction\":1]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~11~5~0 ~11~6~20 planks [\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~11~7~0 ~11~7~20 oak_stairs [\"upside_down_bit\":false,\"weirdo_direction\":1]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~11~8~0 ~12~8~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~12~3~0 lantern [\"hanging\":true]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~12~4~0 ~12~4~20 planks [\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~12~5~0 ~12~5~20 oak_stairs [\"upside_down_bit\":false,\"weirdo_direction\":1]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~12~6~0 ~12~7~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~0~0~1 ~0~0~20 grass",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~0~1~1 ~0~2~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~0~3~1 ~0~3~19 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~0~1 ~4~0~1 dirt [\"dirt_type\":\"normal\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~1~1 ~4~1~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~2~1 ~2~4~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~5~1 ~10~5~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~6~1 ~4~6~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~2~1 ~3~3~1 stained_glass_pane [\"color\":\"silver\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~4~1 ~4~4~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~7~1 ~4~7~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~2~1 ~4~3~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~8~1 ~8~8~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~0~1 ~7~0~1 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~1~1 ~7~4~4 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~6~1 ~7~7~1 stained_glass_pane [\"color\":\"silver\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~0~1 ~11~0~1 dirt [\"dirt_type\":\"normal\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~1~1 ~11~1~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~2~1 ~8~4~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~6~1 ~10~6~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~7~1 ~9~7~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~9~2~1 ~9~3~1 stained_glass_pane [\"color\":\"silver\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~9~4~1 ~11~4~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~10~2~1 ~11~3~1 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~12~0~1 ~12~0~20 grass",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~12~1~1 ~12~2~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~12~3~1 ~12~3~19 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~0~2 ~1~0~19 dirt [\"dirt_type\":\"normal\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~1~2 ~1~4~19 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~0~2 ~6~0~2 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~1~2 ~2~1~3 hay_block [\"deprecated\":0,\"pillar_axis\":\"x\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~2~2 hay_block [\"deprecated\":0,\"pillar_axis\":\"x\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~3~2 ~4~5~7 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~6~2 ~10~6~4 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~1~2 ~3~1~3 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~2~2 ~4~2~16 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~7~2 ~9~7~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~1~2 ~4~1~13 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~8~2 ~4~8~18 wooden_slab [\"top_slot_bit\":true,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~5~2 ~10~5~4 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~8~2 ~5~8~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~8~2 lantern [\"hanging\":true]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~7~0~2 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~7~8~2 ~7~8~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~0~2 ~10~0~18 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~1~2 ~8~1~3 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~2~2 ~9~4~17 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~8~2 ~8~8~18 wooden_slab [\"top_slot_bit\":true,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~9~1~2 ~10~1~2 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~10~2~2 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~10~3~2 ~10~4~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~11~0~2 ~11~0~19 dirt [\"dirt_type\":\"normal\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~11~1~2 ~11~4~19 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~0~3 ~4~0~4 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~2~3 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~5~0~3 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~0~3 ~7~0~4 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~8~3 ~6~8~17 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~9~1~3 ~9~1~4 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~10~1~3 hay_block [\"deprecated\":0,\"pillar_axis\":\"x\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~10~2~3 ~10~2~17 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~1~4 hay_block [\"deprecated\":0,\"pillar_axis\":\"z\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~2~4 ~2~2~7 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~1~4 ~3~1~13 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~0~4 ~5~0~11 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~8~1~4 spruce_fence_gate [\"direction\":3,\"in_wall_bit\":false,\"open_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~10~1~4 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~0~5 ~2~0~11 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~1~5 ~2~1~7 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~6~5 ~10~6~5 wooden_slab [\"top_slot_bit\":false,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~3~0~5 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~0~5 ~4~0~6 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~1~5 ~5~5~13 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~0~5 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~1~5 ~9~1~5 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~2~5 ~7~3~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~4~5 lantern [\"hanging\":true]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~5~5 chain [\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~7~0~5 ~7~0~18 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~7~4~5 ~7~5~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~5~5 ~10~5~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~10~1~5 spruce_fence_gate [\"direction\":0,\"in_wall_bit\":false,\"open_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~6~6 ~10~6~9 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~0~6 ~3~0~8 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~0~6 ~6~0~18 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~1~6 spruce_fence_gate [\"direction\":3,\"in_wall_bit\":false,\"open_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~4~6 ~6~5~9 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~7~1~6 ~10~1~9 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~4~0~7 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~1~7 ~6~1~10 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~1~8 spruce_trapdoor [\"direction\":3,\"open_bit\":true,\"upside_down_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~2~8 spruce_stairs [\"upside_down_bit\":true,\"weirdo_direction\":1]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~3~8 ~2~3~12 barrel [\"facing_direction\":5,\"open_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~4~8 ~2~4~10 barrel [\"facing_direction\":5,\"open_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~5~8 ~2~5~10 wooden_slab [\"top_slot_bit\":false,\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~3~8 ~4~5~17 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~0~8 ~4~0~14 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~1~9 ~2~1~11 cauldron [\"cauldron_liquid\":\"water\",\"fill_level\":6]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~2~9 ~2~2~11 wooden_slab [\"top_slot_bit\":true,\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~3~0~9 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~6~10 ~10~6~10 wooden_slab [\"top_slot_bit\":false,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~0~10 ~3~0~13 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~4~10 lantern [\"hanging\":true]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~5~10 chain [\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~7~1~10 ~8~1~10 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~9~1~10 spruce_fence_gate [\"direction\":0,\"in_wall_bit\":false,\"open_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~10~1~10 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~4~11 ~2~4~12 wooden_slab [\"top_slot_bit\":false,\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~5~11 ~2~5~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~6~11 ~10~6~14 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~1~11 spruce_fence_gate [\"direction\":1,\"in_wall_bit\":false,\"open_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~4~11 ~6~5~14 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~7~1~11 ~10~1~13 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~0~12 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~1~12 spruce_trapdoor [\"direction\":2,\"open_bit\":true,\"upside_down_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~2~12 spruce_stairs [\"upside_down_bit\":true,\"weirdo_direction\":1]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~5~0~12 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~1~12 ~6~1~18 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~0~13 ~2~0~18 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~1~13 ~2~4~13 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~0~13 ~5~0~15 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~1~14 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~2~14 ~2~4~16 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~3~0~14 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~3~1~14 spruce_fence_gate [\"direction\":0,\"in_wall_bit\":false,\"open_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~1~14 ~5~1~14 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~2~14 ~5~5~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~7~1~14 ~8~1~14 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~9~1~14 spruce_fence_gate [\"direction\":0,\"in_wall_bit\":false,\"open_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~10~1~14 fence [\"wood_type\":\"spruce\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~1~15 ~5~1~15 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~6~15 ~10~6~15 wooden_slab [\"top_slot_bit\":false,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~0~15 ~3~0~18 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~4~0~15 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~4~15 lantern [\"hanging\":true]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~5~15 chain [\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~7~1~15 ~10~1~17 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~1~16 ~3~1~16 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~6~16 ~10~6~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~0~16 ~4~0~18 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~1~16 ~5~1~16 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~5~0~16 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~6~4~16 ~6~5~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~1~17 ~2~2~18 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~3~17 hay_block [\"deprecated\":0,\"pillar_axis\":\"x\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~4~17 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~3~1~17 hay_block [\"deprecated\":0,\"pillar_axis\":\"z\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~2~17 ~3~2~18 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~1~17 ~4~1~18 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~4~2~17 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~5~0~17 dirt [\"dirt_type\":\"coarse\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~1~17 ~5~1~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~3~18 ~3~3~18 hay_block [\"deprecated\":0,\"pillar_axis\":\"z\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~2~4~18 hay_block [\"deprecated\":0,\"pillar_axis\":\"x\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~3~1~18 hay_block [\"deprecated\":0,\"pillar_axis\":\"x\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~4~18 ~4~5~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~4~2~18 hay_block [\"deprecated\":0,\"pillar_axis\":\"y\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~4~3~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~5~0~18 gravel",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~6~8~18 lantern [\"hanging\":true]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~7~1~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~1~18 ~10~1~18 cauldron [\"cauldron_liquid\":\"water\",\"fill_level\":6]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~2~18 ~10~2~18 tripwire_hook [\"attached_bit\":false,\"direction\":2,\"powered_bit\":false]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~3~18 ~9~4~18 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~0~19 ~10~0~19 dirt [\"dirt_type\":\"normal\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~1~19 ~10~4~19 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~5~19 ~3~6~19 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~7~19 ~4~7~19 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~5~19 ~8~6~19 stained_glass_pane [\"color\":\"silver\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~4~8~19 ~8~8~19 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~7~19 ~7~7~19 stained_glass_pane [\"color\":\"silver\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~8~7~19 ~9~7~19 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~9~5~19 ~10~6~19 brick_block",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~0~3~20 lantern [\"hanging\":true]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~0~20 ~11~0~20 grass",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~1~1~20 ~11~4~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~2~5~20 ~10~6~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~3~7~20 ~9~7~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~4~8~20 wooden_slab [\"top_slot_bit\":true,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "fill ~5~8~20 ~7~8~20 air",
+            "cmd_ver" : 20
+         },
+         {
+            "cmd_line" : "setblock ~8~8~20 wooden_slab [\"top_slot_bit\":true,\"wood_type\":\"oak\"]",
+            "cmd_ver" : 20
+         }
+      ],
+      "mode" : 0,
+      "text" : "Made by HazyHayden\nHazy#6098",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§cKill NPC",
+      "data" : [
+         {
+            "cmd_line" : "kill @s",
+            "cmd_ver" : 20
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill @s",
+      "type" : 1
+   }
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-180f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§cRed Barn",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"Â§3This Â§dInstant-Build Â§3was Made by Â§dHazyHayden.                                Â§3Discord: Â§cHazy#6098.",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[0f,0f,0f],Rawtext:"Â§cRed Barn",Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:4,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Count:1b,Damage:0s,Name:"minecraft:chain",Slot:4b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Block:{name:"minecraft:moving_block",states:{},version:17959425},CanPlaceOn:["minecraft:grass","minecraft:dirt"],Count:1b,Damage:0s,Name:"minecraft:moving_block",Slot:6b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["","Â§rÂ§dMade by Â§gHazyHayden","Â§rÂ§bDiscord: Â§aHazy#6098"],Name:"Â§rÂ§dUnderground BunkerÂ§0"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+{
+"button_name" : "Â§9Build",
+"data" : [
+{
+"cmd_line" : "/fill ~-9~-22~10 ~5~-26~-2 air",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-9~-22~10 ~9~-26~5 air",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-9~-22~10 ~-3~-26~-8 air",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~-26~-4 ~-3~2~-2 air",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~5~-22~10 ~-8~-26~-2 planks 0 outline",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-7~-22~-2 ~-3~-26~-8 planks 0 outline",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~0~-1 ~0~1~-1 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-3~0~-1 ~-3~1~-1 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~1~-4 ~-3~-25~-2 planks 0 hollow",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~1~-4 ~-3~1~-4 wooden_slab",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-1~1~-4 ~-2~1~-4 oak_stairs 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-1~3~-3 ~-2~0~-1 air",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~0~-4 ~0~-25~-4 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-3~0~-4 ~-3~-25~-4 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~-2~-2 ~0~-25~-2 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-3~-2~-2 ~-3~-25~-2 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-1~2~-3 ~-2~2~-3 wooden_slab",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~2~-2 ~-3~2~-2 wooden_slab",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-1~2~-2 ~-2~2~-2 oak_stairs 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~0~2~-1 oak_stairs 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-3~2~-1 oak_stairs 0",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-1~2~-1 ~-2~2~-1 oak_stairs 7",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~-1~-1 ~-3~-1~-1 grass",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-1~0~-1 ~-2~0~-1 spruce_door 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~5~-26~10 ~-8~-27~-4 cobblestone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-8~-26~-4 ~-3~-27~-8 cobblestone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-2~-25~-3 ~-2~0~-3 ladder 0",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~-26~-3 powder_snow",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~-25~-3 carpet 14",
+"cmd_ver" : 20
+}
+],
+"mode" : 0,
+"text" : "Hazy#6098 on Discord",
+"type" : 1
+},
+{
+"button_name" : "",
+"data" : [
+{
+"cmd_line" : "/fill ~-1~-25~-2 ~-2~-25~-2 spruce_door 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-1~-23~-2 ~-2~-23~-2 oak_stairs 7",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-7~-26~-2 ~-7~-22~-2 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-8~-26~-1 ~-8~-22~-1 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~4~-26~-2 ~4~-22~-2 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~5~-26~-1 ~5~-22~-1 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~5~-26~5 ~5~-22~5 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~5~-26~9 ~5~-22~9 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~4~-26~10 ~4~-22~10 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~-26~10 ~0~-22~10 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-7~-26~-4 ~-7~-22~-4 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-7~-26~-8 ~-7~-22~-8 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-3~-26~-8 ~-3~-22~-8 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~1~-25~-2 ~3~-23~-2 bookshelf",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~-25~-1 ~0~-23~1 fence",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-7~-22~9 ~4~-22~-1 cobblestone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-6~-22~-3 ~-4~-22~-7 cobblestone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-3~-25~-8 ~-7~-23~-5 bookshelf 0 replace planks",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-6~-22~-4 ~-4~-22~-4 log 4",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-5~-25~-3 ~-5~-25~-1 spruce_pressure_plate",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-25~-2 spruce_door 3",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-2~-25~-1 ~-1~-25~-1 spruce_pressure_plate",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~4~-25~-1 bed 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~3~-25~-1 crafting_table",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~5~-25~6 ~5~-23~8 air",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-2~-26~5 ~-7~-27~9 air",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-9~-28~10 ~-1~-28~4 brick_block",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-1~-26~5 ~-1~-26~9 stone_stairs",
+"cmd_ver" : 20
+}
+],
+"mode" : 1,
+"text" : "Made by HazyHayden",
+"type" : 1
+},
+{
+"button_name" : "",
+"data" : [
+{
+"cmd_line" : "/setblock ~-1~-26~5 stone_stairs 3",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-2~-27~5 ~-2~-27~9 stone_stairs",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-2~-27~5 stone_stairs 3",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-1~-28~10 ~-8~-26~10 planks",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-9~-28~8 ~-9~-22~5 planks",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-8~-27~8 ~-8~-23~5 chest 5",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~0~-26~10 ~0~-22~10 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-3~-28~10 ~-3~-22~10 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-7~-28~10 ~-7~-22~10 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-8~-28~9 ~-8~-22~9 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-8~-28~4 ~-8~-22~4 log",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-4~-27~10 ~-4~-23~10 blast_furnace 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-5~-27~10 ~-5~-23~10 furnace 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-6~-27~10 ~-6~-23~10 smoker 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-25~-6 enchanting_table",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-7~-25~-1 ~-7~-25~3 wooden_slab 8",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-7~-25~3 cauldron 7",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-7~-25~-1 oak_stairs 7",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-7~-24~-1 ~-7~-24~2 brewing_stand",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-7~-26~0 water",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-7~-27~4 anvil 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-6~-27~4 crafting_table",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-27~4 lodestone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-4~-27~4 cartography_table",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-3~-27~4 grindstone 9",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~3~-25~9 ~3~-23~9 dark_oak_trapdoor 8",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~1~-25~9 ~1~-23~9 dark_oak_trapdoor 9",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~2~-26~9 planks 5",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~2~-24~9 fence 5",
+"cmd_ver" : 20
+}
+],
+"mode" : 1,
+"text" : "Made by HazyHayden",
+"type" : 1
+},
+{
+"button_name" : "",
+"data" : [
+{
+"cmd_line" : "/setblock ~2~-25~9 bell 4",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~2~-23~9 noteblock",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~-5~-25~0 ~-1~-25~3 carpet 14",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~-25~3 carpet 15",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-2 ~-25 ~2 carpet 15",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-3 ~-25 ~3 carpet 15",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-4 ~-25 ~2 carpet 15",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5 ~-25 ~3 carpet 15",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/clone ~-1~-25~3 ~-5~-25~2 ~-5~-25~0",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/clone ~-1~-25~3 ~-3~-25~0 ~1~-25~4",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~3~-25~8 ~1~-25~8 carpet 14",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~2~-25~8 carpet 15",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-3~-26~10 crafting_table",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-7~-26~10 crafting_table",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-8~-26~9 crafting_table",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/summon armor_stand ~~~",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/replaceitem entity @e[type=armor_stand,r=1] slot.armor.head",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/replaceitem entity @e[type=armor_stand,r=1] slot.armor.head 0 iron_helmet 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/replaceitem entity @e[type=armor_stand,r=1] slot.armor.chest 0 diamond_chestplate 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/replaceitem entity @e[type=armor_stand,r=1] slot.armor.legs 0 iron_leggings 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/replaceitem entity @e[type=armor_stand,r=1] slot.armor.feet 0 iron_boots 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/replaceitem entity @e[type=armor_stand,r=1] slot.weapon.mainhand 0 diamond_sword 1",
+"cmd_ver" : 20
+}
+],
+"mode" : 1,
+"text" : "Made by HazyHayden",
+"type" : 1
+},
+{
+"button_name" : "",
+"data" : [
+{
+"cmd_line" : "/enchant @e[type=armor_stand,r=1] unbreaking 3",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/enchant @e[type=armor_stand,r=1] sharpness 5",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/enchant @e[type=armor_stand,r=1] mending 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/enchant @e[type=armor_stand,r=1] looting 3",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/enchant @e[type=armor_stand,r=1] knockback 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/enchant @e[type=armor_stand,r=1] fire_aspect 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/enchant @e[type=armor_stand,r=1] vanishing 1",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/tp @e[type=armor_stand,r=1] ~4~-25~5 facing ~3~-25~5",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~5~-22~8 ~6~-22~6 cobblestone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~6~-22~6 stone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~7~-22~6 ~8~-22~8 stone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~7~-22~7 cobblestone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~6~-25~5 ~9~-23~5 stone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~6~-24~5 planks",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~6~-25~9 ~9~-23~9 stone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~6~-24~9 planks",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~9~-26~9 ~6~-26~5 stone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~6~-26~7 cobblestone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~8~-25~5 ~9~-23~9 stone",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~8~-23~7 ~8~-23~6 air",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~8~-24~6 lantern",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~7~-23~6 ~7~-25~6 fence",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~7~-23~8 ~7~-25~8 fence",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/fill ~7~-23~6 ~7~-23~8 planks",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-28~7 redstone_lamp",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-29~7 redstone_block",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-22~7 redstone_lamp",
+"cmd_ver" : 20
+}
+],
+"mode" : 1,
+"text" : "Made by HazyHayden",
+"type" : 1
+},
+{
+"button_name" : "",
+"data" : [
+{
+"cmd_line" : "/setblock ~-5~-21~7 redstone_block",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~-22~4 redstone_lamp",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~-21~4 redstone_block",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~2~-22~7 redstone_lamp",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~2~-21~7 redstone_block",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~2~-22~1 redstone_lamp",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~2~-21~1 redstone_block",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-22~1 redstone_lamp",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-21~1 redstone_block",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-22~-6 redstone_lamp",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-5~-21~-6 redstone_block",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~-23~-3 torch 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~-16~-3 torch 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~-9~-3 torch 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~0~-3 torch 2",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~-25~-2 spruce_door [\"direction\":1,\"door_hinge_bit\":false,\"open_bit\":false,\"upper_block_bit\":false]",
+"cmd_ver" : 20
+},
+{
+"cmd_line" : "/setblock ~-1~0~-1 spruce_door [\"direction\":1,\"door_hinge_bit\":false,\"open_bit\":false,\"upper_block_bit\":false]",
+"cmd_ver" : 20
+}
+],
+"mode" : 1,
+"text" : "Made by HazyHayden",
+"type" : 1
+},
+{
+"button_name" : "Â§cKill",
+"data" : [
+{
+"cmd_line" : "kill\t@e[type=npc,r=1]",
+"cmd_ver" : 12
+}
+],
+"mode" : 0,
+"text" : "kill@e[type=npc,r=1]",
+"type" : 1
+}
+]
+
+
+
+
+
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-180f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§dUnderground Bunker",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"Â§3This Â§dInstant-Build Â§3was Made by Â§dHazyHayden.                                Â§3Discord: Â§cHazy#6098.",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[0f,0f,0f],Rawtext:"Â§dUnderground Bunker",Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:30,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Count:1b,Damage:0s,Name:"minecraft:chain",Slot:7b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Block:{name:"minecraft:iron_bars",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:iron_bars",Slot:8b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Block:{name:"minecraft:iron_bars",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:iron_bars",Slot:9b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Count:1b,Damage:0s,Name:"minecraft:chain",Slot:10b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Count:1b,Damage:0s,Name:"minecraft:name_tag",Slot:13b,WasPickedUp:0b,tag:{display:{Lore:["Â§rÂ§bDiscord: Â§aHazy#6098","Â§rÂ§dFeel Free to send over future suggestions :)"],Name:"Â§rÂ§bThis Build NBT Kit was Â§cÂ§oEntirely Â§rÂ§bmade by Â§gHazyHayden"},ench:[{id:-1s,lvl:0s}]}},{Count:1b,Damage:0s,Name:"minecraft:chain",Slot:16b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Block:{name:"minecraft:iron_bars",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:iron_bars",Slot:17b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Block:{name:"minecraft:iron_bars",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:iron_bars",Slot:18b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Count:1b,Damage:0s,Name:"minecraft:chain",Slot:19b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Block:{name:"minecraft:moving_block",states:{},version:17959425},CanPlaceOn:["minecraft:grass","minecraft:dirt"],Count:1b,Damage:0s,Name:"minecraft:moving_block",Slot:20b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["","Â§rÂ§dMade by Â§gHazyHayden","Â§rÂ§bDiscord: Â§aHazy#6098"],Name:"Â§rÂ§cMushroom CottageÂ§0"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[{ "button_name" : " Â§9Build", "data" : [
+{ "cmd_line" : "/fill\t~~~\t~9~9~9\tair", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~~-1~\t~9~-1~9\tgrass", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~0~1\t~6~3~1\tplanks\t2", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~1~~2\t~1~3~6\tplanks\t2", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~7~~2\t~7~3~6\tplanks\t2", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~~7\t~6~3~7\tplanks\t2", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~-1~2\t~6~-1~6\tplanks", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~5~~1\tbirch_door\t3", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~3~1~1\tstained_glass_pane", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~1~1~4\tstained_glass_pane", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~3~1~7\t~5~1~7\tstained_glass_pane", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~5~-1~3\t~1~-1~7\tbookshelf", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~4~-1~4\t~2~-1~6\tair", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~4~-2~4\t~2~-2~6\tobsidian", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~1~-1~7\tgrass", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~3~-1~5\tenchanting_table", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~~2\tcrafting_table", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~1~2\tcartography_table", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~3~~2\tender_chest\t7", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~4~~2\tbarrel\t1", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~~5\tanvil", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~~6\tgrindstone", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~2~2\t~6~2~6\twooden_slab\t10", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~6~2~2\t~6~2~6\tair", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~~3\tstone_stairs\t2", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~1~4\tstone_stairs\t2", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~2~5\tstone_stairs\t2", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~~4\tstone_stairs\t7", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~1~5\tstone_stairs\t7", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~2~6\tstone_stairs\t7", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~~3~2\t~~3~6\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~8~3~2\t~8~3~6\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~3~\t~6~3~\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~3~8\t~6~3~8\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~1~3~1\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~7~3~1\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~7~3~7\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~1~3~7\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~1~4~2\t~1~4~6\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~4~1\t~6~4~1\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~7~4~2\t~7~4~6\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~4~7\t~6~4~7\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~4~2\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~4~2\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~4~6\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~4~6\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~5~3\t~6~5~5\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~3~5~2\t~5~5~6\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~4~5~7\tred_mushroom_block\t14", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~4~4~7\tstained_glass_pane", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~1~5~5\t~1~6~5\tspruce_trapdoor\t9", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~3~6~5\tspruce_trapdoor\t8", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~5~6\t~2~6~6\tspruce_trapdoor\t10", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~6~4\tspruce_trapdoor\t11", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~6~5\tcampfire", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~3~6\tcrafting_table", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~3~2\tcrafting_table", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~3~6\tbarrel\t1", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~3~5\tbed\t1", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~2~3~4\t~2~3~3\tchest\t5", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~3~3~2\t~5~3~2\tfurnace", "cmd_ver" : 12 }, { "cmd_line" : "/fill\t~3~4~2\t~5~4~2\tsmoker", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~4~4~2\tblast_furnace", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~3~4~6\ttorch\t1", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~1~3\ttorch\t1", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~1~5\ttorch\t1", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~5~4~6\ttorch\t2", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~4~3\ttorch\t3", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~4~3\ttorch\t3", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~1~2\ttorch\t3", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~1~6\ttorch\t4", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~1~6\ttorch\t4", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~6~4~5\ttorch\t4", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~2~4~5\ttorch\t4", "cmd_ver" : 12 }, { "cmd_line" : "/setblock\t~4~1~2\tcandle\t6", "cmd_ver" : 12 }],
+"mode" : 0,
+"text" : "built by HazyHayden",
+"type" : 1
+},
+{
+"button_name" : " Â§cKill",
+"data" : [
+{
+"cmd_line" : "kill\t@e[type=npc,r=1]",
+"cmd_ver" : 12
+}
+],
+"mode" : 0,
+"text" : "kill@e[type=npc,r=1]",
+"type" : 1
+}
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-180f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§cMushroom Cottage",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"Â§3This Â§dInstant-Build Â§3was Made by Â§dHazyHayden.                                Â§3Discord: Â§cHazy#6098.",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[0f,0f,0f],Rawtext:"Â§cMushroom Cottage",Rotation:[0f,0f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:3,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Count:1b,Damage:0s,Name:"minecraft:chain",Slot:22b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Block:{name:"minecraft:moving_block",states:{},version:17959425},CanPlaceOn:["minecraft:grass","minecraft:dirt"],Count:1b,Damage:0s,Name:"minecraft:moving_block",Slot:24b,WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["","Â§rÂ§cMade by Â§gHazyHayden","Â§rÂ§bDiscord: Â§aHazy#6098"],Name:"Â§rÂ§gHazy's Cozy CabinÂ§0"},ench:[{id:28s,lvl:1s}],movingBlock:{name:"minecraft:red_flower",states:{},version:17879555},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+{
+"button_name" : "Â§9Build",
+"data" : [
+{
+"cmd_line" : "/fill\t~5~3~-1\t~-5~-4~-15\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-5~-4~-15\t~-5~0~-1\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5~-4~-15\t~5~0~-1\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~1~-1\t~-4~1~-15\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~1~-2\t~-4~1~-14\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3~2~-1\t~-2~2~-15\tcobblestone
+",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3~2~-2\t~-2~2~-14\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1~3~-1\t~1~3~-15\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1~3~-2\t~1~3~-14\tplanks
+",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~-1~-1\t~4~-4~-1\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~-1~-1\t~4~-1~-1\tlog\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~-1~-15\t~4~-4~-15\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~-1~-15\t~4~-1~-15\tlog\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~0~-2\t~4~-4~-2\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3~1~-2\t~3~1~-2\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1~2~-2\t~1~2~-2\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~0~-14\t~4~-4~-14\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3~1~-14\t~3~1~-14\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-1~2~-14\t~1~2~-14\tplanks\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~1~-14\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3~2~-14\t~2~2~-14\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~1~-15\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3~2~-15\t~2~2~-15\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~2~-13\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3~3~-13\t~2~3~-6\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~3~-12\t~4~3~-8\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~2~-7\t~4~2~-6\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~1~-5\t~4~1~-2\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2~3~-5\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3~2~-5\t~2~2~-2\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2~2~-5\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5~1~-14\t~5~1~-6\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5~2~-8\t~5~2~-13\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~1~-1\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3~2~-1\t~2~2~-1\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~5~1~-10\t~5~1~-11\tstained_glass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2~0~-2\tstained_glass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2~0~-2\tstained_glass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2~1~-14\tstained_glass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2~1~-14\tstained_glass_pane",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~0~0~-2\tspruce_door\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~0~0~-14\tspruce_door\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~-3~-3\t~4~-4~-6\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~-2~-3\t~4~-2~-7\twooden_slab",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1~-2~-3\t~-1~-2~-3\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1~-1~-3\toak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~0~-1~-3\toak_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1~-1~-3\toak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-2~-2~-4\t~2~-2~-4\toak_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2~-2~-3\toak_stairs",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~2~-2~-3\toak_stairs\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~-2~-7\t~3~-2~-7\toak_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~-2~-8\t~3~-2~-8\toak_stairs\t6",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~-1~-8\t~3~-1~-8\toak_stairs\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~-1~-9\t~3~-1~-9\toak_stairs\t6",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3~-1~-10\t~4~-1~-10\twooden_slab\t8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~-1~-11\t~-4~-1~-13\twooden_slab\t8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~0~-13\t~-4~0~-11\toak_stairs\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3~0~-13\t~-3~0~-11\twooden_slab\t8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2~0~-10\t~-4~0~-10\tspruce_trapdoor\t10",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~3~0~-9\t~3~0~-10\tspruce_trapdoor\t8",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3~1~-13\t~-3~1~-11\tbrewing_stand",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~0~-13\tbed\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3~0~-13\tcrafting_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~-2~-3\tcrafting_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~-1~-3\tgrindstone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~-2~-4\tbarrel\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~-1~-4\tanvil",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~-4~-7\t~4~-4~-13\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~-1~-13\t~-4~-3~-13\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~-3~-11\t~4~-2~-12\tchest\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1~-4~-7\t~5~-4~-11\tbookshelf",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~1~-5~-7\t~5~-5~-11\tcobblestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~2~-4~-8\t~4~-4~-10\tair",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3~-4~-9\tenchanting_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~4~-3~-7\t~2~-3~-7\tbookshelf",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1~-3~-7\tsmithing_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~0~-3~-7\tcrafting_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1~-3~-7\tcartography_table",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-2~-3~-7\tlodestone",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3~-3~-7\t~-4~-3~-7\tplanks",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-3~-3~-8\t~-4~-3~-8\toak_stairs\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~-1~-10\t~2~-1~-10\tframe\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~0~-1~-2\tlog\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~0~-1~-14\tlog\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-1~1~-13\ttorch\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~1~1~-13\ttorch\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~1~-12\ttorch\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~4~1~-9\ttorch\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~3~0~-3\ttorch\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-3~0~-3\ttorch\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~0~2~-3\ttorch\t4",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/setblock\t~-4~-1~-9\ttorch\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~1~-7\t~-4~1~-9\tstained_glass",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/fill\t~-4~2~-7\t~-4~2~-9\twooden_slab",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/kill\t@e[type=armor_stand,r=10]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/kill\t@e[type=item,r=10,name=\"Iron\tHelmet\"]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/kill\t@e[type=item,r=10,name=\"Diamond\tChestplate\"]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/kill\t@e[type=item,r=10,name=\"Iron\tLeggings\"]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/kill\t@e[type=item,r=10,name=\"Iron\tBoots\"]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/kill\t@e[type=item,r=10,name=\"Diamond\tSword\"]",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/summon\tarmor_stand\t~-4~-1~-5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/tp\t@e[type=armor_stand,r=10]\t~-4~-1~-5\tfacing\t~-3~-1~-5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tentity\t@e[type=armor_stand,r=10]\tslot.armor.head\t0\tiron_helmet\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tentity\t@e[type=armor_stand,r=10]\tslot.armor.chest\t0\tdiamond_chestplate\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tentity\t@e[type=armor_stand,r=10]\tslot.armor.legs\t0\tiron_leggings\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tentity\t@e[type=armor_stand,r=10]\tslot.armor.feet\t0\tiron_boots\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/replaceitem\tentity\t@e[type=armor_stand,r=10]\tslot.weapon.mainhand\t0\tdiamond_sword\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/enchant\t@e[type=armor_stand,r=15]\tunbreaking\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/enchant\t@e[type=armor_stand,r=15]\tsharpness\t5",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/enchant\t@e[type=armor_stand,r=15]\tmending\t1",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/enchant\t@e[type=armor_stand,r=15]\tlooting\t3",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/enchant\t@e[type=armor_stand,r=15]\tknockback\t2",
+"cmd_ver" : 12
+},
+{
+"cmd_line" : "/enchant\t@e[type=armor_stand,r=15]\tfire_aspect\t2",
+"cmd_ver" : 12
+}
+],
+"mode" : 0,
+"text" : "Made by HazyHayden",
+"type" : 1
+},
+{
+"button_name" : "Â§cKill",
+"data" : [
+{
+"cmd_line" : "kill\t@e[type=npc,r=1]",
+"cmd_ver" : 12
+}
+],
+"mode" : 0,
+"text" : "kill@e[type=npc,r=1]",
+"type" : 1
+}
+]
+
+
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-111.861f,Chested:0b,Color:0b,Color2:0b,CustomName:"Â§cCozy Cabin",CustomNameVisible:1b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,InterativeText:"Â§3This Â§5Instant-Build Â§3was Made by Â§5HazyHayden                                    Â§3Discord: Â§2Hazy#6098",Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:-1l,Persistent:1b,PortalCooldown:0,Pos:[66.0602f,64f,-4.13513f],Rawtext:"Â§cCozy Cabin",Rotation:[0f,25.7197f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-64424509410l,Variant:3,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:1}],ShouldSpawnBees:0b,id:"Beehive",isMovable:1b}}},{Count:1b,Damage:0s,Name:"minecraft:chain",Slot:25b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}},{Block:{name:"minecraft:iron_bars",states:{},version:17959425},Count:1b,Damage:0s,Name:"minecraft:iron_bars",Slot:26b,WasPickedUp:0b,tag:{display:{Name:"Â§rÂ§0"},ench:[{id:-1s,lvl:0s}]}}],display:{Lore:["Â§rÂ§dMade by Â§gHazyHayden","Â§rÂ§bDiscord: Â§aHazy#6098"],Name:"Â§rÂ§gï¼¨ï½ï½šï½™ï¼‡ï½“ Â§bï¼¢ï½•ï½‰ï½Œï½„ ï¼®ï¼¢ï¼´ Â§aï¼£ï½’ï½ï½”ï½…"}}}

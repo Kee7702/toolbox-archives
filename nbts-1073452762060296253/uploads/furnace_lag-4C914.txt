@@ -1,0 +1,1 @@
+{Block:{name:"minecraft:blast_furnace",version:17825808,states:{facing_direction:0}},Count:50b,tag:{StoredXPInt:990999000},Damage:0s,WasPickedUp:0b,Name:"minecraft:blast_furnace"}

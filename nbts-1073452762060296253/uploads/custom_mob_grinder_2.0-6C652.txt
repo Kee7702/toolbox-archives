@@ -1,0 +1,181 @@
+{Block:{name:"minecraft:shulker_box",states:{color:"white"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:shulker_box",WasPickedUp:0b,tag:{Items:[{Block:{name:"minecraft:movingBlock",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:movingblock",Slot:0b,WasPickedUp:0b,tag:{RepairCost:0,display:{Name:"custom mob grinder"},ench:[{id:0s,lvl:1s}],movingBlock:{name:"minecraft:leaves",states:{},version:17760256},movingEntity:{CustomName:"Â§1",Occupants:[{ActorIdentifier:"minecraft:command_block_minecart<>",SaveData:{Actions:"[
+   {
+      "button_name" : "build",
+      "data" : [
+         {
+            "cmd_line" : "/fill ~ ~8 ~-5 ~1 ~8 ~-4 tinted_glass 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/fill ~2 ~3 ~-6 ~-1 ~7 ~-3 stonebrick 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/fill ~ ~3 ~-5 ~1 ~7 ~-4 air 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~ ~3 ~-3 trapdoor 11 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~1 ~3 ~-3 tinted_glass 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~1 ~5 ~-6 quartz_bricks 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~1 ~6 ~-3 air 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/fill ~ ~4 ~-2 ~1 ~4 ~-2 tinted_glass 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~ ~4 ~-7 glass 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-1 ~3 ~-2 tinted_glass 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~2 ~3 ~-2 tinted_glass 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-2 ~2 ~-4 stonebrick 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~ ~2 ~-7 stonebrick 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~3 ~2 ~-5 stonebrick 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-1 ~ ~1 stonebrick 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-1 ~1 ~ stonebrick 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-1 ~2 ~-1 stonebrick 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~ ~1 ~-6 stonebrick 0 replace",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 0,
+      "text" : "/fill ~ ~8 ~-5 ~1 ~8 ~-4 tinted_glass 0 replace\n/fill ~2 ~3 ~-6 ~-1 ~7 ~-3 stonebrick 0 replace\n/fill ~ ~3 ~-5 ~1 ~7 ~-4 air 0 replace\n/setblock ~ ~3 ~-3 trapdoor 11 replace\n/setblock ~1 ~3 ~-3 tinted_glass 0 replace\n/setblock ~1 ~5 ~-6 quartz_bricks 0 replace\n/setblock ~1 ~6 ~-3 air 0 replace\n/fill ~ ~4 ~-2 ~1 ~4 ~-2 tinted_glass 0 replace\n/setblock ~ ~4 ~-7 glass 0 replace\n/setblock ~-1 ~3 ~-2 tinted_glass 0 replace\n/setblock ~2 ~3 ~-2 tinted_glass 0 replace\n/setblock ~-2 ~2 ~-4 stonebrick 0 replace\n/setblock ~ ~2 ~-7 stonebrick 0 replace\n/setblock ~3 ~2 ~-5 stonebrick 0 replace\n/setblock ~-1 ~ ~1 stonebrick 0 replace\n/setblock ~-1 ~1 ~ stonebrick 0 replace\n/setblock ~-1 ~2 ~-1 stonebrick 0 replace\n/setblock ~ ~1 ~-6 stonebrick 0 replace",
+      "type" : 1
+   },
+   {
+      "button_name" : "",
+      "data" : [
+         {
+            "cmd_line" : "/setblock ~-1 ~2 ~-2 stonebrick 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~2 ~2 ~-2 stonebrick 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/fill ~ ~1 ~-2 ~1 ~1 ~-2 chest 3 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~ ~2 ~-6 water 0 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~ ~2 ~-6 piston 2 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~1 ~2 ~-3 piston 3 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~2 ~2 ~-5 piston 5 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-1 ~2 ~-4 piston 4 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-1 ~2 ~-3 observer 2 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~ ~2 ~-3 observer 4 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~2 ~2 ~-3 observer 4 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~2 ~2 ~-4 observer 3 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~2 ~2 ~-6 observer 3 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~1 ~2 ~-6 observer 5 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-1 ~2 ~-6 observer 5 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-1 ~2 ~-5 observer 2 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/setblock ~-1 ~2 ~-3 observer 2 replace",
+            "cmd_ver" : 15
+         },
+         {
+            "cmd_line" : "/fill ~1 ~1 ~-3 ~ ~1 ~-5 hopper 3 replace",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 1,
+      "text" : "/setblock ~-1 ~2 ~-2 stonebrick 0 replace\n/setblock ~2 ~2 ~-2 stonebrick 0 replace\n/fill ~ ~1 ~-2 ~1 ~1 ~-2 chest 3 replace\n/setblock ~ ~2 ~-6 water 0 replace\n/setblock ~ ~2 ~-6 piston 2 replace\n/setblock ~1 ~2 ~-3 piston 3 replace\n/setblock ~2 ~2 ~-5 piston 5 replace\n/setblock ~-1 ~2 ~-4 piston 4 replace\n/setblock ~-1 ~2 ~-3 observer 2 replace\n/setblock ~ ~2 ~-3 observer 4 replace\n/setblock ~2 ~2 ~-3 observer 4 replace\n/setblock ~2 ~2 ~-4 observer 3 replace\n/setblock ~2 ~2 ~-6 observer 3 replace\n/setblock ~1 ~2 ~-6 observer 5 replace\n/setblock ~-1 ~2 ~-6 observer 5 replace\n/setblock ~-1 ~2 ~-5 observer 2 replace\n/setblock ~-1 ~2 ~-3 observer 2 replace\n/fill ~1 ~1 ~-3 ~ ~1 ~-5 hopper 3 replace",
+      "type" : 1
+   },
+   {
+      "button_name" : "",
+      "data" : [
+         {
+            "cmd_line" : "/kill @e[type=npc,r=1]",
+            "cmd_ver" : 15
+         }
+      ],
+      "mode" : 1,
+      "text" : "/kill @e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",Armor:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b},{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],AttackTime:0s,Attributes:[{Base:16f,Current:16f,DefaultMax:2048f,DefaultMin:0f,Max:2048f,Min:0f,Name:"minecraft:follow_range"},{Base:0f,Current:0f,DefaultMax:1024f,DefaultMin:-1024f,Max:1024f,Min:-1024f,Name:"minecraft:luck"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:lava_movement"},{Base:0.02f,Current:0.02f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:underwater_movement"},{Base:0.5f,Current:0.5f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:movement"},{Base:0f,Current:0f,DefaultMax:1f,DefaultMin:0f,Max:1f,Min:0f,Name:"minecraft:knockback_resistance"},{Base:0f,Current:0f,DefaultMax:16f,DefaultMin:0f,Max:16f,Min:0f,Name:"minecraft:absorption"},{Base:20f,Current:20f,DefaultMax:"3.4028235E38f",DefaultMin:0f,Max:"3.4028235E38f",Min:0f,Name:"minecraft:health"}],BodyRot:-39.8394f,Chested:0b,Color:0b,Color2:0b,Dead:0b,DeathTime:0s,FallDistance:0f,Fire:0s,HurtTime:0s,Invulnerable:0b,IsAngry:0b,IsAutonomous:0b,IsBaby:0b,IsEating:0b,IsGliding:0b,IsGlobal:0b,IsIllagerCaptain:0b,IsOrphaned:0b,IsOutOfControl:0b,IsPregnant:0b,IsRoaring:0b,IsScared:0b,IsStunned:0b,IsSwimming:0b,IsTamed:0b,IsTrusting:0b,LastDimensionId:0,LeasherID:-1l,LootDropped:0b,Mainhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],MarkVariant:0,NaturalSpawn:0b,Offhand:[{Count:0b,Damage:0s,Name:"",WasPickedUp:0b}],OnGround:1b,OwnerNew:0l,Persistent:1b,PortalCooldown:0,Pos:[460.5f,64f,220.5f],Rotation:[-90f,0.495361f],Saddled:0b,Sheared:0b,ShowBottom:0b,Sitting:0b,SkinID:0,Strength:0,StrengthMax:0,Surface:0b,Tags:[],TargetID:-1l,TradeExperience:0,TradeTier:0,UniqueID:-51539607354l,Variant:19,boundX:0,boundY:0,boundZ:0,canPickupItems:0b,definitions:["+minecraft:npc","+"],hasBoundOrigin:0b,hasSetCanPickupItems:1b,identifier:"minecraft:npc",limitedLife:0},TicksLeftToStay:0}],id:"Beehive",isMovable:1b,x:57,y:67,z:25}}},{Block:{name:"minecraft:stonebrick",states:{stone_brick_type:"default"},version:17879555},Count:1b,Damage:0s,Name:"minecraft:stonebrick",Slot:1b,WasPickedUp:0b},{Block:{name:"minecraft:lever",states:{lever_direction:"south",open_bit:1b},version:17879555},Count:1b,Damage:0s,Name:"minecraft:lever",Slot:2b,WasPickedUp:0b},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:mob_spawner",Slot:3b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:18f,DisplayEntityScale:10f,DisplayEntityWidth:8f,EntityIdentifier:"minecraft:creeper",MaxNearbyEntities:5s,MaxSpawnDelay:1s,MinSpawnDelay:1s,RequiredPlayerRange:16s,SpawnCount:4s,SpawnRange:1s,display:{Name:"creeper"}}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:mob_spawner",Slot:4b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:18f,DisplayEntityScale:10f,DisplayEntityWidth:8f,EntityIdentifier:"minecraft:skeleton",MaxNearbyEntities:5s,MaxSpawnDelay:1s,MinSpawnDelay:1s,RequiredPlayerRange:16s,SpawnCount:4s,SpawnRange:1s,display:{Name:"skeleton"}}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:mob_spawner",Slot:5b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:18f,DisplayEntityScale:10f,DisplayEntityWidth:8f,EntityIdentifier:"minecraft:evocation_illager",MaxNearbyEntities:5s,MaxSpawnDelay:1s,MinSpawnDelay:1s,RequiredPlayerRange:16s,SpawnCount:4s,SpawnRange:1s,display:{Name:"evoker"}}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:mob_spawner",Slot:6b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:18f,DisplayEntityScale:10f,DisplayEntityWidth:8f,EntityIdentifier:"minecraft:drowned",MaxNearbyEntities:5s,MaxSpawnDelay:1s,MinSpawnDelay:1s,RequiredPlayerRange:16s,SpawnCount:4s,SpawnRange:1s,display:{Name:"drowned"}}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:mob_spawner",Slot:7b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:18f,DisplayEntityScale:10f,DisplayEntityWidth:8f,EntityIdentifier:"minecraft:guardian",MaxNearbyEntities:5s,MaxSpawnDelay:1s,MinSpawnDelay:1s,RequiredPlayerRange:16s,SpawnCount:4s,SpawnRange:1s,display:{Name:"guardian"}}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:mob_spawner",Slot:8b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:18f,DisplayEntityScale:10f,DisplayEntityWidth:8f,EntityIdentifier:"minecraft:vindicator",MaxNearbyEntities:5s,MaxSpawnDelay:1s,MinSpawnDelay:1s,RequiredPlayerRange:16s,SpawnCount:4s,SpawnRange:1s,display:{Name:"vindicator"}}},{Count:1b,Damage:0s,Name:"minecraft:trident",Slot:9b,WasPickedUp:0b,tag:{ench:[{id:29s,lvl:5s}]}},{Count:1b,Damage:0s,Name:"minecraft:netherite_sword",Slot:10b,WasPickedUp:0b,tag:{ench:[{id:14s,lvl:3s}]}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:mob_spawner",Slot:11b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:18f,DisplayEntityScale:10f,DisplayEntityWidth:8f,EntityIdentifier:"minecraft:blaze",MaxNearbyEntities:5s,MaxSpawnDelay:1s,MinSpawnDelay:1s,RequiredPlayerRange:16s,SpawnCount:4s,SpawnRange:1s,display:{Name:"blaze"}}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:mob_spawner",Slot:12b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:18f,DisplayEntityScale:10f,DisplayEntityWidth:8f,EntityIdentifier:"minecraft:strider",MaxNearbyEntities:5s,MaxSpawnDelay:1s,MinSpawnDelay:1s,RequiredPlayerRange:16s,SpawnCount:4s,SpawnRange:1s,display:{Name:"strider"}}},{Block:{name:"minecraft:mob_spawner",states:{},version:17879555},Count:1b,Damage:0s,Name:"minecraft:mob_spawner",Slot:13b,WasPickedUp:0b,tag:{Delay:1s,DisplayEntityHeight:18f,DisplayEntityScale:10f,DisplayEntityWidth:8f,EntityIdentifier:"minecraft:witch",MaxNearbyEntities:5s,MaxSpawnDelay:1s,MinSpawnDelay:1s,RequiredPlayerRange:16s,SpawnCount:4s,SpawnRange:1s,display:{Name:"witch"}}},{Count:1b,Damage:0s,Name:"minecraft:written_book",Slot:14b,WasPickedUp:0b,tag:{author:"Zendarack",generation:0,pages:[{photoname:"",text:"Step 1: throw trident through trapdoor onto piston and close trapdoor.
+
+Step 2: place desired spawner onto the quartz bricks through hole in wall
+
+step 3: fill hole in wall.
+
+step 4: place lever on piston, flick twice, enjoy"},{photoname:"",text:""}],title:"how to use READ",xuid:"2535440786325565"}}],display:{Name:"mob grinder kit"}}}

@@ -1,0 +1,1 @@
+{WasPickedUp:0b,tag:{EntityType:26,RepairCost:0,definitions:["+minecraft:falling_block"],display:{Name:block}},Count:1b,Damage:5s,Name:"minecraft:bucket"}

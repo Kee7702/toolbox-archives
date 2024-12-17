@@ -1,0 +1,1 @@
+{Count:1b,tag:{EntityType:100,AppendCustomName:1b,CustomName:"",Command:"",ExecuteOnFirstTick:1b,Ticking:1b,TickDelay:0},Damage:4s,WasPickedUp:0b,Name:"minecraft:bucket"}
